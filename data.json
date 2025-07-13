@@ -1,0 +1,3210 @@
+{
+  "Hà Nội": {
+    "_info": {
+      "loai":"Thành phố",
+      "ten": "Hà Nội",
+      "donViCu": "Không sáp nhập",
+      "dienTich": "3.360 km²",
+      "danSo": "8.807.523 người",
+      "matDo": "2.621 người/km²",
+      "grdp": "161 triệu đồng/người/năm",
+      "soPhuongXa": "126",
+      "bienSo": "29, 30, 31, 32, 33, 40"
+    },
+    "An Khánh": {
+      "loai": "Xã",
+      "donViCu": "Phường Dương Nội (phần còn lại sau khi sáp nhập vào phường Tây Mỗ, phường Đại Mỗ, phường Dương Nội), Xã An Khánh (phần còn lại sau khi sáp nhập vào phường Tây Mỗ, xã Sơn Đồng), Xã An Thượng (phần còn lại sau khi sáp nhập vào xã Sơn Đồng), Xã Đông La, Xã La Phù (phần còn lại sau khi sáp nhập vào phường Dương Nội), Xã Song Phương (phần còn lại sau khi sáp nhập vào xã Sơn Đồng), Xã Vân Côn (phần còn lại sau khi sáp nhập vào xã Sơn Đồng)",
+      "dienTich": "4.509 km²",
+      "danSo": "20.104 người",
+      "matDo": "4 người/km²",
+      "tS": "Thôn Lũng Vân, xã An Khánh"
+    },
+    "Ba Đình": {
+      "loai": "Phường",
+      "donViCu": "Phường Cửa Đông (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Cửa Nam, Phường Điện Biên, Phường Đội Cấn, Phường Đồng Xuân (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Kim Mã, Phường Ngọc Hà, Phường Quán Thánh, Phường Thụy Khuê, Phường Trúc Bạch",
+      "dienTich": "297 km²",
+      "danSo": "65.023 người",
+      "matDo": "219 người/km²",
+      "tS": "Số 2, phố Trúc Bạch, phường Ba Đình"
+    },
+    "Ba Vì": {
+      "loai": "Xã",
+      "donViCu": "Xã Ba Vì, Xã Khánh Thượng, Xã Minh Quang (phần còn lại sau khi sáp nhập vào xã Bất Bạt)",
+      "dienTich": "12.540 km²",
+      "danSo": "11.372 người",
+      "matDo": "1 người/km²",
+      "tS": "Thôn Lặt, xã Ba Vì"
+    },
+    "Bạch Mai": {
+      "loai": "Phường",
+      "donViCu": "Phường Bách Khoa, Phường Bạch Mai, Phường Đồng Tâm, Phường Lê Đại Hành, Phường Minh Khai (quận Hai Bà Trưng), Phường Phương Mai, Phường Quỳnh Mai, Phường Thanh Nhàn (phần còn lại sau khi sáp nhập vào phường Hai Bà Trưng), Phường Trương Định",
+      "dienTich": "295 km²",
+      "danSo": "129.571 người",
+      "matDo": "439 người/km²"
+    },
+    "Bát Tràng": {
+      "loai": "Xã",
+      "donViCu": "Phường Cự Khối (phần còn lại sau khi sáp nhập vào phường Long Biên), Phường Thạch Bàn (phần còn lại sau khi sáp nhập vào phường Long Biên, phường Phúc Lợi, xã Gia Lâm), Thị trấn Trâu Quỳ (phần còn lại sau khi sáp nhập vào xã Gia Lâm), Xã Bát Tràng (phần còn lại sau khi sáp nhập vào phường Long Biên, xã Gia Lâm), Xã Đa Tốn (phần còn lại sau khi sáp nhập vào xã Gia Lâm), Xã Kim Đức",
+      "dienTich": "2.067 km²",
+      "danSo": "48.987 người",
+      "matDo": "24 người/km²"
+    },
+    "Bất Bạt": {
+      "loai": "Xã",
+      "donViCu": "Xã Cẩm Lĩnh, Xã Minh Quang, Xã Sơn Đà, Xã Thuần Mỹ, Xã Tòng Bạt",
+      "dienTich": "5.643 km²",
+      "danSo": "40.066 người",
+      "matDo": "7 người/km²"
+    },
+    "Bình Minh": {
+      "loai": "Xã",
+      "donViCu": "Phường Phú Lương (phần còn lại sau khi sáp nhập vào phường Phú Lương, phường Kiến Hưng), Xã Bích Hòa, Xã Bình Minh, Xã Cao Viên, Xã Cự Khê (phần còn lại sau khi sáp nhập vào phường Phú Lương), Xã Lam Điền, Xã Thanh Cao",
+      "dienTich": "3.670 km²",
+      "danSo": "83.354 người",
+      "matDo": "23 người/km²",
+      "tS": ""
+    },
+    "Bồ Đề": {
+      "loai": "Phường",
+      "donViCu": "Phường Bồ Đề (phần còn lại sau khi sáp nhập vào phường Hồng Hà, phường Long Biên), Phường Đức Giang, Phường Gia Thụy, Phường Long Biên (phần còn lại sau khi sáp nhập vào phường Long Biên), Phường Ngọc Lâm, Phường Ngọc Thụy (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Phúc Đồng, Phường Thượng Thanh",
+      "dienTich": "1.294 km²",
+      "danSo": "120.028 người",
+      "matDo": "93 người/km²",
+      "tS": ""
+    },
+    "Cầu Giấy": {
+      "loai": "Phường",
+      "donViCu": "Phường Dịch Vọng, Phường Dịch Vọng Hậu, Phường Mỹ Đình 1, Phường Mỹ Đình 2, Phường Quan Hoa, Phường Yên Hòa",
+      "dienTich": "374 km²",
+      "danSo": "74.516 người",
+      "matDo": "199 người/km²",
+      "tS": ""
+    },
+    "Chuyên Mỹ": {
+      "loai": "Xã",
+      "donViCu": "Xã Châu Can, Xã Chuyên Mỹ, Xã Phú Yên, Xã Tân Dân (huyện Phú Xuyên), Xã Vân Từ",
+      "dienTich": "3.554 km²",
+      "danSo": "44.859 người",
+      "matDo": "13 người/km²",
+      "tS": ""
+    },
+    "Chương Dương": {
+      "loai": "Xã",
+      "donViCu": "Xã Chương Dương, Xã Lê Lợi, Xã Thắng Lợi, Xã Tô Hiệu, Xã Tự Nhiên, Xã Vạn Nhất",
+      "dienTich": "2.889 km²",
+      "danSo": "59.973 người",
+      "matDo": "21 người/km²",
+      "tS": ""
+    },
+    "Chương Mỹ": {
+      "loai": "Phường",
+      "donViCu": "Phường Biên Giang, Phường Đồng Mai (phần còn lại sau khi sáp nhập vào phường Yên Nghĩa), Thị trấn Chúc Sơn, Xã Đại Yên, Xã Ngọc Hòa, Xã Phụng Châu, Xã Thuỵ Hương, Xã Tiên Phương",
+      "dienTich": "3.890 km²",
+      "danSo": "87.913 người",
+      "matDo": "23 người/km²",
+      "tS": ""
+    },
+    "Cổ Đô": {
+      "loai": "Xã",
+      "donViCu": "Xã Cổ Đô, Xã Phong Vân, Xã Phú Cường (huyện Ba Vì), Xã Phú Đông, Xã Phú Hồng, Xã Vạn Thắng",
+      "dienTich": "5.325 km²",
+      "danSo": "70.706 người",
+      "matDo": "13 người/km²",
+      "tS": ""
+    },
+    "Cửa Nam": {
+      "loai": "Phường",
+      "donViCu": "Phường Cửa Nam, Phường Hàng Bài, Phường Hàng Bông (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Hàng Trống (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Nguyễn Du, Phường Phạm Đình Hổ, Phường Phan Chu Trinh, Phường Trần Hưng Đạo, Phường Tràng Tiền (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm)",
+      "dienTich": "168 km²",
+      "danSo": "52.751 người",
+      "matDo": "314 người/km²",
+      "tS": ""
+    },
+    "Dân Hòa": {
+      "loai": "Xã",
+      "donViCu": "Xã Cao Xuân Dương, Xã Dân Hòa, Xã Hồng Dương, Xã Liên Châu, Xã Tân Ước",
+      "dienTich": "3.843 km²",
+      "danSo": "62.755 người",
+      "matDo": "16 người/km²",
+      "tS": ""
+    },
+    "Dương Hòa": {
+      "loai": "Xã",
+      "donViCu": "Xã Cát Quế, Xã Đắc Sở, Xã Dương Liễu, Xã Minh Khai, Xã Yên Sở",
+      "dienTich": "1.741 km²",
+      "danSo": "58.830 người",
+      "matDo": "34 người/km²",
+      "tS": ""
+    },
+    "Dương Nội": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Mỗ (phần còn lại sau khi sáp nhập vào phường Xuân Phương, phường Tây Mỗ, phường Đại Mỗ, phường Hà Đông), Phường Dương Nội, Phường La Khê (phần còn lại sau khi sáp nhập vào phường Hà Đông), Phường Phú La, Phường Yên Nghĩa, Xã La Phù",
+      "dienTich": "790 km²",
+      "danSo": "56.091 người",
+      "matDo": "71 người/km²",
+      "tS": ""
+    },
+    "Đa Phúc": {
+      "loai": "Xã",
+      "donViCu": "Xã Bắc Phú, Xã Đức Hoà, Xã Kim Lũ, Xã Tân Hưng, Xã Việt Long, Xã Xuân Giang, Xã Xuân Thu",
+      "dienTich": "5.532 km²",
+      "danSo": "83.649 người",
+      "matDo": "15 người/km²",
+      "tS": ""
+    },
+    "Đại Mỗ": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Mỗ, Phường Dương Nội, Phường Mễ Trì (phần còn lại sau khi sáp nhập vào phường Yên Hòa, phường Từ Liêm), Phường Mộ Lao, Phường Nhân Chính (phần còn lại sau khi sáp nhập vào phường Thanh Xuân, phường Yên Hòa), Phường Phú Đô (phần còn lại sau khi sáp nhập vào phường Từ Liêm), Phường Trung Hòa (phần còn lại sau khi sáp nhập vào phường Thanh Xuân, phường Yên Hòa), Phường Trung Văn (phần còn lại sau khi sáp nhập vào phường Thanh Xuân)",
+      "dienTich": "810 km²",
+      "danSo": "80.462 người",
+      "matDo": "99 người/km²",
+      "tS": ""
+    },
+    "Đại Thanh": {
+      "loai": "Xã",
+      "donViCu": "Phường Kiến Hưng (phần còn lại sau khi sáp nhập vào phường Phú Lương, phường Kiến Hưng), Thị trấn Văn Điển (phần còn lại sau khi sáp nhập vào phường Hoàng Liệt, xã Thanh Trì), Xã Hữu Hòa (phần còn lại sau khi sáp nhập vào phường Phú Lương), Xã Tả Thanh Oai (phần còn lại sau khi sáp nhập vào phường Thanh Liệt), Xã Tam Hiệp (huyện Thanh Trì) (phần còn lại sau khi sáp nhập vào phường Hoàng Liệt), Xã Vĩnh Quỳnh (phần còn lại sau khi sáp nhập vào xã Thanh Trì)",
+      "dienTich": "1.892 km²",
+      "danSo": "92.557 người",
+      "matDo": "49 người/km²",
+      "tS": ""
+    },
+    "Đại Xuyên": {
+      "loai": "Xã",
+      "donViCu": "Xã Bạch Hạ, Xã Đại Xuyên, Xã Khai Thái, Xã Minh Tân, Xã Phúc Tiến, Xã Quang Lãng, Xã Tri Thủy",
+      "dienTich": "5.166 km²",
+      "danSo": "74.906 người",
+      "matDo": "14 người/km²",
+      "tS": ""
+    },
+    "Đan Phượng": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Phùng, Xã Đan Phượng, Xã Đồng Tháp, Xã Song Phượng, Xã Thượng Mỗ",
+      "dienTich": "1.530 km²",
+      "danSo": "47.629 người",
+      "matDo": "31 người/km²",
+      "tS": ""
+    },
+    "Định Công": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Kim, Phường Định Công, Phường Giáp Bát (phần còn lại sau khi sáp nhập vào phường Hoàng Mai, phường Tương Mai), Phường Hoàng Liệt, Phường Thịnh Liệt, Xã Tân Triều, Xã Thanh Liệt",
+      "dienTich": "534 km²",
+      "danSo": "85.502 người",
+      "matDo": "160 người/km²",
+      "tS": ""
+    },
+    "Đoài Phương": {
+      "loai": "Xã",
+      "donViCu": "Xã Cổ Đông, Xã Kim Sơn, Xã Sơn Đông",
+      "dienTich": "5.710 km²",
+      "danSo": "39.828 người",
+      "matDo": "7 người/km²",
+      "tS": ""
+    },
+    "Đông Anh": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Đông Anh, Xã Cổ Loa, Xã Đông Hội, Xã Dục Tú (phần còn lại sau khi sáp nhập vào xã Thư Lâm), Xã Liên Hà (huyện Đông Anh) (phần còn lại sau khi sáp nhập vào xã Thư Lâm), Xã Mai Lâm, Xã Tàm Xá, Xã Tiên Dương, Xã Uy Nỗ (phần còn lại sau khi sáp nhập vào xã Thư Lâm), Xã Việt Hùng (phần còn lại sau khi sáp nhập vào xã Thư Lâm), Xã Vĩnh Ngọc, Xã Xuân Canh",
+      "dienTich": "4.868 km²",
+      "danSo": "118.183 người",
+      "matDo": "24 người/km²",
+      "tS": ""
+    },
+    "Đống Đa": {
+      "loai": "Phường",
+      "donViCu": "Phường Láng Hạ, Phường Nam Đồng, Phường Ô Chợ Dừa, Phường Quang Trung (quận Đống Đa), Phường Thịnh Quang, Phường Trung Liệt",
+      "dienTich": "207 km²",
+      "danSo": "81.358 người",
+      "matDo": "393 người/km²",
+      "tS": ""
+    },
+    "Đông Ngạc": {
+      "loai": "Phường",
+      "donViCu": "Phường Cổ Nhuế 2, Phường Đông Ngạc (phần còn lại sau khi sáp nhập vào phường Phú Thượng), Phường Đức Thắng, Phường Minh Khai (quận Bắc Từ Liêm), Phường Thụy Phương, Phường Xuân Đỉnh (phần còn lại sau khi sáp nhập vào phường Phú Thượng, phường Xuân Đỉnh)",
+      "dienTich": "885 km²",
+      "danSo": "83.544 người",
+      "matDo": "94 người/km²",
+      "tS": ""
+    },
+    "Giảng Võ": {
+      "loai": "Phường",
+      "donViCu": "Phường Cát Linh, Phường Cống Vị (phần còn lại sau khi sáp nhập vào phường Ngọc Hà), Phường Giảng Võ, Phường Kim Mã (phần còn lại sau khi sáp nhập vào phường Ba Đình, phường Ngọc Hà), Phường Láng Hạ, Phường Ngọc Khánh, Phường Thành Công",
+      "dienTich": "260 km²",
+      "danSo": "97.034 người",
+      "matDo": "373 người/km²",
+      "tS": ""
+    },
+    "Gia Lâm": {
+      "loai": "Xã",
+      "donViCu": "Phường Thạch Bàn, Thị trấn Trâu Quỳ, Xã Bát Tràng, Xã Cổ Bi, Xã Đa Tốn, Xã Dương Xá, Xã Kiêu Kỵ, Xã Phú Sơn (huyện Gia Lâm)",
+      "dienTich": "3.761 km²",
+      "danSo": "20.189 người",
+      "matDo": "5 người/km²",
+      "tS": ""
+    },
+    "Hạ Bằng": {
+      "loai": "Xã",
+      "donViCu": "Xã Bình Yên, Xã Cần Kiệm, Xã Đồng Trúc, Xã Hạ Bằng, Xã Phú Cát, Xã Tân Xã",
+      "dienTich": "3.214 km²",
+      "danSo": "38.721 người",
+      "matDo": "12 người/km²",
+      "tS": ""
+    },
+    "Hà Đông": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Mỗ, Phường Hà Cầu, Phường La Khê, Phường Mộ Lao (phần còn lại sau khi sáp nhập vào phường Đại Mỗ), Phường Phúc La, Phường Quang Trung (quận Hà Đông), Phường Vạn Phúc, Phường Văn Quán, Xã Tân Triều",
+      "dienTich": "900 km²",
+      "danSo": "185.205 người",
+      "matDo": "206 người/km²",
+      "tS": ""
+    },
+    "Hai Bà Trưng": {
+      "loai": "Phường",
+      "donViCu": "Phường Bạch Đằng, Phường Đồng Nhân, Phường Lê Đại Hành, Phường Nguyễn Du, Phường Phạm Đình Hổ (phần còn lại sau khi sáp nhập vào phường Cửa Nam), Phường Phố Huế, Phường Thanh Nhàn",
+      "dienTich": "265 km²",
+      "danSo": "87.801 người",
+      "matDo": "331 người/km²",
+      "tS": ""
+    },
+    "Hát Môn": {
+      "loai": "Xã",
+      "donViCu": "Xã Hát Môn, Xã Hiệp Thuận, Xã Liên Hiệp, Xã Ngọc Tảo, Xã Tam Hiệp (huyện Phúc Thọ), Xã Tam Thuấn, Xã Thanh Đa",
+      "dienTich": "3.767 km²",
+      "danSo": "72.227 người",
+      "matDo": "19 người/km²",
+      "tS": ""
+    },
+    "Hòa Lạc": {
+      "loai": "Xã",
+      "donViCu": "Xã Bình Yên (phần còn lại sau khi sáp nhập vào xã Hạ Bằng), Xã Cổ Đông (phần còn lại sau khi sáp nhập vào xã Đoài Phương), Xã Hạ Bằng (phần còn lại sau khi sáp nhập vào xã Hạ Bằng), Xã Tân Xã (phần còn lại sau khi sáp nhập vào xã Hạ Bằng), Xã Thạch Hòa, Xã Tiến Xuân",
+      "dienTich": "4.111 km²",
+      "danSo": "30.864 người",
+      "matDo": "8 người/km²",
+      "tS": ""
+    },
+    "Hòa Phú": {
+      "loai": "Xã",
+      "donViCu": "Xã Đồng Lạc, Xã Hòa Phú (huyện Chương Mỹ), Xã Hồng Phú, Xã Kim Thư (phần còn lại sau khi sáp nhập vào xã Thanh Oai), Xã Thượng Vực, Xã Văn Võ",
+      "dienTich": "10.907 km²",
+      "danSo": "48.822 người",
+      "matDo": "4 người/km²",
+      "tS": ""
+    },
+    "Hòa Xá": {
+      "loai": "Xã",
+      "donViCu": "Xã Bình Lưu Quang, Xã Hòa Phú, Xã Phù Lưu, Xã Thái Hòa (huyện Ứng Hòa)",
+      "dienTich": "4.042 km²",
+      "danSo": "69.428 người",
+      "matDo": "17 người/km²",
+      "tS": ""
+    },
+    "Hoài Đức": {
+      "loai": "Xã",
+      "donViCu": "Phường Tây Tựu, Thị trấn Trạm Trôi, Xã Di Trạch, Xã Đức Giang, Xã Đức Thượng, Xã Kim Chung (huyện Hoài Đức) (phần còn lại sau khi sáp nhập vào phường Tây Tựu), Xã Tân Lập",
+      "dienTich": "10.504 km²",
+      "danSo": "47.509 người",
+      "matDo": "5 người/km²",
+      "tS": ""
+    },
+    "Hoàn Kiếm": {
+      "loai": "Phường",
+      "donViCu": "Phường Cửa Đông, Phường Cửa Nam, Phường Điện Biên, Phường Đồng Xuân, Phường Hàng Bạc, Phường Hàng Bồ, Phường Hàng Bông, Phường Hàng Buồm, Phường Hàng Đào, Phường Hàng Gai, Phường Hàng Mã, Phường Hàng Trống, Phường Lý Thái Tổ, Phường Tràng Tiền",
+      "dienTich": "191 km²",
+      "danSo": "105.301 người",
+      "matDo": "551 người/km²",
+      "tS": ""
+    },
+    "Hoàng Liệt": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Kim, Phường Hoàng Liệt, Thị trấn Văn Điển, Xã Tam Hiệp (huyện Thanh Trì), Xã Thanh Liệt",
+      "dienTich": "404 km²",
+      "danSo": "5.582 người",
+      "matDo": "14 người/km²",
+      "tS": ""
+    },
+    "Hoàng Mai": {
+      "loai": "Phường",
+      "donViCu": "Phường Giáp Bát, Phường Hoàng Liệt, Phường Hoàng Văn Thụ, Phường Lĩnh Nam, Phường Tân Mai, Phường Thịnh Liệt, Phường Trần Phú, Phường Tương Mai, Phường Vĩnh Hưng, Phường Yên Sở",
+      "dienTich": "7.967 km²",
+      "danSo": "44.474 người",
+      "matDo": "6 người/km²",
+      "tS": ""
+    },
+    "Hồng Hà": {
+      "loai": "Phường",
+      "donViCu": "Phường Bạch Đằng (phần còn lại sau khi sáp nhập vào phường Hai Bà Trưng), Phường Bồ Đề, Phường Chương Dương, Phường Ngọc Thụy, Phường Nhật Tân, Phường Phú Thượng, Phường Phúc Tân, Phường Phúc Xá, Phường Quảng An, Phường Thanh Lương, Phường Tứ Liên, Phường Yên Phụ",
+      "dienTich": "1.509 km²",
+      "danSo": "123.282 người",
+      "matDo": "82 người/km²",
+      "tS": ""
+    },
+    "Hồng Sơn": {
+      "loai": "Xã",
+      "donViCu": "Xã An Mỹ, Xã Hồng Sơn, Xã Hợp Tiến, Xã Lê Thanh, Xã Phùng Xá (huyện Mỹ Đức), Xã Xuy Xá",
+      "dienTich": "18.901 km²",
+      "danSo": "29.875 người",
+      "matDo": "2 người/km²",
+      "tS": ""
+    },
+    "Hồng Vân": {
+      "loai": "Xã",
+      "donViCu": "Xã Đông Mỹ (phần còn lại sau khi sáp nhập vào xã Nam Phù), Xã Duyên Thái (phần còn lại sau khi sáp nhập vào xã Nam Phù, xã Ngọc Hồi), Xã Hà Hồi, Xã Hồng Vân, Xã Liên Phương, Xã Ninh Sở (phần còn lại sau khi sáp nhập vào xã Nam Phù), Xã Vân Tảo",
+      "dienTich": "2.453 km²",
+      "danSo": "58.685 người",
+      "matDo": "24 người/km²",
+      "tS": ""
+    },
+    "Hưng Đạo": {
+      "loai": "Xã",
+      "donViCu": "Xã Cộng Hoà, Xã Đồng Quang, Xã Hưng Đạo",
+      "dienTich": "12.243 km²",
+      "danSo": "9.354 người",
+      "matDo": "1 người/km²",
+      "tS": ""
+    },
+    "Hương Sơn": {
+      "loai": "Xã",
+      "donViCu": "Xã An Tiến, Xã Hùng Tiến, Xã Hương Sơn, Xã Vạn Tín",
+      "dienTich": "3.262 km²",
+      "danSo": "31.486 người",
+      "matDo": "10 người/km²",
+      "tS": ""
+    },
+    "Khương Đình": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Kim, Phường Hạ Đình, Phường Khương Đình, Phường Khương Trung, Phường Thanh Xuân Trung (phần còn lại sau khi sáp nhập vào phường Thanh Xuân), Phường Thượng Đình (phần còn lại sau khi sáp nhập vào phường Thanh Xuân), Xã Tân Triều",
+      "dienTich": "310 km²",
+      "danSo": "86.286 người",
+      "matDo": "278 người/km²",
+      "tS": ""
+    },
+    "Kiến Hưng": {
+      "loai": "Phường",
+      "donViCu": "Phường Hà Cầu (phần còn lại sau khi sáp nhập vào phường Hà Đông), Phường Kiến Hưng, Phường Phú La (phần còn lại sau khi sáp nhập vào phường Dương Nội), Phường Phú Lương, Phường Quang Trung (quận Hà Đông) (phần còn lại sau khi sáp nhập vào phường Hà Đông)",
+      "dienTich": "665 km²",
+      "danSo": "70.833 người",
+      "matDo": "107 người/km²",
+      "tS": ""
+    },
+    "Kiều Phú": {
+      "loai": "Xã",
+      "donViCu": "Xã Cấn Hữu, Xã Liệp Nghĩa, Xã Ngọc Liệp (phần còn lại sau khi sáp nhập vào xã Tây Phương), Xã Ngọc Mỹ (phần còn lại sau khi sáp nhập vào xã Quốc Oai), Xã Quang Trung (phần còn lại sau khi sáp nhập vào xã Tây Phương), Xã Tuyết Nghĩa",
+      "dienTich": "3.449 km²",
+      "danSo": "60.885 người",
+      "matDo": "18 người/km²",
+      "tS": ""
+    },
+    "Kim Anh": {
+      "loai": "Xã",
+      "donViCu": "Xã Minh Phú, Xã Minh Trí, Xã Tân Dân (huyện Sóc Sơn)",
+      "dienTich": "5.280 km²",
+      "danSo": "48.564 người",
+      "matDo": "9 người/km²",
+      "tS": ""
+    },
+    "Kim Liên": {
+      "loai": "Phường",
+      "donViCu": "Phường Khương Thượng, Phường Kim Liên, Phường Nam Đồng, Phường Phương Liên Trung Tự, Phường Phương Mai (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Quang Trung (quận Đống Đa) (phần còn lại sau khi sáp nhập vào phường Đống Đa), Phường Trung Liệt",
+      "dienTich": "246 km²",
+      "danSo": "109.107 người",
+      "matDo": "444 người/km²",
+      "tS": ""
+    },
+    "Láng": {
+      "loai": "Phường",
+      "donViCu": "Phường Láng Hạ (phần còn lại sau khi sáp nhập vào phường Giảng Võ, phường Đống Đa), Phường Láng Thượng, Phường Ngọc Khánh (phần còn lại sau khi sáp nhập vào phường Ngọc Hà, phường Giảng Võ)",
+      "dienTich": "188 km²",
+      "danSo": "61.135 người",
+      "matDo": "325 người/km²",
+      "tS": ""
+    },
+    "Liên Minh": {
+      "loai": "Xã",
+      "donViCu": "Xã Hồng Hà, Xã Phương Đình, Xã Thọ An, Xã Thọ Xuân, Xã Tiến Thịnh, Xã Trung Châu",
+      "dienTich": "2.098 km²",
+      "danSo": "23.443 người",
+      "matDo": "11 người/km²",
+      "tS": ""
+    },
+    "Lĩnh Nam": {
+      "loai": "Phường",
+      "donViCu": "Phường Lĩnh Nam, Phường Thanh Lương (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy, phường Hồng Hà), Phường Thanh Trì, Phường Trần Phú, Phường Yên Sở",
+      "dienTich": "1.086 km²",
+      "danSo": "20.706 người",
+      "matDo": "19 người/km²",
+      "tS": ""
+    },
+    "Long Biên": {
+      "loai": "Phường",
+      "donViCu": "Phường Bồ Đề, Phường Cự Khối, Phường Gia Thụy, Phường Long Biên, Phường Phúc Đồng, Phường Thạch Bàn, Xã Bát Tràng",
+      "dienTich": "1.904 km²",
+      "danSo": "62.887 người",
+      "matDo": "33 người/km²",
+      "tS": ""
+    },
+    "Mê Linh": {
+      "loai": "Xã",
+      "donViCu": "Xã Đại Mạch (phần còn lại sau khi sáp nhập vào xã Thiên Lộc), Xã Đại Thịnh, Xã Hồng Hà, Xã Liên Hà (huyện Đan Phượng) (phần còn lại sau khi sáp nhập vào xã Ô Diên), Xã Liên Hồng (phần còn lại sau khi sáp nhập vào xã Ô Diên), Xã Liên Trung (phần còn lại sau khi sáp nhập vào xã Ô Diên), Xã Mê Linh, Xã Tiền Phong (huyện Mê Linh), Xã Tráng Việt, Xã Văn Khê",
+      "dienTich": "3.497 km²",
+      "danSo": "62.197 người",
+      "matDo": "18 người/km²",
+      "tS": ""
+    },
+    "Minh Châu": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Tây Đằng, Xã Chu Minh, Xã Minh Châu",
+      "dienTich": "3.968 km²",
+      "danSo": "44.358 người",
+      "matDo": "11 người/km²",
+      "tS": ""
+    },
+    "Mỹ Đức": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Đại Nghĩa, Xã An Phú, Xã Đại Hưng, Xã Hợp Thanh, Xã Phù Lưu Tế",
+      "dienTich": "6.159 km²",
+      "danSo": "60.493 người",
+      "matDo": "10 người/km²",
+      "tS": ""
+    },
+    "Nam Phù": {
+      "loai": "Xã",
+      "donViCu": "Xã Đông Mỹ, Xã Duyên Hà (phần còn lại sau khi sáp nhập vào xã Thanh Trì), Xã Duyên Thái, Xã Liên Ninh, Xã Ngũ Hiệp (phần còn lại sau khi sáp nhập vào xã Thanh Trì), Xã Ninh Sở, Xã Vạn Phúc, Xã Yên Mỹ (phần còn lại sau khi sáp nhập vào xã Thanh Trì)",
+      "dienTich": "1.374 km²",
+      "danSo": "42.772 người",
+      "matDo": "31 người/km²",
+      "tS": ""
+    },
+    "Nghĩa Đô": {
+      "loai": "Phường",
+      "donViCu": "Phường Cổ Nhuế 1, Phường Dịch Vọng (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Dịch Vọng Hậu (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Mai Dịch, Phường Nghĩa Đô, Phường Nghĩa Tân, Phường Quan Hoa (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Xuân La, Phường Xuân Tảo",
+      "dienTich": "434 km²",
+      "danSo": "125.568 người",
+      "matDo": "289 người/km²",
+      "tS": ""
+    },
+    "Ngọc Hà": {
+      "loai": "Phường",
+      "donViCu": "Phường Cống Vị, Phường Đội Cấn (phần còn lại sau khi sáp nhập vào phường Ba Đình), Phường Kim Mã, Phường Liễu Giai, Phường Nghĩa Đô, Phường Ngọc Hà (phần còn lại sau khi sáp nhập vào phường Ba Đình), Phường Ngọc Khánh, Phường Vĩnh Phúc",
+      "dienTich": "268 km²",
+      "danSo": "93.536 người",
+      "matDo": "349 người/km²",
+      "tS": ""
+    },
+    "Ngọc Hồi": {
+      "loai": "Xã",
+      "donViCu": "Xã Đại Áng, Xã Duyên Thái, Xã Khánh Hà, Xã Liên Ninh (phần còn lại sau khi sáp nhập vào xã Nam Phù), Xã Ngọc Hồi",
+      "dienTich": "1.335 km²",
+      "danSo": "43.864 người",
+      "matDo": "33 người/km²",
+      "tS": ""
+    },
+    "Nội Bài": {
+      "loai": "Xã",
+      "donViCu": "Xã Hiền Ninh, Xã Mai Đình (phần còn lại sau khi sáp nhập vào xã Sóc Sơn), Xã Phú Cường (huyện Sóc Sơn), Xã Phú Minh (phần còn lại sau khi sáp nhập vào xã Sóc Sơn), Xã Quang Tiến (phần còn lại sau khi sáp nhập vào xã Sóc Sơn), Xã Thanh Xuân",
+      "dienTich": "5.164 km²",
+      "danSo": "70.469 người",
+      "matDo": "14 người/km²",
+      "tS": ""
+    },
+    "Ô Chợ Dừa": {
+      "loai": "Phường",
+      "donViCu": "Phường Cát Linh (phần còn lại sau khi sáp nhập vào phường Giảng Võ), Phường Điện Biên (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm, phường Ba Đình, phường Văn Miếu Quốc Tử Giám), Phường Hàng Bột (phần còn lại sau khi sáp nhập vào phường Văn Miếu Quốc Tử Giám), Phường Ô Chợ Dừa (phần còn lại sau khi sáp nhập vào phường Đống Đa), Phường Thành Công (phần còn lại sau khi sáp nhập vào phường Giảng Võ), Phường Trung Liệt (phần còn lại sau khi sáp nhập vào phường Đống Đa, phường Kim Liên), Phường Văn Miếu Quốc Tử Giám (phần còn lại sau khi sáp nhập vào phường Văn Miếu Quốc Tử Giám)",
+      "dienTich": "183 km²",
+      "danSo": "71.293 người",
+      "matDo": "390 người/km²",
+      "tS": ""
+    },
+    "Ô Diên": {
+      "loai": "Xã",
+      "donViCu": "Phường Tây Tựu (phần còn lại sau khi sáp nhập vào phường Tây Tựu, phường Đông Ngạc, phường Thượng Cát, xã Hoài Đức), Xã Hạ Mỗ, Xã Hồng Hà, Xã Liên Hà (huyện Đan Phượng), Xã Liên Hồng, Xã Liên Trung, Xã Tân Hội, Xã Tân Lập (phần còn lại sau khi sáp nhập vào xã Hoài Đức)",
+      "dienTich": "3.206 km²",
+      "danSo": "97.506 người",
+      "matDo": "30 người/km²",
+      "tS": ""
+    },
+    "Phú Cát": {
+      "loai": "Xã",
+      "donViCu": "Xã Đông Yên, Xã Hoà Thạch, Xã Phú Cát (phần còn lại sau khi sáp nhập vào xã Hạ Bằng), Xã Phú Mãn",
+      "dienTich": "5.121 km²",
+      "danSo": "43.339 người",
+      "matDo": "8 người/km²",
+      "tS": ""
+    },
+    "Phú Diễn": {
+      "loai": "Phường",
+      "donViCu": "Phường Cổ Nhuế 1, Phường Mai Dịch, Phường Phú Diễn, Phường Phúc Diễn",
+      "dienTich": "629 km²",
+      "danSo": "74.603 người",
+      "matDo": "119 người/km²",
+      "tS": ""
+    },
+    "Phù Đổng": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Yên Viên, Xã Cổ Bi (phần còn lại sau khi sáp nhập vào phường Phúc Lợi, xã Gia Lâm), Xã Đặng Xá (phần còn lại sau khi sáp nhập vào xã Thuận An), Xã Ninh Hiệp, Xã Phù Đổng, Xã Thiên Đức, Xã Yên Thường, Xã Yên Viên",
+      "dienTich": "4.162 km²",
+      "danSo": "111.484 người",
+      "matDo": "27 người/km²",
+      "tS": ""
+    },
+    "Phú Lương": {
+      "loai": "Phường",
+      "donViCu": "Phường Kiến Hưng, Phường Phú Lãm, Phường Phú Lương, Xã Cự Khê, Xã Hữu Hòa",
+      "dienTich": "940 km²",
+      "danSo": "52.024 người",
+      "matDo": "55 người/km²",
+      "tS": ""
+    },
+    "Phú Nghĩa": {
+      "loai": "Xã",
+      "donViCu": "Xã Đông Phương Yên, Xã Đông Sơn, Xã Phú Nghĩa, Xã Thanh Bình, Xã Trung Hòa, Xã Trường Yên",
+      "dienTich": "27.940 km²",
+      "danSo": "3.392 người",
+      "matDo": "",
+      "tS": ""
+    },
+    "Phú Thượng": {
+      "loai": "Phường",
+      "donViCu": "Phường Đông Ngạc, Phường Phú Thượng (phần còn lại sau khi sáp nhập vào phường Hồng Hà, phường Tây Hồ), Phường Xuân Đỉnh, Phường Xuân La, Phường Xuân Tảo",
+      "dienTich": "721 km²",
+      "danSo": "39.322 người",
+      "matDo": "55 người/km²",
+      "tS": ""
+    },
+    "Phú Xuyên": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Phú Minh, Thị trấn Phú Xuyên, Xã Hồng Thái, Xã Minh Cường, Xã Nam Phong, Xã Nam Tiến, Xã Quang Hà, Xã Tô Hiệu (phần còn lại sau khi sáp nhập vào xã Chương Dương), Xã Vạn Nhất (phần còn lại sau khi sáp nhập vào xã Chương Dương), Xã Văn Tự",
+      "dienTich": "6.458 km²",
+      "danSo": "23.053 người",
+      "matDo": "4 người/km²",
+      "tS": ""
+    },
+    "Phúc Lộc": {
+      "loai": "Xã",
+      "donViCu": "Xã Nam Hà, Xã Sen Phương, Xã Vân Phúc, Xã Võng Xuyên, Xã Xuân Đình",
+      "dienTich": "7.050 km²",
+      "danSo": "28.236 người",
+      "matDo": "4 người/km²",
+      "tS": ""
+    },
+    "Phúc Lợi": {
+      "loai": "Phường",
+      "donViCu": "Phường Giang Biên (phần còn lại sau khi sáp nhập vào phường Việt Hưng), Phường Phúc Đồng (phần còn lại sau khi sáp nhập vào phường Long Biên, phường Bồ Đề, phường Việt Hưng), Phường Phúc Lợi (phần còn lại sau khi sáp nhập vào phường Việt Hưng), Phường Thạch Bàn, Phường Việt Hưng (phần còn lại sau khi sáp nhập vào phường Việt Hưng), Xã Cổ Bi",
+      "dienTich": "1.041 km²",
+      "danSo": "66.790 người",
+      "matDo": "64 người/km²",
+      "tS": ""
+    },
+    "Phúc Sơn": {
+      "loai": "Xã",
+      "donViCu": "Xã Đồng Tâm, Xã Mỹ Xuyên, Xã Phúc Lâm, Xã Thượng Lâm, Xã Tuy Lai",
+      "dienTich": "4.931 km²",
+      "danSo": "54.084 người",
+      "matDo": "11 người/km²",
+      "tS": ""
+    },
+    "Phúc Thịnh": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Đông Anh (phần còn lại sau khi sáp nhập vào xã Thư Lâm, xã Đông Anh), Xã Bắc Hồng, Xã Nam Hồng, Xã Nguyên Khê (phần còn lại sau khi sáp nhập vào xã Thư Lâm), Xã Tiên Dương (phần còn lại sau khi sáp nhập vào xã Đông Anh), Xã Vân Nội, Xã Vĩnh Ngọc, Xã Xuân Nộn (phần còn lại sau khi sáp nhập vào xã Thư Lâm)",
+      "dienTich": "4.263 km²",
+      "danSo": "95.951 người",
+      "matDo": "23 người/km²",
+      "tS": ""
+    },
+    "Phúc Thọ": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Phúc Thọ, Xã Long Thượng, Xã Phúc Hòa, Xã Phụng Thượng, Xã Tích Lộc, Xã Trạch Mỹ Lộc",
+      "dienTich": "3.966 km²",
+      "danSo": "75.425 người",
+      "matDo": "19 người/km²",
+      "tS": ""
+    },
+    "Phượng Dực": {
+      "loai": "Xã",
+      "donViCu": "Xã Hoàng Long, Xã Hồng Minh, Xã Phú Túc, Xã Phượng Dực, Xã Văn Hoàng",
+      "dienTich": "4.469 km²",
+      "danSo": "60.281 người",
+      "matDo": "13 người/km²",
+      "tS": ""
+    },
+    "Phương Liệt": {
+      "loai": "Phường",
+      "donViCu": "Phường Định Công (phần còn lại sau khi sáp nhập vào phường Định Công), Phường Khương Đình (phần còn lại sau khi sáp nhập vào phường Khương Đình), Phường Khương Mai, Phường Khương Trung (phần còn lại sau khi sáp nhập vào phường Khương Đình), Phường Phương Liệt (phần còn lại sau khi sáp nhập vào phường Tương Mai), Phường Thịnh Liệt (phần còn lại sau khi sáp nhập vào phường Hoàng Mai, phường Định Công, phường Yên Sở)",
+      "dienTich": "320 km²",
+      "danSo": "81.977 người",
+      "matDo": "256 người/km²",
+      "tS": ""
+    },
+    "Quảng Bị": {
+      "loai": "Xã",
+      "donViCu": "Xã Hoàng Diệu, Xã Hợp Đồng, Xã Lam Điền (phần còn lại sau khi sáp nhập vào xã Bình Minh), Xã Quảng Bị, Xã Tốt Động",
+      "dienTich": "3.714 km²",
+      "danSo": "62.968 người",
+      "matDo": "17 người/km²",
+      "tS": ""
+    },
+    "Quang Minh": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Chi Đông, Thị trấn Quang Minh, Xã Đại Thịnh (phần còn lại sau khi sáp nhập vào xã Mê Linh, xã Tiến Thắng), Xã Kim Hoa (phần còn lại sau khi sáp nhập vào xã Tiến Thắng), Xã Mê Linh (phần còn lại sau khi sáp nhập vào xã Mê Linh), Xã Thanh Lâm (phần còn lại sau khi sáp nhập vào xã Tiến Thắng), Xã Tiền Phong (huyện Mê Linh) (phần còn lại sau khi sáp nhập vào xã Thiên Lộc, xã Mê Linh)",
+      "dienTich": "3.217 km²",
+      "danSo": "69.623 người",
+      "matDo": "22 người/km²",
+      "tS": ""
+    },
+    "Quảng Oai": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Tây Đằng (phần còn lại sau khi sáp nhập vào xã Minh Châu), Xã Cam Thượng, Xã Chu Minh (phần còn lại sau khi sáp nhập vào xã Minh Châu), Xã Đông Quang, Xã Thụy An, Xã Tiên Phong",
+      "dienTich": "4.926 km²",
+      "danSo": "59.001 người",
+      "matDo": "12 người/km²",
+      "tS": ""
+    },
+    "Quốc Oai": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Quốc Oai (phần còn lại sau khi sáp nhập vào xã Tây Phương), Xã Ngọc Mỹ, Xã Phượng Sơn (phần còn lại sau khi sáp nhập vào xã Tây Phương), Xã Sài Sơn, Xã Thạch Thán",
+      "dienTich": "2.400 km²",
+      "danSo": "63.344 người",
+      "matDo": "26 người/km²",
+      "tS": ""
+    },
+    "Sóc Sơn": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Sóc Sơn, Xã Đông Xuân (huyện Sóc Sơn), Xã Mai Đình, Xã Phù Linh, Xã Phù Lỗ, Xã Phú Minh, Xã Quang Tiến, Xã Tân Minh, Xã Tiên Dược",
+      "dienTich": "6.824 km²",
+      "danSo": "117.876 người",
+      "matDo": "17 người/km²",
+      "tS": ""
+    },
+    "Sơn Đồng": {
+      "loai": "Xã",
+      "donViCu": "Xã An Khánh, Xã An Thượng, Xã Lại Yên, Xã Sơn Đồng, Xã Song Phương, Xã Tiền Yên, Xã Vân Canh (phần còn lại sau khi sáp nhập vào phường Xuân Phương), Xã Vân Côn",
+      "dienTich": "2.157 km²",
+      "danSo": "63.267 người",
+      "matDo": "29 người/km²",
+      "tS": ""
+    },
+    "Sơn Tây": {
+      "loai": "Phường",
+      "donViCu": "Phường Ngô Quyền, Phường Phú Thịnh, Phường Sơn Lộc, Phường Trung Hưng, Phường Viên Sơn, Xã Đường Lâm, Xã Thanh Mỹ",
+      "dienTich": "2.308 km²",
+      "danSo": "71.301 người",
+      "matDo": "31 người/km²",
+      "tS": ""
+    },
+    "Suối Hai": {
+      "loai": "Xã",
+      "donViCu": "Xã Ba Trại, Xã Cẩm Lĩnh (phần còn lại sau khi sáp nhập vào xã Bất Bạt), Xã Tản Lĩnh, Xã Thụy An (phần còn lại sau khi sáp nhập vào xã Quảng Oai)",
+      "dienTich": "5.156 km²",
+      "danSo": "35.201 người",
+      "matDo": "7 người/km²",
+      "tS": ""
+    },
+    "Tam Hưng": {
+      "loai": "Xã",
+      "donViCu": "Xã Mỹ Hưng, Xã Tam Hưng, Xã Thanh Thùy, Xã Thanh Văn",
+      "dienTich": "2.945 km²",
+      "danSo": "39.087 người",
+      "matDo": "13 người/km²",
+      "tS": ""
+    },
+    "Tây Hồ": {
+      "loai": "Phường",
+      "donViCu": "Phường Bưởi, Phường Nghĩa Đô (phần còn lại sau khi sáp nhập vào phường Ngọc Hà, phường Nghĩa Đô), Phường Nhật Tân (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Phú Thượng, Phường Quảng An (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Thụy Khuê (phần còn lại sau khi sáp nhập vào phường Ba Đình), Phường Tứ Liên (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Xuân La, Phường Yên Phụ (phần còn lại sau khi sáp nhập vào phường Hồng Hà)",
+      "dienTich": "7.567 km²",
+      "danSo": "35.493 người",
+      "matDo": "5 người/km²",
+      "tS": ""
+    },
+    "Tây Mỗ": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Mỗ, Phường Dương Nội, Phường Tây Mỗ (phần còn lại sau khi sáp nhập vào phường Xuân Phương), Xã An Khánh",
+      "dienTich": "556 km²",
+      "danSo": "46.894 người",
+      "matDo": "84 người/km²",
+      "tS": ""
+    },
+    "Tây Phương": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Quốc Oai, Xã Hương Ngải, Xã Lam Sơn, Xã Ngọc Liệp, Xã Phùng Xá (huyện Thạch Thất), Xã Phượng Sơn, Xã Quang Trung, Xã Thạch Xá",
+      "dienTich": "3.110 km²",
+      "danSo": "99.874 người",
+      "matDo": "32 người/km²",
+      "tS": ""
+    },
+    "Tây Tựu": {
+      "loai": "Phường",
+      "donViCu": "Phường Minh Khai (quận Bắc Từ Liêm), Phường Tây Tựu, Xã Kim Chung (huyện Hoài Đức)",
+      "dienTich": "754 km²",
+      "danSo": "39.436 người",
+      "matDo": "52 người/km²",
+      "tS": ""
+    },
+    "Thạch Thất": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Liên Quan, Xã Cẩm Yên, Xã Đại Đồng, Xã Kim Quan, Xã Lại Thượng, Xã Phú Kim",
+      "dienTich": "3.193 km²",
+      "danSo": "57.645 người",
+      "matDo": "18 người/km²",
+      "tS": ""
+    },
+    "Thanh Liệt": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Kim (phần còn lại sau khi sáp nhập vào phường Định Công, phường Hoàng Liệt, phường Khương Đình), Phường Hạ Đình (phần còn lại sau khi sáp nhập vào phường Khương Đình), Phường Thanh Xuân Bắc (phần còn lại sau khi sáp nhập vào phường Thanh Xuân), Phường Văn Quán (phần còn lại sau khi sáp nhập vào phường Hà Đông), Xã Tả Thanh Oai, Xã Tân Triều (phần còn lại sau khi sáp nhập vào phường Định Công, phường Khương Đình, phường Hà Đông), Xã Thanh Liệt (phần còn lại sau khi sáp nhập vào phường Định Công, phường Hoàng Liệt)",
+      "dienTich": "644 km²",
+      "danSo": "76.238 người",
+      "matDo": "118 người/km²",
+      "tS": ""
+    },
+    "Thanh Oai": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Kim Bài, Xã Đỗ Động, Xã Kim An, Xã Kim Thư, Xã Phương Trung, Xã Thanh Mai",
+      "dienTich": "2.686 km²",
+      "danSo": "54.475 người",
+      "matDo": "20 người/km²",
+      "tS": ""
+    },
+    "Thanh Trì": {
+      "loai": "Xã",
+      "donViCu": "Phường Yên Sở (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam, phường Hoàng Mai, phường Yên Sở), Thị trấn Văn Điển, Xã Duyên Hà, Xã Ngũ Hiệp, Xã Tứ Hiệp (phần còn lại sau khi sáp nhập vào phường Yên Sở), Xã Vĩnh Quỳnh, Xã Yên Mỹ",
+      "dienTich": "994 km²",
+      "danSo": "51.393 người",
+      "matDo": "52 người/km²",
+      "tS": ""
+    },
+    "Thanh Xuân": {
+      "loai": "Phường",
+      "donViCu": "Phường Nhân Chính, Phường Thanh Xuân Bắc, Phường Thanh Xuân Trung, Phường Thượng Đình, Phường Trung Hoà, Phường Trung Văn",
+      "dienTich": "324 km²",
+      "danSo": "106.316 người",
+      "matDo": "328 người/km²",
+      "tS": ""
+    },
+    "Thiên Lộc": {
+      "loai": "Xã",
+      "donViCu": "Xã Đại Mạch, Xã Hải Bối, Xã Kim Chung (huyện Đông Anh), Xã Kim Nỗ, Xã Tiền Phong (huyện Mê Linh), Xã Võng La",
+      "dienTich": "2.796 km²",
+      "danSo": "74.597 người",
+      "matDo": "27 người/km²",
+      "tS": ""
+    },
+    "Thuận An": {
+      "loai": "Xã",
+      "donViCu": "Xã Đặng Xá, Xã Dương Quang, Xã Lệ Chi, Xã Phú Sơn (huyện Gia Lâm) (phần còn lại sau khi sáp nhập vào xã Gia Lâm)",
+      "dienTich": "31.581 km²",
+      "danSo": "22.625 người",
+      "matDo": "1 người/km²",
+      "tS": ""
+    },
+    "Thư Lâm": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Đông Anh, Xã Dục Tú, Xã Liên Hà (huyện Đông Anh), Xã Nguyên Khê, Xã Thụy Lâm, Xã Uy Nỗ, Xã Vân Hà, Xã Việt Hùng, Xã Xuân Nộn",
+      "dienTich": "4.384 km²",
+      "danSo": "102.580 người",
+      "matDo": "23 người/km²",
+      "tS": ""
+    },
+    "Thượng Cát": {
+      "loai": "Phường",
+      "donViCu": "Phường Cổ Nhuế 2 (phần còn lại sau khi sáp nhập vào phường Đông Ngạc), Phường Liên Mạc, Phường Minh Khai (quận Bắc Từ Liêm), Phường Tây Tựu, Phường Thượng Cát, Phường Thụy Phương (phần còn lại sau khi sáp nhập vào phường Đông Ngạc)",
+      "dienTich": "1.477 km²",
+      "danSo": "24.692 người",
+      "matDo": "17 người/km²",
+      "tS": ""
+    },
+    "Thượng Phúc": {
+      "loai": "Xã",
+      "donViCu": "Xã Dũng Tiến, Xã Nghiêm Xuyên, Xã Nguyễn Trãi, Xã Quất Động, Xã Tân Minh (huyện Thường Tín)",
+      "dienTich": "2.891 km²",
+      "danSo": "45.464 người",
+      "matDo": "16 người/km²",
+      "tS": ""
+    },
+    "Thường Tín": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Thường Tín, Xã Đại Áng (phần còn lại sau khi sáp nhập vào xã Ngọc Hồi), Xã Hiền Giang, Xã Hòa Bình, Xã Khánh Hà (phần còn lại sau khi sáp nhập vào xã Ngọc Hồi), Xã Nhị Khê, Xã Tiền Phong (huyện Thường Tín), Xã Văn Bình, Xã Văn Phú",
+      "dienTich": "2.829 km²",
+      "danSo": "70.739 người",
+      "matDo": "25 người/km²",
+      "tS": ""
+    },
+    "Tiến Thắng": {
+      "loai": "Xã",
+      "donViCu": "Xã Đại Thịnh, Xã Kim Hoa, Xã Tam Đồng, Xã Thạch Đà (phần còn lại sau khi sáp nhập vào xã Yên Lãng), Xã Thanh Lâm, Xã Tiến Thắng, Xã Tự Lập, Xã Văn Khê (phần còn lại sau khi sáp nhập vào xã Ô Diên, xã Mê Linh, xã Yên Lãng)",
+      "dienTich": "3.634 km²",
+      "danSo": "64.246 người",
+      "matDo": "18 người/km²",
+      "tS": ""
+    },
+    "Trần Phú": {
+      "loai": "Xã",
+      "donViCu": "Xã Đồng Tâm (phần còn lại sau khi sáp nhập vào xã Phúc Sơn), Xã Hoàng Văn Thụ, Xã Hữu Văn, Xã Mỹ Lương, Xã Tân Tiến (phần còn lại sau khi sáp nhập vào xã Xuân Mai), Xã Trần Phú",
+      "dienTich": "14.529 km²",
+      "danSo": "7.049 người",
+      "matDo": "",
+      "tS": ""
+    },
+    "Trung Giã": {
+      "loai": "Xã",
+      "donViCu": "Xã Bắc Sơn, Xã Hồng Kỳ, Xã Nam Sơn, Xã Trung Giã",
+      "dienTich": "7.752 km²",
+      "danSo": "61.315 người",
+      "matDo": "8 người/km²",
+      "tS": ""
+    },
+    "Tùng Thiện": {
+      "loai": "Phường",
+      "donViCu": "Phường Sơn Lộc (phần còn lại sau khi sáp nhập vào phường Sơn Tây), Phường Trung Hưng (phần còn lại sau khi sáp nhập vào phường Sơn Tây), Phường Trung Sơn Trầm, Phường Xuân Khanh, Xã Thanh Mỹ (phần còn lại sau khi sáp nhập vào phường Sơn Tây), Xã Xuân Sơn",
+      "dienTich": "3.234 km²",
+      "danSo": "42.052 người",
+      "matDo": "13 người/km²",
+      "tS": ""
+    },
+    "Từ Liêm": {
+      "loai": "Phường",
+      "donViCu": "Phường Cầu Diễn, Phường Mai Dịch (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Phú Diễn), Phường Mễ Trì, Phường Mỹ Đình 1 (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Mỹ Đình 2 (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Phú Đô",
+      "dienTich": "1.018 km²",
+      "danSo": "119.997 người",
+      "matDo": "118 người/km²",
+      "tS": ""
+    },
+    "Tương Mai": {
+      "loai": "Phường",
+      "donViCu": "Phường Đồng Tâm (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Giáp Bát, Phường Hoàng Văn Thụ (phần còn lại sau khi sáp nhập vào phường Hoàng Mai), Phường Mai Động (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy), Phường Minh Khai (quận Hai Bà Trưng) (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Phương Liệt, Phường Tân Mai (phần còn lại sau khi sáp nhập vào phường Hoàng Mai), Phường Trương Định (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Tương Mai (phần còn lại sau khi sáp nhập vào phường Hoàng Mai), Phường Vĩnh Hưng (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy, phường Hoàng Mai, phường Vĩnh Hưng)",
+      "dienTich": "356 km²",
+      "danSo": "136.292 người",
+      "matDo": "383 người/km²",
+      "tS": ""
+    },
+    "Ứng Hòa": {
+      "loai": "Xã",
+      "donViCu": "Xã Đại Cường, Xã Đại Hùng, Xã Đông Lỗ, Xã Đồng Tân, Xã Kim Đường, Xã Minh Đức, Xã Trầm Lộng, Xã Trung Tú",
+      "dienTich": "6.780 km²",
+      "danSo": "6.375 người",
+      "matDo": "1 người/km²",
+      "tS": ""
+    },
+    "Ứng Thiên": {
+      "loai": "Xã",
+      "donViCu": "Xã Hoa Viên, Xã Liên Bạt, Xã Quảng Phú Cầu, Xã Trường Thịnh",
+      "dienTich": "3.840 km²",
+      "danSo": "53.962 người",
+      "matDo": "14 người/km²",
+      "tS": ""
+    },
+    "Văn Miếu - Quốc Tử Giám": {
+      "loai": "Phường",
+      "donViCu": "Phường Cửa Nam (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm, phường Cửa Nam, phường Ba Đình), Phường Điện Biên, Phường Hàng Bột, Phường Khâm Thiên, Phường Lê Đại Hành (phần còn lại sau khi sáp nhập vào phường Hai Bà Trưng, phường Bạch Mai), Phường Nam Đồng (phần còn lại sau khi sáp nhập vào phường Đống Đa, phường Kim Liên), Phường Nguyễn Du (phần còn lại sau khi sáp nhập vào phường Cửa Nam, phường Hai Bà Trưng), Phường Phương Liên Trung Tự (phần còn lại sau khi sáp nhập vào phường Kim Liên), Phường Thổ Quan, Phường Văn Chương, Phường Văn Miếu Quốc Tử Giám",
+      "dienTich": "192 km²",
+      "danSo": "105.604 người",
+      "matDo": "550 người/km²",
+      "tS": ""
+    },
+    "Vân Đình": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Vân Đình, Xã Cao Sơn Tiến, Xã Phương Tú, Xã Tảo Dương Văn",
+      "dienTich": "4.160 km²",
+      "danSo": "60.828 người",
+      "matDo": "15 người/km²",
+      "tS": ""
+    },
+    "Vật Lại": {
+      "loai": "Xã",
+      "donViCu": "Xã Đồng Thái, Xã Phú Châu, Xã Phú Sơn (huyện Ba Vì), Xã Thái Hòa, Xã Vật Lại",
+      "dienTich": "5.175 km²",
+      "danSo": "58.579 người",
+      "matDo": "11 người/km²",
+      "tS": ""
+    },
+    "Việt Hưng": {
+      "loai": "Phường",
+      "donViCu": "Phường Đức Giang (phần còn lại sau khi sáp nhập vào phường Bồ Đề), Phường Gia Thụy (phần còn lại sau khi sáp nhập vào phường Long Biên, phường Bồ Đề), Phường Giang Biên, Phường Phúc Đồng, Phường Phúc Lợi, Phường Thượng Thanh (phần còn lại sau khi sáp nhập vào phường Bồ Đề), Phường Việt Hưng",
+      "dienTich": "4.139 km²",
+      "danSo": "51.787 người",
+      "matDo": "13 người/km²",
+      "tS": ""
+    },
+    "Vĩnh Hưng": {
+      "loai": "Phường",
+      "donViCu": "Phường Lĩnh Nam (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam, phường Hoàng Mai), Phường Thanh Trì (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam), Phường Vĩnh Hưng, Phường Vĩnh Tuy (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy)",
+      "dienTich": "447 km²",
+      "danSo": "67.561 người",
+      "matDo": "151 người/km²",
+      "tS": ""
+    },
+    "Vĩnh Thanh": {
+      "loai": "Xã",
+      "donViCu": "Xã Hải Bối (phần còn lại sau khi sáp nhập vào xã Thiên Lộc), Xã Kim Chung (huyện Đông Anh) (phần còn lại sau khi sáp nhập vào xã Thiên Lộc), Xã Kim Nỗ (phần còn lại sau khi sáp nhập vào xã Thiên Lộc), Xã Tàm Xá (phần còn lại sau khi sáp nhập vào xã Đông Anh), Xã Vĩnh Ngọc (phần còn lại sau khi sáp nhập vào xã Đông Anh, xã Phúc Thịnh), Xã Xuân Canh (phần còn lại sau khi sáp nhập vào xã Đông Anh)",
+      "dienTich": "3.737 km²",
+      "danSo": "19.291 người",
+      "matDo": "5 người/km²",
+      "tS": ""
+    },
+    "Vĩnh Tuy": {
+      "loai": "Phường",
+      "donViCu": "Phường Mai Động, Phường Thanh Lương, Phường Vĩnh Hưng, Phường Vĩnh Tuy",
+      "dienTich": "11.586 km²",
+      "danSo": "36.859 người",
+      "matDo": "3 người/km²",
+      "tS": ""
+    },
+    "Xuân Đỉnh": {
+      "loai": "Phường",
+      "donViCu": "Phường Cổ Nhuế 1 (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Phú Diễn), Phường Xuân Đỉnh, Phường Xuân La (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Tây Hồ, phường Phú Thượng), Phường Xuân Tảo (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Phú Thượng)",
+      "dienTich": "546 km²",
+      "danSo": "48.658 người",
+      "matDo": "89 người/km²",
+      "tS": ""
+    },
+    "Xuân Mai": {
+      "loai": "Xã",
+      "donViCu": "Thị trấn Xuân Mai, Xã Nam Phương Tiến, Xã Tân Tiến, Xã Thủy Xuân Tiên",
+      "dienTich": "5.072 km²",
+      "danSo": "6.731 người",
+      "matDo": "1 người/km²",
+      "tS": ""
+    },
+    "Xuân Phương": {
+      "loai": "Phường",
+      "donViCu": "Phường Đại Mỗ, Phường Minh Khai (quận Bắc Từ Liêm) (phần còn lại sau khi sáp nhập vào phường Tây Tựu, phường Đông Ngạc, phường Thượng Cát), Phường Phúc Diễn (phần còn lại sau khi sáp nhập vào phường Phú Diễn), Phường Phương Canh, Phường Tây Mỗ, Phường Xuân Phương, Xã Vân Canh",
+      "dienTich": "1.081 km²",
+      "danSo": "104.947 người",
+      "matDo": "97 người/km²",
+      "tS": ""
+    },
+    "Yên Bài": {
+      "loai": "Xã",
+      "donViCu": "Xã Thạch Hòa, Xã Vân Hòa, Xã Yên Bài",
+      "dienTich": "6.819 km²",
+      "danSo": "21.416 người",
+      "matDo": "3 người/km²",
+      "tS": ""
+    },
+    "Yên Hòa": {
+      "loai": "Phường",
+      "donViCu": "Phường Mễ Trì, Phường Nhân Chính, Phường Trung Hòa, Phường Yên Hòa (phần còn lại sau khi sáp nhập vào phường Cầu Giấy)",
+      "dienTich": "410 km²",
+      "danSo": "77.029 người",
+      "matDo": "188 người/km²",
+      "tS": ""
+    },
+    "Yên Lãng": {
+      "loai": "Xã",
+      "donViCu": "Xã Chu Phan, Xã Hoàng Kim, Xã Hồng Hà (phần còn lại sau khi sáp nhập vào xã Liên Minh, xã Mê Linh), Xã Liên Mạc, Xã Thạch Đà, Xã Thọ An (phần còn lại sau khi sáp nhập vào xã Liên Minh), Xã Thọ Xuân (phần còn lại sau khi sáp nhập vào xã Liên Minh), Xã Tiến Thịnh (phần còn lại sau khi sáp nhập vào xã Liên Minh), Xã Trung Châu (phần còn lại sau khi sáp nhập vào xã Liên Minh), Xã Văn Khê",
+      "dienTich": "3.820 km²",
+      "danSo": "18.459 người",
+      "matDo": "5 người/km²",
+      "tS": ""
+    },
+    "Yên Nghĩa": {
+      "loai": "Phường",
+      "donViCu": "Phường Đồng Mai, Phường Yên Nghĩa (phần còn lại sau khi sáp nhập vào phường Dương Nội)",
+      "dienTich": "1.318 km²",
+      "danSo": "49.643 người",
+      "matDo": "38 người/km²",
+      "tS": ""
+    },
+    "Yên Sở": {
+      "loai": "Phường",
+      "donViCu": "Phường Hoàng Liệt (phần còn lại sau khi sáp nhập vào phường Hoàng Mai, phường Định Công, phường Hoàng Liệt), Phường Thịnh Liệt, Phường Trần Phú (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam, phường Hoàng Mai), Phường Yên Sở, Xã Tứ Hiệp",
+      "dienTich": "562 km²",
+      "danSo": "40.948 người",
+      "matDo": "73 người/km²",
+      "tS": ""
+    },
+    "Yên Xuân": {
+      "loai": "Xã",
+      "donViCu": "Xã Đông Xuân (huyện Quốc Oai), Xã Thạch Hòa (phần còn lại sau khi sáp nhập vào xã Yên Bài, xã Hòa Lạc), Xã Tiến Xuân (phần còn lại sau khi sáp nhập vào xã Hòa Lạc), Xã Yên Bình, Xã Yên Trung",
+      "dienTich": "9.041 km²",
+      "danSo": "27.707 người",
+      "matDo": "3 người/km²",
+      "tS": ""
+    }
+  },
+  "Hồ Chí Minh": {
+    "_info": {
+      "loai":"Thành phố",
+      "ten": "TP Hồ Chí Minh",
+      "donViCu": "TP HCM, Bình Dương, Bà Rịa - Vũng Tàu",
+      "dienTich": "6.773 km²",
+      "danSo": "14.002.598 người",
+      "matDo": "2.067 người/km²",
+      "grdp": "193 triệu đồng/người/năm",
+      "soPhuongXa": "168",
+      "bienSo": "41, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 61, 72"
+    },
+    "An Đông": {
+  "loai": "Phường",
+  "donViCu": "Phường 5, Phường 7, Phường 9 (Quận 5)",
+  "dienTich": "132 km²",
+  "danSo": "81.229 người",
+  "matDo": "615 người/km²",
+  "tS": ""
+  },
+  "An Hội Đông": {
+  "loai": "Phường",
+  "donViCu": "Phường 15, Phường 16 (quận Gò Vấp)",
+  "dienTich": "329 km²",
+  "danSo": "123.681 người",
+  "matDo": "376 người/km²",
+  "tS": ""
+},
+"An Hội Tây": {
+  "loai": "Phường",
+  "donViCu": "Phường 12, Phường 14 (quận Gò Vấp)",
+  "dienTich": "381 km²",
+  "danSo": "121.004 người",
+  "matDo": "318 người/km²",
+  "tS": ""
+},
+"An Khánh": {
+  "loai": "Phường",
+  "donViCu": "Phường An Khánh, Phường An Lợi Đông, Phường An Phú (thành phố Thủ Đức), Phường Thảo Điền, Phường Thủ Thiêm",
+  "dienTich": "1.533 km²",
+  "danSo": "76.967 người",
+  "matDo": "50 người/km²",
+  "tS": ""
+},
+"An Lạc": {
+  "loai": "Phường",
+  "donViCu": "Phường An Lạc, Phường An Lạc A, Phường Bình Trị Đông B",
+  "dienTich": "1.047 km²",
+  "danSo": "172.134 người",
+  "matDo": "164 người/km²",
+  "tS": ""
+},
+"An Long": {
+  "loai": "Xã",
+  "donViCu": "Xã An Linh, Xã An Long, Xã Tân Long",
+  "dienTich": "7.220 km²",
+  "danSo": "5.005 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"An Nhơn": {
+  "loai": "Phường",
+  "donViCu": "Phường 5, Phường 6 (quận Gò Vấp)",
+  "dienTich": "323 km²",
+  "danSo": "114.498 người",
+  "matDo": "354 người/km²",
+  "tS": ""
+},
+"An Nhơn Tây": {
+  "loai": "Xã",
+  "donViCu": "Xã An Nhơn Tây, Xã An Phú, Xã Phú Mỹ Hưng",
+  "dienTich": "7.770 km²",
+  "danSo": "40.896 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"An Phú": {
+  "loai": "Phường",
+  "donViCu": "Phường An Phú (thành phố Thuận An), Phường Bình Chuẩn",
+  "dienTich": "3.470 km²",
+  "danSo": "49.051 người",
+  "matDo": "14 người/km²",
+  "tS": ""
+},
+"An Phú Đông": {
+  "loai": "Phường",
+  "donViCu": "Phường An Phú Đông, Phường Thạnh Lộc",
+  "dienTich": "1.459 km²",
+  "danSo": "179.115 người",
+  "matDo": "123 người/km²",
+  "tS": ""
+},
+"An Thới Đông": {
+  "loai": "Xã",
+  "donViCu": "Xã An Thới Đông, Xã Lý Nhơn",
+  "dienTich": "25.785 km²",
+  "danSo": "22.607 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bà Điểm": {
+  "loai": "Xã",
+  "donViCu": "Xã Bà Điểm, Xã Trung Chánh, Xã Xuân Thới Thượng",
+  "dienTich": "2.736 km²",
+  "danSo": "204.289 người",
+  "matDo": "75 người/km²",
+  "tS": ""
+},
+"Bà Rịa": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Toàn, Phường Phước Hưng, Phường Phước Nguyên, Phường Phước Trung",
+  "dienTich": "1.555 km²",
+  "danSo": "52.265 người",
+  "matDo": "34 người/km²",
+  "tS": ""
+},
+"Bàn Cờ": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 2, Phường 3, Phường 4 (Quận 3), Phường 5",
+  "dienTich": "99 km²",
+  "danSo": "67.616 người",
+  "matDo": "683 người/km²",
+  "tS": ""
+},
+"Bàu Bàng": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Lai Uyên",
+  "dienTich": "8.409 km²",
+  "danSo": "42.219 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Bàu Lâm": {
+  "loai": "Xã",
+  "donViCu": "Xã Bàu Lâm, Xã Tân Lâm",
+  "dienTich": "12.383 km²",
+  "danSo": "22.567 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Bảy Hiền": {
+  "loai": "Phường",
+  "donViCu": "Phường 10, Phường 11, Phường 12 (quận Tân Bình)",
+  "dienTich": "286 km²",
+  "danSo": "132.252 người",
+  "matDo": "462 người/km²",
+  "tS": ""
+},
+"Bắc Tân Uyên": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Tân Thành, Xã Đất Cuốc, Xã Tân Định",
+  "dienTich": "14.369 km²",
+  "danSo": "27.964 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Bến Cát": {
+  "loai": "Phường",
+  "donViCu": "Phường Mỹ Phước, Xã Lai Hưng, Xã Tân Hưng (huyện Bàu Bàng)",
+  "dienTich": "10.089 km²",
+  "danSo": "97.928 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Bến Thành": {
+  "loai": "Phường",
+  "donViCu": "Phường Bến Thành, Phường Cầu Ông Lãnh, Phường Nguyễn Thái Bình, Phường Phạm Ngũ Lão",
+  "dienTich": "185 km²",
+  "danSo": "71.785 người",
+  "matDo": "388 người/km²",
+  "tS": ""
+},
+"Bình Chánh": {
+  "loai": "Xã",
+  "donViCu": "Xã An Phú Tây, Xã Bình Chánh, Xã Tân Quý Tây",
+  "dienTich": "2.133 km²",
+  "danSo": "76.187 người",
+  "matDo": "36 người/km²",
+  "tS": ""
+},
+"Bình Châu": {
+  "loai": "Xã",
+  "donViCu": "Bình Châu",
+  "dienTich": "8.706 km²",
+  "danSo": "26.054 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Bình Cơ": {
+  "loai": "Phường",
+  "donViCu": "Phường Hội Nghĩa, Xã Bình Mỹ (huyện Bắc Tân Uyên)",
+  "dienTich": "7.369 km²",
+  "danSo": "64.601 người",
+  "matDo": "9 người/km²",
+  "tS": ""
+},
+"Bình Dương": {
+  "loai": "Phường",
+  "donViCu": "Phường Hòa Phú, Phường Phú Chánh, Phường Phú Mỹ (thành phố Thủ Dầu Một), Phường Phú Tân",
+  "dienTich": "5.816 km²",
+  "danSo": "107.576 người",
+  "matDo": "18 người/km²",
+  "tS": ""
+},
+"Bình Đông": {
+  "loai": "Phường",
+  "donViCu": "Phường 5 (Quận 8), Phường 6 (Quận 8), Phường 7 (Quận 8), Xã An Phú Tây",
+  "dienTich": "893 km²",
+  "danSo": "155.555 người",
+  "matDo": "174 người/km²",
+  "tS": ""
+},
+"Bình Giã": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Giã, Xã Bình Trung, Xã Quảng Thành",
+  "dienTich": "6.696 km²",
+  "danSo": "34.262 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Bình Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Hòa, Phường Vĩnh Phú",
+  "dienTich": "4.863 km²",
+  "danSo": "56.484 người",
+  "matDo": "12 người/km²",
+  "tS": ""
+},
+"Bình Hưng": {
+  "loai": "Xã",
+  "donViCu": "Phường 7 (Quận 8), Xã Bình Hưng, Xã Phong Phú",
+  "dienTich": "3.263 km²",
+  "danSo": "183.697 người",
+  "matDo": "56 người/km²",
+  "tS": ""
+},
+"Bình Hưng Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Hưng Hòa, Phường Bình Hưng Hòa A, Phường Sơn Kỳ",
+  "dienTich": "847 km²",
+  "danSo": "18.795 người",
+  "matDo": "22 người/km²",
+  "tS": ""
+},
+"Bình Khánh": {
+  "loai": "Xã",
+  "donViCu": "Xã An Thới Đông, Xã Bình Khánh, Xã Tam Thôn Hiệp",
+  "dienTich": "15.828 km²",
+  "danSo": "35.482 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Bình Lợi": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Lợi, Xã Lê Minh Xuân",
+  "dienTich": "5.418 km²",
+  "danSo": "4.718 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bình Lợi Trung": {
+  "loai": "Phường",
+  "donViCu": "Phường 11, Phường 13 (quận Bình Thạnh), Phường 5",
+  "dienTich": "389 km²",
+  "danSo": "116.121 người",
+  "matDo": "299 người/km²",
+  "tS": ""
+},
+"Bình Mỹ": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Mỹ (huyện Củ Chi), Xã Hòa Phú, Xã Trung An",
+  "dienTich": "8.262 km²",
+  "danSo": "6.865 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bình Phú": {
+  "loai": "Phường",
+  "donViCu": "Phường 10, Phường 11 (Quận 6), Phường 16 (Quận 8)",
+  "dienTich": "4.730 km²",
+  "danSo": "51.081 người",
+  "matDo": "11 người/km²",
+  "tS": ""
+},
+"Bình Quới": {
+  "loai": "Phường",
+  "donViCu": "Phường 27, Phường 28",
+  "dienTich": "634 km²",
+  "danSo": "462 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bình Tân": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Hưng Hòa B, Phường Bình Trị Đông A, Phường Tân Tạo",
+  "dienTich": "1.125 km²",
+  "danSo": "161.851 người",
+  "matDo": "144 người/km²",
+  "tS": ""
+},
+"Bình Tây": {
+  "loai": "Phường",
+  "donViCu": "Phường 2, Phường 9 (Quận 6)",
+  "dienTich": "105 km²",
+  "danSo": "63.293 người",
+  "matDo": "603 người/km²",
+  "tS": ""
+},
+"Bình Thạnh": {
+  "loai": "Phường",
+  "donViCu": "Phường 12, Phường 14 (quận Bình Thạnh), Phường 26",
+  "dienTich": "332 km²",
+  "danSo": "1.263 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Bình Thới": {
+  "loai": "Phường",
+  "donViCu": "Phường 10 (Quận 11), Phường 3, Phường 8 (Quận 11)",
+  "dienTich": "152 km²",
+  "danSo": "76.478 người",
+  "matDo": "503 người/km²",
+  "tS": ""
+},
+"Bình Tiên": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 7, Phường 8 (Quận 6)",
+  "dienTich": "161 km²",
+  "danSo": "9.152 người",
+  "matDo": "57 người/km²",
+  "tS": ""
+},
+"Bình Trị Đông": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Hưng Hòa A, Phường Bình Trị Đông, Phường Bình Trị Đông A",
+  "dienTich": "715 km²",
+  "danSo": "165.142 người",
+  "matDo": "231 người/km²",
+  "tS": ""
+},
+"Bình Trưng": {
+  "loai": "Phường",
+  "donViCu": "Phường An Phú (thành phố Thủ Đức), Phường Bình Trưng Đông, Phường Bình Trưng Tây",
+  "dienTich": "3.120 km²",
+  "danSo": "34.618 người",
+  "matDo": "11 người/km²",
+  "tS": ""
+},
+"Cát Lái": {
+  "loai": "Phường",
+  "donViCu": "Phường Cát Lái, Phường Thạnh Mỹ Lợi",
+  "dienTich": "1.965 km²",
+  "danSo": "68.654 người",
+  "matDo": "35 người/km²",
+  "tS": ""
+},
+"Cần Giờ": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Cần Thạnh, Xã Long Hòa (huyện Cần Giờ)",
+  "dienTich": "15.701 km²",
+  "danSo": "2.713 người",
+  "matDo": "",
+  "tS": ""
+},
+"Cầu Kiệu": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 15 (quận Phú Nhuận), Phường 2, Phường 7 (quận Phú Nhuận)",
+  "dienTich": "123 km²",
+  "danSo": "62.663 người",
+  "matDo": "509 người/km²",
+  "tS": ""
+},
+"Cầu Ông Lãnh": {
+  "loai": "Phường",
+  "donViCu": "Phường Cầu Kho, Phường Cầu Ông Lãnh, Phường Cô Giang, Phường Nguyễn Cư Trinh",
+  "dienTich": "160 km²",
+  "danSo": "78.734 người",
+  "matDo": "492 người/km²",
+  "tS": ""
+},
+"Chánh Hiệp": {
+  "loai": "Phường",
+  "donViCu": "Phường Chánh Mỹ, Phường Định Hòa, Phường Hiệp An, Phường Tương Bình Hiệp",
+  "dienTich": "1.989 km²",
+  "danSo": "57.176 người",
+  "matDo": "29 người/km²",
+  "tS": ""
+},
+"Chánh Hưng": {
+  "loai": "Phường",
+  "donViCu": "Phường 4 (Quận 8), Phường 5 (Quận 8), Phường Hưng Phú, Rạch Ông",
+  "dienTich": "461 km²",
+  "danSo": "190.707 người",
+  "matDo": "414 người/km²",
+  "tS": ""
+},
+"Chánh Phú Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường Chánh Phú Hòa, Xã Hưng Hòa",
+  "dienTich": "6.954 km²",
+  "danSo": "53.916 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Châu Đức": {
+  "loai": "Xã",
+  "donViCu": "Xã Cù Bị, Xã Xà Bang",
+  "dienTich": "8.466 km²",
+  "danSo": "2.824 người",
+  "matDo": "",
+  "tS": ""
+},
+"Châu Pha": {
+  "loai": "Xã",
+  "donViCu": "Xã Châu Pha, Xã Tóc Tiên",
+  "dienTich": "6.564 km²",
+  "danSo": "25.438 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Chợ Lớn": {
+  "loai": "Phường",
+  "donViCu": "Phường 11, Phường 12, Phường 13, Phường 14 (Quận 5)",
+  "dienTich": "167 km²",
+  "danSo": "85.066 người",
+  "matDo": "509 người/km²",
+  "tS": ""
+},
+"Chợ Quán": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 2, Phường 4 (Quận 5)",
+  "dienTich": "128 km²",
+  "danSo": "63.545 người",
+  "matDo": "496 người/km²",
+  "tS": ""
+},
+"Côn Đảo": {
+  "loai": "Đặc khu",
+  "donViCu": "Huyện Côn Đảo",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Củ Chi": {
+  "loai": "Xã",
+  "donViCu": "Xã Phước Vĩnh An, Xã Tân Phú Trung, Xã Tân Thông Hội",
+  "dienTich": "6.488 km²",
+  "danSo": "128.661 người",
+  "matDo": "20 người/km²",
+  "tS": ""
+},
+"Dầu Tiếng": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Dầu Tiếng, Xã Định An, Xã Định Hiệp, Xã Định Thành",
+  "dienTich": "18.269 km²",
+  "danSo": "39.056 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Dĩ An": {
+  "loai": "Phường",
+  "donViCu": "Phường An Bình, Phường Dĩ An, Phường Tân Đông Hiệp",
+  "dienTich": "2.138 km²",
+  "danSo": "227.817 người",
+  "matDo": "107 người/km²",
+  "tS": ""
+},
+"Diên Hồng": {
+  "loai": "Phường",
+  "donViCu": "Phường 14 (Quận 10), Phường 6, Phường 8 (Quận 10)",
+  "dienTich": "186 km²",
+  "danSo": "75.633 người",
+  "matDo": "407 người/km²",
+  "tS": ""
+},
+"Đất Đỏ": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Đất Đỏ, Xã Láng Dài, Xã Long Tân (huyện Long Đất), Xã Phước Long Thọ",
+  "dienTich": "11.976 km²",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Đông Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình An, Phường Bình Thắng, Phường Đông Hòa",
+  "dienTich": "15.188 km²",
+  "danSo": "45.282 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Đông Hưng Thuận": {
+  "loai": "Phường",
+  "donViCu": "Phường Đông Hưng Thuận, Phường Tân Hưng Thuận, Phường Tân Thới Nhất",
+  "dienTich": "826 km²",
+  "danSo": "182.895 người",
+  "matDo": "221 người/km²",
+  "tS": ""
+},
+"Đông Thạnh": {
+  "loai": "Xã",
+  "donViCu": "Xã Đông Thạnh, Xã Nhị Bình, Xã Thới Tam Thôn",
+  "dienTich": "3.016 km²",
+  "danSo": "1.904 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Đức Nhuận": {
+  "loai": "Phường",
+  "donViCu": "Phường 4, Phường 5, Phường 9 (quận Phú Nhuận)",
+  "dienTich": "217 km²",
+  "danSo": "71.495 người",
+  "matDo": "329 người/km²",
+  "tS": ""
+},
+"Gia Định": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 17 (quận Bình Thạnh), Phường 2, Phường 7",
+  "dienTich": "276 km²",
+  "danSo": "125.946 người",
+  "matDo": "456 người/km²",
+  "tS": ""
+},
+"Gò Vấp": {
+  "loai": "Phường",
+  "donViCu": "Phường 10, Phường 17 (quận Gò Vấp)",
+  "dienTich": "281 km²",
+  "danSo": "11.085 người",
+  "matDo": "39 người/km²",
+  "tS": ""
+},
+"Hạnh Thông": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 3 (quận Gò Vấp)",
+  "dienTich": "337 km²",
+  "danSo": "128.865 người",
+  "matDo": "382 người/km²",
+  "tS": ""
+},
+"Hiệp Bình": {
+  "loai": "Phường",
+  "donViCu": "Phường Hiệp Bình Chánh, Phường Hiệp Bình Phước, Phường Linh Đông",
+  "dienTich": "1.601 km²",
+  "danSo": "215.638 người",
+  "matDo": "135 người/km²",
+  "tS": ""
+},
+"Hiệp Phước": {
+  "loai": "Xã",
+  "donViCu": "Xã Hiệp Phước, Xã Long Thới, Xã Nhơn Đức",
+  "dienTich": "6.333 km²",
+  "danSo": "67.754 người",
+  "matDo": "11 người/km²",
+  "tS": ""
+},
+"Hòa Bình": {
+  "loai": "Phường",
+  "donViCu": "Phường 14 (Quận 11), Phường 5",
+  "dienTich": "98 km²",
+  "danSo": "69.318 người",
+  "matDo": "707 người/km²",
+  "tS": ""
+},
+"Hòa Hiệp": {
+  "loai": "Xã",
+  "donViCu": "Hòa Hiệp",
+  "dienTich": "4.410 km²",
+  "danSo": "31.099 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Hòa Hội": {
+  "loai": "Xã",
+  "donViCu": "Xã Hòa Bình, Xã Hòa Hội, Xã Hòa Hưng",
+  "dienTich": "13.627 km²",
+  "danSo": "36.174 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Hòa Hưng": {
+  "loai": "Phường",
+  "donViCu": "Phường 12, Phường 13, Phường 14 (Quận 10), Phường 15 (Quận 10)",
+  "dienTich": "11.424 km²",
+  "danSo": "37.877 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Hòa Lợi": {
+  "loai": "Phường",
+  "donViCu": "Phường Hòa Lợi, Phường Tân Định (thành phố Bến Cát)",
+  "dienTich": "34.236 km²",
+  "danSo": "79.694 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Hóc Môn": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Hóc Môn, Xã Tân Hiệp (huyện Hóc Môn), Xã Tân Xuân",
+  "dienTich": "1.643 km²",
+  "danSo": "93.323 người",
+  "matDo": "57 người/km²",
+  "tS": ""
+},
+"Hồ Tràm": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Phước Bửu, Xã Phước Tân, Xã Phước Thuận",
+  "dienTich": "9.451 km²",
+  "danSo": "51.895 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Hưng Long": {
+  "loai": "Xã",
+  "donViCu": "Xã Đa Phước, Xã Hưng Long, Xã Qui Đức",
+  "dienTich": "3.554 km²",
+  "danSo": "71.504 người",
+  "matDo": "20 người/km²",
+  "tS": ""
+},
+"Khánh Hội": {
+  "loai": "Phường",
+  "donViCu": "Phường 15 (Quận 4), Phường 2, Phường 4 (Quận 4), Phường 8, Phường 9 (Quận 4)",
+  "dienTich": "107 km²",
+  "danSo": "94.507 người",
+  "matDo": "883 người/km²",
+  "tS": ""
+},
+"Kim Long": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Kim Long, Xã Bàu Chinh, Xã Láng Lớn",
+  "dienTich": "6.392 km²",
+  "danSo": "33.369 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Lái Thiêu": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Nhâm, Phường Lái Thiêu, Phường Vĩnh Phú",
+  "dienTich": "1.546 km²",
+  "danSo": "118.852 người",
+  "matDo": "77 người/km²",
+  "tS": ""
+},
+"Linh Xuân": {
+  "loai": "Phường",
+  "donViCu": "Phường Linh Tây, Phường Linh Trung, Phường Linh Xuân",
+  "dienTich": "1.229 km²",
+  "danSo": "158.334 người",
+  "matDo": "129 người/km²",
+  "tS": ""
+},
+"Long Bình": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Bình, Phường Long Thạnh Mỹ",
+  "dienTich": "4.020 km²",
+  "danSo": "26.378 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Long Điền": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Long Điền, Xã Tam An",
+  "dienTich": "8.772 km²",
+  "danSo": "29.479 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Long Hải": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Long Hải, Xã Phước Hưng, Xã Phước Tỉnh",
+  "dienTich": "2.793 km²",
+  "danSo": "109.149 người",
+  "matDo": "39 người/km²",
+  "tS": ""
+},
+"Long Hòa": {
+  "loai": "Xã",
+  "donViCu": "Xã Long Hòa (huyện Dầu Tiếng), Xã Long Tân, Xã Minh Tân, Xã Minh Thạnh",
+  "dienTich": "5.267 km²",
+  "danSo": "13.309 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Long Hương": {
+  "loai": "Phường",
+  "donViCu": "Phường Kim Dinh, Phường Long Hương, Xã Tân Hưng (thành phố Bà Rịa)",
+  "dienTich": "4.122 km²",
+  "danSo": "31.457 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Long Nguyên": {
+  "loai": "Phường",
+  "donViCu": "Phường An Điền, Phường Mỹ Phước, Xã Long Nguyên",
+  "dienTich": "10.800 km²",
+  "danSo": "53.387 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Long Phước": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Phước, Phường Trường Thạnh",
+  "dienTich": "3.429 km²",
+  "danSo": "53.092 người",
+  "matDo": "15 người/km²",
+  "tS": ""
+},
+"Long Sơn": {
+  "loai": "Xã",
+  "donViCu": "Long Sơn",
+  "dienTich": "5.650 km²",
+  "danSo": "17.767 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Long Trường": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Trường, Phường Phú Hữu",
+  "dienTich": "2.449 km²",
+  "danSo": "73.669 người",
+  "matDo": "30 người/km²",
+  "tS": ""
+},
+"Minh Phụng": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 16 (Quận 11), Phường 7",
+  "dienTich": "127 km²",
+  "danSo": "90.808 người",
+  "matDo": "715 người/km²",
+  "tS": ""
+},
+"Ngãi Giao": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Ngãi Giao, Xã Bình Ba, Xã Suối Nghệ",
+  "dienTich": "6.930 km²",
+  "danSo": "49.065 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Nhuận Đức": {
+  "loai": "Xã",
+  "donViCu": "Xã Nhuận Đức, Xã Phạm Văn Cội, Xã Trung Lập Hạ",
+  "dienTich": "6.206 km²",
+  "danSo": "40.239 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Nghĩa Thành": {
+  "loai": "Xã",
+  "donViCu": "Xã Đá Bạc, Xã Nghĩa Thành",
+  "dienTich": "6.567 km²",
+  "danSo": "27.819 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Minh Thạnh": {
+  "loai": "Xã",
+  "donViCu": "Xã Minh Hòa, Xã Minh Tân, Xã Minh Thạnh",
+  "dienTich": "15.906 km²",
+  "danSo": "24.215 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Nhiêu Lộc": {
+  "loai": "Phường",
+  "donViCu": "Phường 11, Phường 12, Phường 14 (Quận 3), Phường 9",
+  "dienTich": "171 km²",
+  "danSo": "8.809 người",
+  "matDo": "52 người/km²",
+  "tS": ""
+},
+"Nhà Bè": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Nhà Bè, Xã Phú Xuân, Xã Phước Kiển, Xã Phước Lộc",
+  "dienTich": "3.710 km²",
+  "danSo": "125.832 người",
+  "matDo": "34 người/km²",
+  "tS": ""
+},
+"Phú An": {
+  "loai": "Phường",
+  "donViCu": "Phường Hiệp An, Phường Tân An, Xã Phú An",
+  "dienTich": "5.735 km²",
+  "danSo": "40.005 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Phú Định": {
+  "loai": "Phường",
+  "donViCu": "Phường 14, Phường 15 (Quận 8), Phường 16 (Quận 8), Phường Xóm Củi",
+  "dienTich": "585 km²",
+  "danSo": "150.389 người",
+  "matDo": "257 người/km²",
+  "tS": ""
+},
+"Phú Giáo": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Phước Vĩnh, Xã An Bình, Xã Tam Lập",
+  "dienTich": "19.283 km²",
+  "danSo": "42.739 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Phú Hòa Đông": {
+  "loai": "Xã",
+  "donViCu": "Xã Phú Hòa Đông, Xã Tân Thạnh Đông, Xã Tân Thạnh Tây",
+  "dienTich": "5.975 km²",
+  "danSo": "97.766 người",
+  "matDo": "16 người/km²",
+  "tS": ""
+},
+"Phú Lâm": {
+  "loai": "Phường",
+  "donViCu": "Phường 12, Phường 13, Phường 14 (Quận 6)",
+  "dienTich": "4.307 km²",
+  "danSo": "33.186 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Phú Lợi": {
+  "loai": "Phường",
+  "donViCu": "Phường Hiệp Thành (thành phố Thủ Dầu Một), Phường Phú Hòa, Phường Phú Lợi",
+  "dienTich": "2.679 km²",
+  "danSo": "95.516 người",
+  "matDo": "36 người/km²",
+  "tS": ""
+},
+"Phú Mỹ": {
+  "loai": "Phường",
+  "donViCu": "Phường Mỹ Xuân, Phường Phú Mỹ (thành phố Phú Mỹ)",
+  "dienTich": "8.781 km²",
+  "danSo": "26.205 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Phú Nhuận": {
+  "loai": "Phường",
+  "donViCu": "Phường 10, Phường 11, Phường 13 (quận Phú Nhuận), Phường 15 (quận Phú Nhuận), Phường 8",
+  "dienTich": "146 km²",
+  "danSo": "6.842 người",
+  "matDo": "47 người/km²",
+  "tS": ""
+},
+"Phú Thạnh": {
+  "loai": "Phường",
+  "donViCu": "Phường Hiệp Tân, Phường Phú Thạnh, Phường Tân Thới Hòa",
+  "dienTich": "299 km²",
+  "danSo": "10.378 người",
+  "matDo": "35 người/km²",
+  "tS": ""
+},
+"Phú Thọ": {
+  "loai": "Phường",
+  "donViCu": "Phường 11, Phường 15 (Quận 11), Phường 8 (Quận 11)",
+  "dienTich": "8.490 km²",
+  "danSo": "30.372 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Phú Thọ Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường Phú Thọ Hòa, Phường Tân Quý, Phường Tân Thành",
+  "dienTich": "302 km²",
+  "danSo": "140.436 người",
+  "matDo": "465 người/km²",
+  "tS": ""
+},
+"Phú Thuận": {
+  "loai": "Phường",
+  "donViCu": "Phường Phú Mỹ (Quận 7), Phường Phú Thuận",
+  "dienTich": "1.055 km²",
+  "danSo": "84.089 người",
+  "matDo": "80 người/km²",
+  "tS": ""
+},
+"Phước Hải": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Phước Hải, Xã Phước Hội",
+  "dienTich": "7.004 km²",
+  "danSo": "43.615 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Phước Hòa": {
+  "loai": "Xã",
+  "donViCu": "Xã Phước Hòa, Xã Tam Lập, Xã Vĩnh Hòa",
+  "dienTich": "12.807 km²",
+  "danSo": "4.247 người",
+  "matDo": "",
+  "tS": ""
+},
+"Phước Long": {
+  "loai": "Phường",
+  "donViCu": "Phường Phước Bình, Phường Phước Long A, Phường Phước Long B",
+  "dienTich": "4.948 km²",
+  "danSo": "24.984 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Phước Thành": {
+  "loai": "Xã",
+  "donViCu": "Xã An Thái, Xã Phước Sang, Xã Tân Hiệp (huyện Phú Giáo)",
+  "dienTich": "12.349 km²",
+  "danSo": "15.803 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Phước Thắng": {
+  "loai": "Phường",
+  "donViCu": "Phường 11, Phường 12 (thành phố Vũng Tàu)",
+  "dienTich": "4.735 km²",
+  "danSo": "52.589 người",
+  "matDo": "11 người/km²",
+  "tS": ""
+},
+"Rạch Dừa": {
+  "loai": "Phường",
+  "donViCu": "Phường 10 (thành phố Vũng Tàu), Phường Rạch Dừa, Phường Thắng Nhất",
+  "dienTich": "1.970 km²",
+  "danSo": "76.281 người",
+  "matDo": "39 người/km²",
+  "tS": ""
+},
+"Sài Gòn": {
+  "loai": "Phường",
+  "donViCu": "Phường Bến Nghé, Phường Đa Kao, Phường Nguyễn Thái Bình",
+  "dienTich": "304 km²",
+  "danSo": "47.022 người",
+  "matDo": "155 người/km²",
+  "tS": ""
+},
+"Tam Bình": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Chiểu, Phường Tam Bình, Phường Tam Phú",
+  "dienTich": "1.071 km²",
+  "danSo": "153.414 người",
+  "matDo": "143 người/km²",
+  "tS": ""
+},
+"Tam Long": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Tâm, Xã Hòa Long, Xã Long Phước",
+  "dienTich": "3.470 km²",
+  "danSo": "4.113 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Tam Thắng": {
+  "loai": "Phường",
+  "donViCu": "Phường 7, Phường 8, Phường 9 (thành phố Vũng Tàu), Phường Nguyễn An Ninh",
+  "dienTich": "1.176 km²",
+  "danSo": "8.642 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Tăng Nhơn Phú": {
+  "loai": "Phường",
+  "donViCu": "Phường Hiệp Phú, Phường Long Thạnh Mỹ, Phường Tân Phú (thành phố Thủ Đức), Phường Tăng Nhơn Phú A, Phường Tăng Nhơn Phú B",
+  "dienTich": "1.651 km²",
+  "danSo": "208.233 người",
+  "matDo": "126 người/km²",
+  "tS": ""
+},
+"Tân An Hội": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Củ Chi, Xã Phước Hiệp, Xã Tân An Hội",
+  "dienTich": "5.351 km²",
+  "danSo": "84.342 người",
+  "matDo": "16 người/km²",
+  "tS": ""
+},
+"Tân Bình": {
+  "loai": "Phường",
+  "donViCu": "Phường 13, Phường 14 (quận Tân Bình), Phường 15 (quận Tân Bình)",
+  "dienTich": "6.185 km²",
+  "danSo": "38.032 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Tân Định": {
+  "loai": "Phường",
+  "donViCu": "Phường Đa Kao, Phường Tân Định (Quận 1)",
+  "dienTich": "123 km²",
+  "danSo": "48.524 người",
+  "matDo": "395 người/km²",
+  "tS": ""
+},
+"Tân Đông Hiệp": {
+  "loai": "Phường",
+  "donViCu": "Phường Tân Bình, Phường Tân Đông Hiệp, Phường Thái Hòa",
+  "dienTich": "2.147 km²",
+  "danSo": "100.243 người",
+  "matDo": "47 người/km²",
+  "tS": ""
+},
+"Tân Hải": {
+  "loai": "Phường",
+  "donViCu": "Phường Tân Hải, Phường Tân Hòa",
+  "dienTich": "5.186 km²",
+  "danSo": "30.297 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Tân Hiệp": {
+  "loai": "Phường",
+  "donViCu": "Phường Khánh Bình, Phường Tân Hiệp",
+  "dienTich": "14.662 km²",
+  "danSo": "66.731 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Tân Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường 6, Phường 8, Phường 9 (quận Tân Bình)",
+  "dienTich": "5.860 km²",
+  "danSo": "50.989 người",
+  "matDo": "9 người/km²",
+  "tS": ""
+},
+"Tân Hưng": {
+  "loai": "Phường",
+  "donViCu": "Phường Tân Hưng, Phường Tân Kiểng, Phường Tân Phong, Phường Tân Quy",
+  "dienTien": "9.241 km²",
+  "danSo": "35.222 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Tân Khánh": {
+  "loai": "Phường",
+  "donViCu": "Phường Tân Phước Khánh, Phường Tân Vĩnh Hiệp, Phường Thái Hòa, Phường Thạnh Phước, Xã Thạnh Hội",
+  "dienTich": "3.823 km²",
+  "danSo": "126.393 người",
+  "matDo": "33 người/km²",
+  "tS": ""
+},
+"Tân Mỹ": {
+  "loai": "Phường",
+  "donViCu": "Phường Phú Mỹ (Quận 7), Phường Tân Phú (Quận 7)",
+  "dienTich": "10.257 km²",
+  "danSo": "24.644 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Tân Nhựt": {
+  "loai": "Xã",
+  "donViCu": "Phường 16 (Quận 8), Phường Tân Tạo A, Thị trấn Tân Túc, Xã Tân Kiên, Xã Tân Nhựt",
+  "dienTich": "4.367 km²",
+  "danSo": "115.513 người",
+  "matDo": "26 người/km²",
+  "tS": ""
+},
+"Tân Phú": {
+  "loai": "Phường",
+  "donViCu": "Phường Hòa Thạnh, Phường Phú Trung, Phường Tân Thành, Phường Tân Thới Hòa",
+  "dienTich": "3.860 km²",
+  "danSo": "3.136 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Tân Phước": {
+  "loai": "Phường",
+  "donViCu": "Phường Phước Hòa, Phường Tân Phước",
+  "dienTich": "8.362 km²",
+  "danSo": "29.363 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Tân Sơn": {
+  "loai": "Phường",
+  "donViCu": "Phường 15 (quận Tân Bình)",
+  "dienTich": "1.012 km²",
+  "danSo": "77.229 người",
+  "matDo": "76 người/km²",
+  "tS": ""
+},
+"Tân Sơn Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 2, Phường 3 (quận Tân Bình)",
+  "dienTich": "262 km²",
+  "danSo": "6.415 người",
+  "matDo": "24 người/km²",
+  "tS": ""
+},
+"Tân Sơn Nhất": {
+  "loai": "Phường",
+  "donViCu": "Phường 4, Phường 5, Phường 7 (quận Tân Bình)",
+  "dienTich": "319 km²",
+  "danSo": "84.639 người",
+  "matDo": "265 người/km²",
+  "tS": ""
+},
+"Tân Sơn Nhì": {
+  "loai": "Phường",
+  "donViCu": "Phường Sơn Kỳ, Phường Tân Quý, Phường Tân Sơn Nhì, Phường Tân Thành",
+  "dienTich": "346 km²",
+  "danSo": "117.277 người",
+  "matDo": "339 người/km²",
+  "tS": ""
+},
+"Tân Tạo": {
+  "loai": "Phường",
+  "donViCu": "Phường Tân Tạo, Phường Tân Tạo A, Xã Tân Kiên",
+  "dienTich": "1.471 km²",
+  "danSo": "113.363 người",
+  "matDo": "77 người/km²",
+  "tS": ""
+},
+"Tân Thành": {
+  "loai": "Phường",
+  "donViCu": "Phường Hắc Dịch, Xã Sông Xoài",
+  "dienTich": "4.842 km²",
+  "danSo": "83.758 người",
+  "matDo": "17 người/km²",
+  "tS": ""
+},
+"Tân Thới Hiệp": {
+  "loai": "Phường",
+  "donViCu": "Phường Hiệp Thành (Quận 12), Phường Tân Thới Hiệp",
+  "dienTich": "806 km²",
+  "danSo": "16.806 người",
+  "matDo": "21 người/km²",
+  "tS": ""
+},
+"Tân Thuận": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Thuận, Phường Tân Thuận Đông, Phường Tân Thuận Tây",
+  "dienTich": "16.980 km²",
+  "danSo": "35.473 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Tân Uyên": {
+  "loai": "Phường",
+  "donViCu": "Phường Uyên Hưng, Xã Bạch Đằng, Xã Tân Lập, Xã Tân Mỹ",
+  "dienTich": "9.467 km²",
+  "danSo": "73.032 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Tân Vĩnh Lộc": {
+  "loai": "Xã",
+  "donViCu": "Phường Tân Tạo, Xã Phạm Văn Hai, Xã Vĩnh Lộc B",
+  "dienTich": "3.405 km²",
+  "danSo": "163.839 người",
+  "matDo": "48 người/km²",
+  "tS": ""
+},
+"Tây Nam": {
+  "loai": "Phường",
+  "donViCu": "Phường An Tây, Xã An Lập, Xã Thanh Tuyền",
+  "dienTich": "11.980 km²",
+  "danSo": "56.784 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Tây Thạnh": {
+  "loai": "Phường",
+  "donViCu": "Phường Sơn Kỳ, Phường Tây Thạnh",
+  "dienTich": "395 km²",
+  "danSo": "72.616 người",
+  "matDo": "184 người/km²",
+  "tS": ""
+},
+"Thái Mỹ": {
+  "loai": "Xã",
+  "donViCu": "Xã Phước Thạnh, Xã Thái Mỹ, Xã Trung Lập Thượng",
+  "dienTich": "6.244 km²",
+  "danSo": "49.862 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Thạnh An": {
+  "loai": "Xã",
+  "donViCu": "Thạnh An",
+  "dienTich": "8.597 km²",
+  "danSo": "30.682 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Thanh An": {
+  "loai": "Xã",
+  "donViCu": "Xã An Lập, Xã Định Hiệp, Xã Thanh An, Xã Thanh Tuyền",
+  "dienTich": "13.672 km²",
+  "danSo": "25.324 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Thạnh Mỹ Tây": {
+  "loai": "Phường",
+  "donViCu": "Phường 19, Phường 22, Phường 25",
+  "dienTich": "16.208 km²",
+  "danSo": "6.485 người",
+  "matDo": "",
+  "tS": ""
+},
+"Thông Tây Hội": {
+  "loai": "Phường",
+  "donViCu": "Phường 11 (quận Gò Vấp), Phường 8",
+  "dienTich": "324 km²",
+  "danSo": "121.192 người",
+  "matDo": "374 người/km²",
+  "tS": ""
+},
+"Thới An": {
+  "loai": "Phường",
+  "donViCu": "Phường Thạnh Xuân, Phường Thới An",
+  "dienTich": "1.490 km²",
+  "danSo": "125.657 người",
+  "matDo": "84 người/km²",
+  "tS": ""
+},
+"Thới Hòa": {
+  "loai": "Phường",
+  "donViCu": "Thới Hòa",
+  "dienTich": "3.793 km²",
+  "danSo": "79.601 người",
+  "matDo": "21 người/km²",
+  "tS": ""
+},
+"Thủ Dầu Một": {
+  "loai": "Phường",
+  "donViCu": "Phường Chánh Mỹ, Phường Chánh Nghĩa, Phường Hiệp Thành (thành phố Thủ Dầu Một), Phường Phú Cường, Phường Phú Thọ",
+  "dienTich": "1.568 km²",
+  "danSo": "88.132 người",
+  "matDo": "56 người/km²",
+  "tS": ""
+},
+"Thủ Đức": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Thọ, Phường Linh Chiểu, Phường Linh Đông, Phường Linh Tây, Phường Trường Thọ",
+  "dienTich": "881 km²",
+  "danSo": "118.952 người",
+  "matDo": "135 người/km²",
+  "tS": ""
+},
+"Thuận An": {
+  "loai": "Phường",
+  "donViCu": "Phường An Thạnh, Phường Hưng Định, Xã An Sơn",
+  "dienTich": "1.611 km²",
+  "danSo": "64.689 người",
+  "matDo": "40 người/km²",
+  "tS": ""
+},
+"Thuận Giao": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Chuẩn, Phường Thuận Giao",
+  "dienTich": "1.681 km²",
+  "danSo": "150.781 người",
+  "matDo": "90 người/km²",
+  "tS": ""
+},
+"Thường Tân": {
+  "loai": "Xã",
+  "donViCu": "Xã Hiếu Liêm, Xã Lạc An, Xã Tân Mỹ, Xã Thường Tân",
+  "dienTich": "12.070 km²",
+  "danSo": "21.238 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Trung Mỹ Tây": {
+  "loai": "Phường",
+  "donViCu": "Phường Tân Chánh Hiệp, Phường Trung Mỹ Tây",
+  "dienTich": "693 km²",
+  "danSo": "12.647 người",
+  "matDo": "18 người/km²",
+  "tS": ""
+},
+"Trừ Văn Thố": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Lai Uyên, Xã Cây Trường II, Xã Trừ Văn Thố",
+  "dienTich": "7.656 km²",
+  "danSo": "24.533 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Vĩnh Hội": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 2, Phường 3 (Quận 4), Phường 4 (Quận 4)",
+  "dienTich": "117 km²",
+  "danSo": "63.015 người",
+  "matDo": "539 người/km²",
+  "tS": ""
+},
+"Vĩnh Lộc": {
+  "loai": "Xã",
+  "donViCu": "Xã Phạm Văn Hai, Xã Vĩnh Lộc A",
+  "dienTich": "4.847 km²",
+  "danSo": "12.047 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Vĩnh Tân": {
+  "loai": "Phường",
+  "donViCu": "Phường Vĩnh Tân, Thị trấn Tân Bình",
+  "dienTich": "6.135 km²",
+  "danSo": "61.865 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Vũng Tàu": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 2, Phường 3, Phường 4, Phường 5 (thành phố Vũng Tàu), Phường Thắng Nhì, Phường Thắng Tam",
+  "dienTich": "1.686 km²",
+  "danSo": "117.413 người",
+  "matDo": "70 người/km²",
+  "tS": ""
+},
+"Vườn Lài": {
+  "loai": "Phường",
+  "donViCu": "Phường 1, Phường 10 (Quận 10), Phường 2, Phường 4, Phường 9",
+  "dienTich": "128 km²",
+  "danSo": "104.076 người",
+  "matDo": "813 người/km²",
+  "tS": ""
+},
+"Xóm Chiếu": {
+  "loai": "Phường",
+  "donViCu": "Phường 13, Phường 15 (Quận 4), Phường 16, Phường 18",
+  "dienTich": "194 km²",
+  "danSo": "57.875 người",
+  "matDo": "298 người/km²",
+  "tS": ""
+},
+"Xuân Hòa": {
+  "loai": "Phường",
+  "donViCu": "Phường 4 (Quận 3), Phường Võ Thị Sáu",
+  "dienTich": "222 km²",
+  "danSo": "48.464 người",
+  "matDo": "218 người/km²",
+  "tS": ""
+},
+"Xuân Sơn": {
+  "loai": "Xã",
+  "donViCu": "Xã Sơn Bình, Xã Suối Rao, Xã Xuân Sơn",
+  "dienTich": "7.381 km²",
+  "danSo": "27.368 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Xuân Thới Sơn": {
+  "loai": "Xã",
+  "donViCu": "Xã Tân Thới Nhì, Xã Xuân Thới Đông, Xã Xuân Thới Sơn",
+  "dienTich": "3.521 km²",
+  "danSo": "103.643 người",
+  "matDo": "29 người/km²",
+  "tS": ""
+},
+"Xuyên Mộc": {
+  "loai": "Xã",
+  "donViCu": "Xã Bông Trang, Xã Bưng Riềng, Xã Xuyên Mộc",
+  "dienTich": "10.296 km²",
+  "danSo": "26.917 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+}
+
+
+
+  },
+  "An Giang": {
+    "_info": {
+      "loai":"Tỉnh",
+      "ten": "An Giang",
+      "donViCu": "An Giang, Kiên Giang",
+      "dienTich": "9.889 km²",
+      "danSo": "4.952.238 người",
+      "matDo": "501 người/km²",
+      "grdp": "54 triệu đồng/người/năm",
+      "soPhuongXa": "99",
+      "bienSo": "68, 67"
+    },
+  "An Biên": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Thứ Ba, Xã Đông Yên, Xã Hưng Yên",
+  "dienTich": "656 km²",
+  "danSo": "116.091 người",
+  "matDo": "177 người/km²",
+  "tS": ""
+},
+"An Châu": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn An Châu, Xã Hòa Bình Thạnh, Xã Vĩnh Thành",
+  "dienTich": "7.025 km²",
+  "danSo": "65.588 người",
+  "matDo": "9 người/km²",
+  "tS": ""
+},
+"An Cư": {
+  "loai": "Xã",
+  "donViCu": "Xã An Cư, Xã Văn Giáo, Xã Vĩnh Trung",
+  "dienTich": "9.430 km²",
+  "danSo": "39.956 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"An Minh": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Thứ Mười Một, Xã Đông Hưng, Xã Đông Hưng B",
+  "dienTich": "14.230 km²",
+  "danSo": "35.596 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"An Phú": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn An Phú, Xã Phú Hội, Xã Phước Hưng, Xã Vĩnh Hội Đông",
+  "dienTich": "3.470 km²",
+  "danSo": "49.051 người",
+  "matDo": "14 người/km²",
+  "tS": ""
+},
+"Ba Chúc": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Ba Chúc, Xã Lạc Quới, Xã Lê Trì",
+  "dienTich": "7.094 km²",
+  "danSo": "32.071 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Bình An": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình An (huyện Châu Thành), Xã Vĩnh Hòa Hiệp, Xã Vĩnh Hòa Phú",
+  "dienTich": "7.343 km²",
+  "danSo": "59.475 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Bình Đức": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình Đức, Phường Bình Khánh, Xã Mỹ Khánh",
+  "dienTich": "5.120 km²",
+  "danSo": "3.511 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bình Giang": {
+  "loai": "Xã",
+  "donViCu": "Bình Giang",
+  "dienTich": "16.370 km²",
+  "danSo": "18.257 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bình Hòa": {
+  "loai": "Xã",
+  "donViCu": "Xã An Hòa, Xã Bình Hòa, Xã Bình Thạnh",
+  "dienTich": "4.863 km²",
+  "danSo": "56.484 người",
+  "matDo": "12 người/km²",
+  "tS": ""
+},
+"Bình Mỹ": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Chánh, Xã Bình Mỹ, Xã Bình Thủy",
+  "dienTich": "8.262 km²",
+  "danSo": "6.865 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Bình Sơn": {
+  "loai": "Xã",
+  "donViCu": "Bình Sơn",
+  "dienTich": "28.170 km²",
+  "danSo": "61.517 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Bình Thạnh Đông": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Thạnh Đông, Xã Hiệp Xương, Xã Phú Bình",
+  "dienTich": "6.170 km²",
+  "danSo": "50.569 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Cần Đăng": {
+  "loai": "Xã",
+  "donViCu": "Xã Cần Đăng, Xã Vĩnh Lợi",
+  "dienTich": "6.521 km²",
+  "danSo": "35.257 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Châu Đốc": {
+  "loai": "Phường",
+  "donViCu": "Phường Châu Phú A, Phường Châu Phú B, Phường Vĩnh Mỹ, Phường Vĩnh Nguơn, Xã Vĩnh Châu",
+  "dienTich": "4.132 km²",
+  "danSo": "97.438 người",
+  "matDo": "24 người/km²",
+  "tS": ""
+},
+"Châu Phong": {
+  "loai": "Xã",
+  "donViCu": "Xã Châu Phong, Xã Lê Chánh, Xã Phú Vĩnh",
+  "dienTich": "4.928 km²",
+  "danSo": "56.322 người",
+  "matDo": "11 người/km²",
+  "tS": ""
+},
+"Châu Phú": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Cái Dầu, Xã Bình Long, Xã Bình Phú",
+  "dienTich": "8.011 km²",
+  "danSo": "60.137 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Châu Thành": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Minh Lương, Xã Giục Tượng, Xã Minh Hòa",
+  "dienTich": "4.771 km²",
+  "danSo": "39.104 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Chi Lăng": {
+  "loai": "Phường",
+  "donViCu": "Phường Chi Lăng, Phường Núi Voi, Xã Tân Lợi",
+  "dienTich": "80.206 km²",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Chợ Mới": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Chợ Mới, Xã Kiến An, Xã Kiến Thành",
+  "dienTich": "5.043 km²",
+  "danSo": "80.832 người",
+  "matDo": "16 người/km²",
+  "tS": ""
+},
+"Chợ Vàm": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Chợ Vàm, Xã Phú Thành, Xã Phú Thạnh",
+  "dienTich": "6.748 km²",
+  "danSo": "50.436 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Cô Tô": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Cô Tô, Xã Tà Đảnh, Xã Tân Tuyến",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Cù Lao Giêng": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Phước Xuân, Xã Mỹ Hiệp, Xã Tấn Mỹ",
+  "dienTich": "6.892 km²",
+  "danSo": "70.372 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Định Hòa": {
+  "loai": "Xã",
+  "donViCu": "Xã Định Hòa, Xã Thới Quản, Xã Thủy Liễu",
+  "dienTich": "14.379 km²",
+  "danSo": "56.675 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Định Mỹ": {
+  "loai": "Xã",
+  "donViCu": "Xã Định Mỹ, Xã Định Thành, Xã Vĩnh Phú (huyện Thoại Sơn)",
+  "dienTich": "10.977 km²",
+  "danSo": "42.328 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Đông Hòa": {
+  "loai": "Xã",
+  "donViCu": "Xã Đông Hòa, Xã Đông Thạnh",
+  "dienTich": "2.189 km²",
+  "danSo": "132.056 người",
+  "matDo": "60 người/km²",
+  "tS": ""
+},
+"Đông Hưng": {
+  "loai": "Xã",
+  "donViCu": "Xã Đông Hưng A, Xã Vân Khánh Đông",
+  "dienTich": "8.162 km²",
+  "danSo": "22.281 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Đông Thái": {
+  "loai": "Xã",
+  "donViCu": "Xã Đông Thái, Xã Nam Thái, Xã Nam Thái A",
+  "dienTich": "15.452 km²",
+  "danSo": "54.321 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Giang Thành": {
+  "loai": "Xã",
+  "donViCu": "Xã Phú Lợi, Xã Phú Mỹ, Xã Tân Khánh Hòa",
+  "dienTich": "18.414 km²",
+  "danSo": "20.039 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Giồng Riềng": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Giồng Riềng, Xã Bàn Tân Định, Xã Bàn Thạch, Xã Thạnh Bình, Xã Thạnh Hòa",
+  "dienTich": "12.210 km²",
+  "danSo": "70.384 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Gò Quao": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Gò Quao, Xã Định An, Xã Vĩnh Phước B",
+  "dienTich": "8.392 km²",
+  "danSo": "44.695 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Hà Tiên": {
+  "loai": "Phường",
+  "donViCu": "Phường Bình San, Phường Đông Hồ, Phường Mỹ Đức, Phường Pháo Đài",
+  "dienTich": "6.135 km²",
+  "danSo": "40.609 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Hòa Điền": {
+  "loai": "Xã",
+  "donViCu": "Xã Hòa Điền, Xã Kiên Bình",
+  "dienTich": "28.538 km²",
+  "danSo": "24.099 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Hòa Hưng": {
+  "loai": "Xã",
+  "donViCu": "Xã Hòa An (huyện Giồng Riềng), Xã Hòa Hưng, Xã Hòa Lợi",
+  "dienTich": "259 km²",
+  "danSo": "96.414 người",
+  "matDo": "372 người/km²",
+  "tS": ""
+},
+"Hòa Lạc": {
+  "loai": "Xã",
+  "donViCu": "Xã Hòa Lạc, Xã Phú Hiệp",
+  "dienTich": "4.111 km²",
+  "danSo": "30.864 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Hòa Thuận": {
+  "loai": "Xã",
+  "donViCu": "Xã Hòa Thuận, Xã Ngọc Hòa",
+  "dienTich": "7.385 km²",
+  "danSo": "317 người",
+  "matDo": "",
+  "tS": ""
+},
+"Hòn Đất": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Hòn Đất, Xã Lình Huỳnh, Xã Nam Thái Sơn, Xã Thổ Sơn",
+  "dienTich": "28.170 km²",
+  "danSo": "61.517 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Hòn Nghệ": {
+  "loai": "Xã",
+  "donViCu": "Hòn Nghệ",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Hội An": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Hội An, Xã Hòa An (huyện Chợ Mới), Xã Hòa Bình",
+  "dienTich": "11.075 km²",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Khánh Bình": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Long Bình, Xã Khánh An, Xã Khánh Bình",
+  "dienTich": "10.450 km²",
+  "danSo": "39.823 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Kiên Hải": {
+  "loai": "Đặc khu",
+  "donViCu": "Huyện Kiên Hải",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Kiên Lương": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Kiên Lương, Xã Bình An (huyện Kiên Lương), Xã Bình Trị",
+  "dienTich": "13.807 km²",
+  "danSo": "58.312 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Long Điền": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Mỹ Luông, Xã Long Điền A, Xã Long Điền B",
+  "dienTich": "8.772 km²",
+  "danSo": "29.479 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Long Kiến": {
+  "loai": "Xã",
+  "donViCu": "Xã An Thạnh Trung, Xã Long Kiến, Xã Mỹ An",
+  "dienTich": "5.983 km²",
+  "danSo": "57.367 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Long Phú": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Châu, Phường Long Hưng, Phường Long Phú",
+  "dienTich": "1.921 km²",
+  "danSo": "46.826 người",
+  "matDo": "24 người/km²",
+  "tS": ""
+},
+"Long Thạnh": {
+  "loai": "Xã",
+  "donViCu": "Xã Long Thạnh, Xã Vĩnh Phú (huyện Giồng Riềng), Xã Vĩnh Thạnh",
+  "dienTich": "9.637 km²",
+  "danSo": "4.225 người",
+  "matDo": "",
+  "tS": ""
+},
+"Long Xuyên": {
+  "loai": "Phường",
+  "donViCu": "Phường Mỹ Bình, Phường Mỹ Hòa, Phường Mỹ Long, Phường Mỹ Phước, Phường Mỹ Quý, Phường Mỹ Xuyên",
+  "dienTich": "2.998 km²",
+  "danSo": "154.858 người",
+  "matDo": "52 người/km²",
+  "tS": ""
+},
+"Mỹ Đức": {
+  "loai": "Xã",
+  "donViCu": "Xã Khánh Hòa, Xã Mỹ Đức",
+  "dienTich": "6.159 km²",
+  "danSo": "60.493 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Mỹ Hòa Hưng": {
+  "loai": "Xã",
+  "donViCu": "Mỹ Hòa Hưng",
+  "dienTich": "1.965 km²",
+  "danSo": "26.727 người",
+  "matDo": "14 người/km²",
+  "tS": ""
+},
+"Mỹ Thới": {
+  "loai": "Phường",
+  "donViCu": "Phường Mỹ Thạnh, Phường Mỹ Thới",
+  "dienTich": "3.709 km²",
+  "danSo": "6.045 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Mỹ Thuận": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Sóc Sơn, Xã Mỹ Hiệp Sơn, Xã Mỹ Phước, Xã Mỹ Thuận",
+  "dienTich": "21.050 km²",
+  "danSo": "60.747 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Ngọc Chúc": {
+  "loai": "Xã",
+  "donViCu": "Xã Ngọc Chúc, Xã Ngọc Thành, Xã Ngọc Thuận",
+  "dienTich": "9.025 km²",
+  "danSo": "38.705 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Nhơn Hội": {
+  "loai": "Xã",
+  "donViCu": "Xã Nhơn Hội, Xã Phú Hội (phần còn lại sau khi sáp nhập vào xã An Phú), Xã Phước Hưng, Xã Quốc Thái",
+  "dienTich": "4.382 km²",
+  "danSo": "5.754 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Nhơn Mỹ": {
+  "loai": "Xã",
+  "donViCu": "Xã Long Giang, Xã Mỹ Hội Đông, Xã Nhơn Mỹ",
+  "dienTich": "7.973 km²",
+  "danSo": "42.213 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Núi Cấm": {
+  "loai": "Xã",
+  "donViCu": "Xã An Hảo, Xã Tân Lập",
+  "dienTich": "8.418 km²",
+  "danSo": "25.184 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Óc Eo": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Óc Eo, Xã Vọng Đông, Xã Vọng Thê",
+  "dienTich": "6.879 km²",
+  "danSo": "39.481 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Ô Lâm": {
+  "loai": "Xã",
+  "donViCu": "Xã An Tức, Xã Lương Phi, Xã Ô Lâm",
+  "dienTich": "9.952 km²",
+  "danSo": "37.429 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Phú An": {
+  "loai": "Xã",
+  "donViCu": "Xã Phú An, Xã Phú Thọ, Xã Phú Xuân",
+  "dienTich": "3.497 km²",
+  "danSo": "46.142 người",
+  "matDo": "13 người/km²",
+  "tS": ""
+},
+"Phú Hòa": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Phú Hòa, Xã Phú Thuận, Xã Vĩnh Chánh",
+  "dienTich": "7.180 km²",
+  "danSo": "41.306 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Phú Hữu": {
+  "loai": "Xã",
+  "donViCu": "Xã Phú Hữu, Xã Phước Hưng (phần còn lại sau khi sáp nhập vào xã An Phú và Nhơn Hội), Xã Vĩnh Lộc",
+  "dienTich": "6.054 km²",
+  "danSo": "41.254 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Phú Lâm": {
+  "loai": "Xã",
+  "donViCu": "Xã Long Hòa, Xã Phú Lâm, Xã Phú Long",
+  "dienTich": "4.307 km²",
+  "danSo": "33.186 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Phú Quốc": {
+  "loai": "Đặc khu",
+  "donViCu": "Phường An Thới, Phường Dương Đông, Xã Bãi Thơm, Xã Cửa Cạn, Xã Cửa Dương, Xã Dương Tơ, Xã Gành Dầu, Xã Hàm Ninh",
+  "dienTich": "56.236 km²",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Phú Tân": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Phú Mỹ, Xã Phú Hưng, Xã Tân Hòa (huyện Phú Tân), Xã Tân Trung",
+  "dienTich": "2.658 km²",
+  "danSo": "28.568 người",
+  "matDo": "11 người/km²",
+  "tS": ""
+},
+"Rạch Giá": {
+  "loai": "Phường",
+  "donViCu": "Phường An Bình, Phường An Hòa, Phường Rạch Sỏi, Phường Vĩnh Hiệp, Phường Vĩnh Lạc, Phường Vĩnh Lợi, Phường Vĩnh Quang, Phường Vĩnh Thanh, Phường Vĩnh Thanh Vân",
+  "dienTich": "4.553 km²",
+  "danSo": "250.661 người",
+  "matDo": "55 người/km²",
+  "tS": ""
+},
+"Sơn Hải": {
+  "loai": "Xã",
+  "donViCu": "Sơn Hải",
+  "dienTich": "431 km²",
+  "danSo": "2.789 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Sơn Kiên": {
+  "loai": "Xã",
+  "donViCu": "Xã Mỹ Thái, Xã Sơn Bình, Xã Sơn Kiên",
+  "dienTich": "16.341 km²",
+  "danSo": "29.682 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Tân An": {
+  "loai": "Xã",
+  "donViCu": "Xã Long An, Xã Tân An, Xã Tân Thạnh (thị xã Tân Châu)",
+  "dienTich": "4.061 km²",
+  "danSo": "41.922 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Tân Châu": {
+  "loai": "Phường",
+  "donViCu": "Phường Long Sơn, Phường Long Thạnh",
+  "dienTich": "5.477 km²",
+  "danSo": "24.072 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Tân Hiệp": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Tân Hiệp, Xã Tân Hiệp B, Xã Thạnh Đông, Xã Thạnh Đông B",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Tân Hội": {
+  "loai": "Xã",
+  "donViCu": "Xã Tân An (huyện Tân Hiệp), Xã Tân Hòa, Xã Tân Hội, Xã Tân Thành",
+  "dienTich": "14.628 km²",
+  "danSo": "4.945 người",
+  "matDo": "",
+  "tS": ""
+},
+"Tân Thạnh": {
+  "loai": "Xã",
+  "donViCu": "Xã Tân Thạnh (huyện An Minh), Xã Thuận Hòa",
+  "dienTich": "7.080 km²",
+  "danSo": "35.806 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Tây Phú": {
+  "loai": "Xã",
+  "donViCu": "Xã An Bình, Xã Mỹ Phú Đông, Xã Tây Phú",
+  "dienTich": "9.380 km²",
+  "danSo": "23.229 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Tây Yên": {
+  "loai": "Xã",
+  "donViCu": "Xã Nam Yên, Xã Tây Yên, Xã Tây Yên A",
+  "dienTich": "12.750 km²",
+  "danSo": "5.259 người",
+  "matDo": "",
+  "tS": ""
+},
+"Thạnh Đông": {
+  "loai": "Xã",
+  "donViCu": "Xã Tân Hiệp A, Xã Thạnh Đông A, Xã Thạnh Trị",
+  "dienTich": "13.002 km²",
+  "danSo": "53.678 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Thạnh Hưng": {
+  "loai": "Xã",
+  "donViCu": "Xã Thạnh Hưng, Xã Thạnh Lộc (huyện Giồng Riềng), Xã Thạnh Phước",
+  "dienTich": "14.254 km²",
+  "danSo": "46.773 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Thạnh Lộc": {
+  "loai": "Xã",
+  "donViCu": "Xã Mong Thọ, Xã Mong Thọ A, Xã Mong Thọ B, Xã Thạnh Lộc (huyện Châu Thành)",
+  "dienTich": "10.462 km²",
+  "danSo": "59.562 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Thạnh Mỹ Tây": {
+  "loai": "Xã",
+  "donViCu": "Xã Đào Hữu Cảnh, Xã Ô Long Vĩ, Xã Thạnh Mỹ Tây",
+  "dienTich": "440 km²",
+  "danSo": "153.216 người",
+  "matDo": "348 người/km²",
+  "tS": ""
+},
+"Thoại Sơn": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Núi Sập, Xã Bình Thành, Xã Thoại Giang",
+  "dienTich": "6.892 km²",
+  "danSo": "52.588 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+},
+"Thổ Châu": {
+  "loai": "Đặc khu",
+  "donViCu": "Xã Thổ Châu",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Thới Sơn": {
+  "loai": "Phường",
+  "donViCu": "Phường Nhà Bàng, Phường Nhơn Hưng, Phường Thới Sơn",
+  "dienTich": "4.936 km²",
+  "danSo": "33.045 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"Tiên Hải": {
+  "loai": "Xã",
+  "donViCu": "Tiên Hải",
+  "dienTich": "",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Tịnh Biên": {
+  "loai": "Phường",
+  "donViCu": "Phường An Phú, Phường Tịnh Biên, Xã An Nông",
+  "dienTich": "7.557 km²",
+  "danSo": "34.865 người",
+  "matDo": "5 người/km²",
+  "tS": ""
+},
+"Tô Châu": {
+  "loai": "Phường",
+  "donViCu": "Phường Tô Châu, Xã Dương Hòa, Xã Thuận Yên",
+  "dienTich": "7.977 km²",
+  "danSo": "25.865 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Tri Tôn": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Tri Tôn, Xã Châu Lăng, Xã Núi Tô",
+  "dienTich": "7.314 km²",
+  "danSo": "50.716 người",
+  "matDo": "7 người/km²",
+  "tS": ""
+},
+"U Minh Thượng": {
+  "loai": "Xã",
+  "donViCu": "Xã An Minh Bắc, Xã Minh Thuận",
+  "dienTich": "28.647 km²",
+  "danSo": "46.246 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Vân Khánh": {
+  "loai": "Xã",
+  "donViCu": "Xã Vân Khánh, Xã Vân Khánh Tây",
+  "dienTich": "9.084 km²",
+  "danSo": "21.748 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Vĩnh An": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Vĩnh Bình, Xã Tân Phú, Xã Vĩnh An",
+  "dienTich": "9.341 km²",
+  "danSo": "33.036 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Vĩnh Bình": {
+  "loai": "Xã",
+  "donViCu": "Xã Bình Minh, Xã Vĩnh Bình Bắc, Xã Vĩnh Bình Nam",
+  "dienTich": "15.968 km²",
+  "danSo": "43.575 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Vĩnh Điều": {
+  "loai": "Xã",
+  "donViCu": "Xã Vĩnh Điều, Xã Vĩnh Phú (huyện Giang Thành)",
+  "dienTich": "22.935 km²",
+  "danSo": "17.526 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Vĩnh Gia": {
+  "loai": "Xã",
+  "donViCu": "Xã Lương An Trà, Xã Vĩnh Gia, Xã Vĩnh Phước",
+  "dienTich": "18.037 km²",
+  "danSo": "20.902 người",
+  "matDo": "1 người/km²",
+  "tS": ""
+},
+"Vĩnh Hanh": {
+  "loai": "Xã",
+  "donViCu": "Xã Vĩnh Hanh, Xã Vĩnh Nhuận",
+  "dienTich": "7.681 km²",
+  "danSo": "29.327 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Vĩnh Hậu": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Đa Phước, Xã Vĩnh Hậu, Xã Vĩnh Trường",
+  "dienTich": "10.594 km²",
+  "danSo": "17.948 người",
+  "matDo": "2 người/km²",
+  "tS": ""
+},
+"Vĩnh Hòa": {
+  "loai": "Xã",
+  "donViCu": "Xã Hòa Chánh, Xã Thạnh Yên, Xã Thạnh Yên A, Xã Vĩnh Hòa (huyện U Minh Thượng)",
+  "dienTich": "21.528 km²",
+  "danSo": "",
+  "matDo": "",
+  "tS": ""
+},
+"Vĩnh Hòa Hưng": {
+  "loai": "Xã",
+  "donViCu": "Xã Vĩnh Hòa Hưng Bắc, Xã Vĩnh Hòa Hưng Nam",
+  "dienTich": "9.594 km²",
+  "danSo": "37.528 người",
+  "matDo": "4 người/km²",
+  "tS": ""
+},
+"Vĩnh Phong": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Vĩnh Thuận, Xã Phong Đông, Xã Vĩnh Phong",
+  "dienTich": "13.930 km²",
+  "danSo": "43.257 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Vĩnh Tế": {
+  "loai": "Phường",
+  "donViCu": "Phường Núi Sam, Xã Vĩnh Châu (phần còn lại sau khi sáp nhập vào phường Châu Đốc), Xã Vĩnh Tế",
+  "dienTich": "6.425 km²",
+  "danSo": "40.222 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Vĩnh Thạnh Trung": {
+  "loai": "Xã",
+  "donViCu": "Thị trấn Vĩnh Thạnh Trung, Xã Mỹ Phú",
+  "dienTich": "6.497 km²",
+  "danSo": "64.643 người",
+  "matDo": "10 người/km²",
+  "tS": ""
+},
+"Vĩnh Thông": {
+  "loai": "Phường",
+  "donViCu": "Phường Vĩnh Thông, Xã Mỹ Lâm, Xã Phi Thông",
+  "dienTich": "12.955 km²",
+  "danSo": "4.631 người",
+  "matDo": "",
+  "tS": ""
+},
+"Vĩnh Thuận": {
+  "loai": "Xã",
+  "donViCu": "Xã Tân Thuận, Xã Vĩnh Thuận",
+  "dienTich": "9.546 km²",
+  "danSo": "30.511 người",
+  "matDo": "3 người/km²",
+  "tS": ""
+},
+"Vĩnh Trạch": {
+  "loai": "Xã",
+  "donViCu": "Xã Vĩnh Khánh, Xã Vĩnh Trạch",
+  "dienTich": "5.794 km²",
+  "danSo": "32.397 người",
+  "matDo": "6 người/km²",
+  "tS": ""
+},
+"Vĩnh Tuy": {
+  "loai": "Xã",
+  "donViCu": "Xã Vĩnh Phước A, Xã Vĩnh Thắng, Xã Vĩnh Tuy",
+  "dienTich": "233 km²",
+  "danSo": "90.583 người",
+  "matDo": "389 người/km²",
+  "tS": ""
+},
+"Vĩnh Xương": {
+  "loai": "Xã",
+  "donViCu": "Xã Phú Lộc, Xã Vĩnh Hòa (thị xã Tân Châu), Xã Vĩnh Xương",
+  "dienTich": "5.021 km²",
+  "danSo": "41.369 người",
+  "matDo": "8 người/km²",
+  "tS": ""
+}
+}
+}
+

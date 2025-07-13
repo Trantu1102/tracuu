@@ -1,0 +1,347 @@
+/* =================== Layout & Container =================== */
+body {
+    min-height: 100vh;
+    display: block;
+    background: #ffffff;
+    font-family: 'Roboto', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    background: #ffffff;
+    padding: 30px 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    width: 90%;
+    margin: 20px auto;
+}
+
+#info {
+    transition: all 0.3s ease;
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1.5em;
+    color: #333;
+}
+
+label {
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 4px;
+    display: block;
+    font-size: 1em;
+}
+
+.select-row {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    flex-wrap: nowrap;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: #fff;
+    padding: 15px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.select-col {
+    flex: 1 1 0;
+    min-width: 120px;
+    display: flex;
+    flex-direction: column;
+    max-width: 48%;
+}
+
+.select-col label {
+    margin-bottom: 4px;
+    font-size: 1em;
+}
+
+.select-col select {
+    width: 100%;
+    min-width: 0;
+    height: 40px;
+    font-size: 1em;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 0 8px;
+}
+
+
+
+/* =================== Info Table & Box =================== */
+.info-box-2col {
+    border-radius: 5px;
+    padding: 24px 18px 18px 18px;
+    background: #fff;
+    margin-top: 18px;
+    font-size: 1.13em;
+    max-width: 100%;
+}
+
+.info-box-2col .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 0.5em;
+    align-items: flex-start;
+}
+
+.info-box-2col .col.label {
+    flex: 0 0 220px;
+    color: #444;
+    opacity: 0.85;
+    font-weight: 600;
+    margin-bottom: 0.3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.info-box-2col .col.value {
+    flex: 1 1 0;
+    font-weight: 700;
+    margin-bottom: 0.3em;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.info-box-2col .col.label b,
+.info-box-2col .col.value b {
+    font-size: 1em;
+    font-weight: 700;
+}
+
+.info-box-2col hr {
+    border: none;
+    border-top: 1.5px solid #e0e0e0;
+    margin: 12px 0;
+}
+
+.info-table {
+    width: 100%;
+    border: 1.5px solid #ccc;
+    border-radius: 8px;
+    background: #fff;
+    margin-top: 14px;
+    font-size: 1.08em;
+    overflow: hidden;
+    box-sizing: border-box;
+    font-family: 'Roboto', Arial, sans-serif;
+    box-shadow: 0 1px 5px rgba(0, 0, 0, 0.05);
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.info-row {
+    display: flex;
+    align-items: flex-start;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.info-row:last-child {
+    border-bottom: none;
+}
+
+.info-label {
+    flex: 0 0 120px;
+    padding: 14px 10px 8px 10px;
+    font-weight: 400;
+    color: #ababab;
+    opacity: 0.95;
+    background: none;
+    display: block;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 0.98em;
+}
+
+.info-value {
+    flex: 1 1 0;
+    padding: 14px 10px 8px 0;
+    font-weight: 400;
+    color: #222;
+    word-break: break-word;
+    background: none;
+    display: block;
+    font-family: 'Roboto', Arial, sans-serif;
+    font-size: 1.08em;
+}
+
+.info-row-header .info-label {
+    font-size: 1em;
+    font-weight: 400;
+    color: #ababab;
+    opacity: 1;
+}
+
+.info-row-header .info-value {
+    font-size: 1.08em;
+    font-weight: 400;
+    color: #222;
+}
+
+.info-row .info-label,
+.info-row .info-value,
+.info-row-header .info-label,
+.info-row-header .info-value {
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+/* =================== Responsive =================== */
+@media (max-width: 600px) {
+    body {
+        min-height: 100vh;
+        display: block;
+        padding: 0;
+        background: #fff;
+    }
+
+    .container {
+        border-radius: 0;
+        box-shadow: none;
+        max-width: 100%;
+        width: 100%;
+        padding: 15px 15px 20px;
+        margin: 0;
+    }
+
+    .select-row {
+        flex-direction: row;
+        flex-wrap: nowrap;
+        gap: 10px;
+        margin-bottom: 20px;
+        position: relative;
+        top: 0;
+        padding: 10px 0;
+    }
+
+    .select-col {
+        min-width: 0;
+        width: 48%;
+        max-width: 48%;
+    }
+
+    .select-col select {
+        font-size: 1em;
+        height: 45px;
+        padding: 0 5px;
+    }
+
+    .select2-selection--single {
+        height: 45px !important;
+        font-size: 0.95rem !important;
+    }
+
+    .info-table {
+        border-radius: 8px;
+        font-size: 1.15em;
+        margin-top: 15px;
+    }
+
+    .info-label,
+    .info-value,
+    .info-row-header .info-label,
+    .info-row-header .info-value {
+        font-size: 1.15em;
+        padding: 15px 10px 12px 10px;
+    }
+
+    h2 {
+        font-size: 1.4em;
+        margin-bottom: 20px;
+    }
+
+    label {
+        font-size: 0.95em;
+        margin-bottom: 5px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
+
+/* Tăng cỡ chữ cho Tom Select giống Select2 */
+.ts-control,
+.ts-dropdown,
+.ts-dropdown .option,
+.ts-dropdown .ts-dropdown-input {
+    font-size: 1.1rem !important;
+}
+
+.ts-control {
+    min-height: 35px;
+    padding: 10px 12px;
+}
+
+.ts-dropdown .option {
+    padding: 10px 12px;
+}
+
+/* Đảm bảo nút clear_button luôn nằm bên phải cho mọi trường hợp */
+.ts-wrapper .ts-control {
+    position: relative !important;
+    padding-right: 2.2em !important;
+    min-height: 40px !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+}
+
+.ts-wrapper.single .ts-control>.item {
+    position: static !important;
+    display: inline !important;
+    margin: 0 !important;
+    background: none !important;
+    border: none !important;
+    padding: 0 !important;
+    font-size: inherit !important;
+}
+
+
+
+.ts-wrapper .clear-button {
+    right: 10px !important;
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    font-size: 24px !important;
+    /* to hơn */
+    font-weight: bold;
+    opacity: 0.6;
+    cursor: pointer;
+    position: absolute;
+    color: #666;
+    background: transparent;
+    border: none;
+    padding: 0;
+    width: 35px !important;
+    height: 35px !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ts-wrapper .clear-button:hover {
+    opacity: 1;
+}

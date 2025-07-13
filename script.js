@@ -39,10 +39,8 @@ fetch('data.json')
       allowEmptyOption: true,
       maxItems: 1,
       maxOptions: 999,
-      searchField: ['text'], // Cho phép tìm kiếm theo text
+      searchField: ['text'],
       plugins: ['clear_button'],
-      //placeholder: "Chọn Tỉnh/Thành phố",
-      allowEmptyOption: true,
       closeAfterSelect: true,
       hideSelected: false,
       onChange: function(value) {
@@ -146,13 +144,28 @@ fetch('data.json')
                 } else {
                   infoDiv.textContent = "Vui lòng chọn phường/xã để xem thông tin.";
                 }
-              }
+                
+              },
+   
             });
           }
         }
+       
+        const selectEl = this.input || this.control_input || this.control;
+        if (selectEl && typeof selectEl.blur === 'function') {
+        setTimeout(() => selectEl.blur(), 100);
+        }
+        
+      },
+      onItemAdd: function() {
+        const selectEl = this.input || this.control_input || this.control;
+        if (selectEl && typeof selectEl.blur === 'function') {
+          selectEl.focus();
+          setTimeout(() => selectEl.blur(), 100);
+        }
       }
     });
-    provinceTom.clear(); // Đảm bảo luôn để trống khi load
+    // provinceTom.clear(); // Đảm bảo luôn để trống khi load
 
     // Khởi tạo Tom Select cho phường/xã (ban đầu disable)
     wardTom = new TomSelect("#ward", {
@@ -212,6 +225,18 @@ fetch('data.json')
           ]);
         } else {
           infoDiv.textContent = "Vui lòng chọn phường/xã để xem thông tin.";
+        }
+        // Tự động ẩn bàn phím trên mobile khi chọn xong
+        const selectEl = this.input || this.control_input || this.control;
+        if (selectEl && typeof selectEl.blur === 'function') {
+        setTimeout(() => selectEl.blur(), 100);
+        }
+      },
+      onItemAdd: function() {
+        const selectEl = this.input || this.control_input || this.control;
+        if (selectEl && typeof selectEl.blur === 'function') {
+          selectEl.focus(); // Đảm bảo input được focus trước
+          setTimeout(() => selectEl.blur(), 100);
         }
       }
     });

@@ -139,10 +139,10 @@ fetch('data.json')
                     { label: "Diện tích:", value: detail.dienTich || "" },
                     { label: "Dân số:", value: detail.danSo || "" },
                     { label: "Mật độ dân cư:", value: detail.matDo || "" },
-                    { label: "Trụ sở hành chính (mới)", value: detail.tS || "" }
+                    { label: "Trụ sở hành chính (mới):", value: detail.tS || "" }
                   ]);
                 } else {
-                  infoDiv.textContent = "Vui lòng chọn phường/xã để xem thông tin.";
+                  infoDiv.textContent = "Vui lòng chọn phường/xã để xem Thông tin.";
                 }
                 
               },
@@ -218,13 +218,15 @@ fetch('data.json')
           infoDiv.innerHTML = renderInfoTable([
             { label: (detail.loai ? detail.loai : "Phường/Xã") + ":", value: `<b>${value}</b>`, header: true },
             { label: "Đơn vị cũ được sáp nhập:", value: detail.donViCu || "", header: true },
+            { label: "Bí thư Đảng ủy:", value: detail.bT || ""},
+            { label: "Chủ tịch UBND:", value: detail.cT || ""},
             { label: "Diện tích:", value: detail.dienTich || "" },
             { label: "Dân số:", value: detail.danSo || "" },
             { label: "Mật độ dân cư:", value: detail.matDo || "" },
-            { label: "Trụ sở hành chính (mới)", value: detail.tS || "" }
+            { label: "Trụ sở hành chính (mới):", value: detail.tS || "" }
           ]);
         } else {
-          infoDiv.textContent = "Vui lòng chọn phường/xã để xem thông tin.";
+          infoDiv.textContent = "Vui lòng chọn phường/xã để xem Thông tin.";
         }
         // Tự động ẩn bàn phím trên mobile khi chọn xong
         const selectEl = this.input || this.control_input || this.control;

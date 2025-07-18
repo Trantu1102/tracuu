@@ -15310,838 +15310,918 @@
           "soPhuongXa": "104",
           "bienSo": "89, 17"
         },
-    "A Sào": {
-        "loai":"Xã",
-        "donViCu": "Xã An Đồng, Xã An Hiệp, Xã An Khê, Xã An Thái",
-        "dienTich": "2.046 km²",
-        "danSo": "27.967 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    
+  "A Sào": {
+    "loai": "Xã",
+    "donViCu": "Xã An Đồng, Xã An Hiệp, Xã An Khê, Xã An Thái",
+    "dienTich": "2.046 km²",
+    "danSo": "27.967 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Ái Quốc": {
-        "loai":"Xã",
-        "donViCu": "Xã Ái Quốc, Xã Tây Giang",
-        "dienTich": "1.498 km²",
-        "danSo": "16.704 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Ái Quốc, Xã Tây Giang",
+    "dienTich": "1.498 km²",
+    "danSo": "16.704 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Ân Thi": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Ân Thi, Xã Hoàng Hoa Thám, Xã Quang Vinh",
-        "dienTich": "2.439 km²",
-        "danSo": "30.582 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Ân Thi, Xã Hoàng Hoa Thám, Xã Quang Vinh",
+    "bT": "Phạm Trường Tam",
+    "cT": "Nguyễn Hùng Cường",
+    "dienTich": "2.439 km²",
+    "danSo": "30.582 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Bắc Đông Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Cường, Xã Đông Phương, Xã Đông Xá",
-        "dienTich": "2.084 km²",
-        "danSo": "23.729 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Cường, Xã Đông Phương, Xã Đông Xá",
+    "dienTich": "2.084 km²",
+    "danSo": "23.729 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Bắc Đông Quan": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Kinh, Xã Đông Vinh, Xã Hà Giang",
-        "dienTich": "2.067 km²",
-        "danSo": "25.263 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Kinh, Xã Đông Vinh, Xã Hà Giang",
+    "dienTich": "2.067 km²",
+    "danSo": "25.263 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Bắc Thái Ninh": {
-        "loai":"Xã",
-        "donViCu": "Xã Dương Hồng Thủy, Xã Thái Phúc",
-        "dienTich": "2.312 km²",
-        "danSo": "17.908 người",
-        "matDo": "8 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Dương Hồng Thủy, Xã Thái Phúc",
+    "dienTich": "2.312 km²",
+    "danSo": "17.908 người",
+    "matDo": "8 người/km²",
+    "tS": ""
+  },
   "Bắc Thụy Anh": {
-        "loai":"Xã",
-        "donViCu": "Xã Thụy Quỳnh, Xã Thụy Văn, Xã Thụy Việt",
-        "dienTich": "1.738 km²",
-        "danSo": "19.194 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Thụy Quỳnh, Xã Thụy Văn, Xã Thụy Việt",
+    "dienTich": "1.738 km²",
+    "danSo": "19.194 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Bắc Tiên Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Liên An Đô, Xã Lô Giang, Xã Mê Linh, Xã Phú Lương",
-        "dienTich": "2.803 km²",
-        "danSo": "40.641 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Liên An Đô, Xã Lô Giang, Xã Mê Linh, Xã Phú Lương",
+    "dienTich": "2.803 km²",
+    "danSo": "40.641 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Bình Định": {
-        "loai":"Xã",
-        "donViCu": "Xã Bình Định, Xã Hồng Tiến, Xã Nam Bình",
-        "dienTich": "2.516 km²",
-        "danSo": "42.768 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bình Định, Xã Hồng Tiến, Xã Nam Bình",
+    "dienTich": "2.516 km²",
+    "danSo": "42.768 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Bình Nguyên": {
-        "loai":"Xã",
-        "donViCu": "Xã An Bình, Xã Bình Nguyên, Xã Thanh Tân",
-        "dienTich": "3.060 km²",
-        "danSo": "46.425 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã An Bình, Xã Bình Nguyên, Xã Thanh Tân",
+    "dienTich": "3.060 km²",
+    "danSo": "46.425 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Bình Thanh": {
-        "loai":"Xã",
-        "donViCu": "Xã Bình Thanh, Xã Minh Quang (huyện Kiến Xương), Xã Minh Tân",
-        "dienTich": "2.237 km²",
-        "danSo": "24.517 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bình Thanh, Xã Minh Quang (huyện Kiến Xương), Xã Minh Tân",
+    "dienTich": "2.237 km²",
+    "danSo": "24.517 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Châu Ninh": {
-        "loai":"Xã",
-        "donViCu": "Xã Đại Tập, Xã Đông Ninh, Xã Tân Châu, Xã Tứ Dân",
-        "dienTich": "2.222 km²",
-        "danSo": "36.218 người",
-        "matDo": "16 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đại Tập, Xã Đông Ninh, Xã Tân Châu, Xã Tứ Dân",
+    "bT": "Mai Xuân Giới",
+    "cT": "Đào Đức Minh",
+    "dienTich": "2.222 km²",
+    "danSo": "36.218 người",
+    "matDo": "16 người/km²",
+    "tS": ""
+  },
   "Chí Minh": {
-        "loai":"Xã",
-        "donViCu": "Xã Chí Minh, Xã Nguyễn Huệ, Xã Thuần Hưng",
-        "dienTich": "2.073 km²",
-        "danSo": "35.259 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Chí Minh, Xã Nguyễn Huệ, Xã Thuần Hưng",
+    "bT": "Lê Quang Toản",
+    "cT": "Đào Văn Huân",
+    "dienTich": "2.073 km²",
+    "danSo": "35.259 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Diên Hà": {
-        "loai":"Xã",
-        "donViCu": "Xã Duyên Hải, Xã Quang Trung (huyện Hưng Hà), Xã Văn Cẩm",
-        "dienTich": "2.730 km²",
-        "danSo": "40.167 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Duyên Hải, Xã Quang Trung (huyện Hưng Hà), Xã Văn Cẩm",
+    "dienTich": "2.730 km²",
+    "danSo": "40.167 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Đại Đồng": {
-        "loai":"Xã",
-        "donViCu": "Xã Đại Đồng, Xã Đình Dù, Xã Lạc Đạo, Xã Lương Tài, Xã Việt Hưng",
-        "dienTich": "7.787 km²",
-        "danSo": "63.131 người",
-        "matDo": "8 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đại Đồng, Xã Đình Dù, Xã Lạc Đạo, Xã Lương Tài, Xã Việt Hưng",
+    "bT": "Nguyễn Hoàng Linh",
+    "cT": "Tôn Ngọc Chuẩn",
+    "dienTich": "7.787 km²",
+    "danSo": "63.131 người",
+    "matDo": "8 người/km²",
+    "tS": ""
+  },
   "Đoàn Đào": {
-        "loai":"Xã",
-        "donViCu": "Xã Đoàn Đào, Xã Minh Hoàng, Xã Phan Sào Nam",
-        "dienTich": "2.239 km²",
-        "danSo": "22.781 người",
-        "matDo": "10 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đoàn Đào, Xã Minh Hoàng, Xã Phan Sào Nam",
+    "bT": "Nguyễn Văn Hách",
+    "cT": "Nguyễn Văn An",
+    "dienTich": "2.239 km²",
+    "danSo": "22.781 người",
+    "matDo": "10 người/km²",
+    "tS": ""
+  },
   "Đồng Bằng": {
-        "loai":"Xã",
-        "donViCu": "Xã An Ấp, Xã An Cầu, Xã An Lễ, Xã An Quý",
-        "dienTich": "2.004 km²",
-        "danSo": "25 người",
-        "matDo": "",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã An Ấp, Xã An Cầu, Xã An Lễ, Xã An Quý",
+    "dienTich": "2.004 km²",
+    "danSo": "25 người",
+    "matDo": "",
+    "tS": ""
+  },
   "Đồng Châu": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Cơ, Xã Đông Hoàng (huyện Tiền Hải), Xã Đông Lâm, Xã Đông Minh",
-        "dienTich": "3.067 km²",
-        "danSo": "30.501 người",
-        "matDo": "10 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Cơ, Xã Đông Hoàng (huyện Tiền Hải), Xã Đông Lâm, Xã Đông Minh",
+    "dienTich": "3.067 km²",
+    "danSo": "30.501 người",
+    "matDo": "10 người/km²",
+    "tS": ""
+  },
   "Đông Hưng": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Đông Hưng, Xã Đông Các, Xã Đông Hợp, Xã Đông La, Xã Đông Sơn, Xã Nguyên Xá (huyện Đông Hưng)",
-        "dienTich": "8.162 km²",
-        "danSo": "22.281 người",
-        "matDo": "3 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Đông Hưng, Xã Đông Các, Xã Đông Hợp, Xã Đông La, Xã Đông Sơn, Xã Nguyên Xá (huyện Đông Hưng)",
+    "dienTich": "8.162 km²",
+    "danSo": "22.281 người",
+    "matDo": "3 người/km²",
+    "tS": ""
+  },
   "Đông Quan": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Á, Xã Đông Quan, Xã Đông Tân",
-        "dienTich": "2.362 km²",
-        "danSo": "25.167 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Á, Xã Đông Quan, Xã Đông Tân",
+    "dienTich": "2.362 km²",
+    "danSo": "25.167 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Đông Thái Ninh": {
-        "loai":"Xã",
-        "donViCu": "Xã Mỹ Lộc, Xã Tân Học, Xã Thái Đô, Xã Thái Xuyên",
-        "dienTich": "3.108 km²",
-        "danSo": "2.713 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Mỹ Lộc, Xã Tân Học, Xã Thái Đô, Xã Thái Xuyên",
+    "dienTich": "3.108 km²",
+    "danSo": "2.713 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Đông Thụy Anh": {
-        "loai":"Xã",
-        "donViCu": "Xã An Tân, Xã Hồng Dũng, Xã Thụy Trường, Xã Thụy Xuân",
-        "dienTich": "3.490 km²",
-        "danSo": "38.299 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã An Tân, Xã Hồng Dũng, Xã Thụy Trường, Xã Thụy Xuân",
+    "dienTich": "3.490 km²",
+    "danSo": "38.299 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Đông Tiền Hải": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Long, Xã Đông Quang, Xã Đông Trà, Xã Đông Xuyên",
-        "dienTich": "3.864 km²",
-        "danSo": "37.027 người",
-        "matDo": "10 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Long, Xã Đông Quang, Xã Đông Trà, Xã Đông Xuyên",
+    "dienTich": "3.864 km²",
+    "danSo": "37.027 người",
+    "matDo": "10 người/km²",
+    "tS": ""
+  },
   "Đông Tiên Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Phong Dương Tiến, Xã Phú Châu",
-        "dienTich": "1.632 km²",
-        "danSo": "23.495 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Phong Dương Tiến, Xã Phú Châu",
+    "dienTich": "1.632 km²",
+    "danSo": "23.495 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Đức Hợp": {
-        "loai":"Xã",
-        "donViCu": "Xã Đức Hợp, Xã Mai Động, Xã Phú Thọ",
-        "dienTich": "2.237 km²",
-        "danSo": "29.424 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đức Hợp, Xã Mai Động, Xã Phú Thọ",
+    "bT": "Chu Ngọc Hoa Liễu",
+    "cT": "Đinh Quang Hào",
+    "dienTich": "2.237 km²",
+    "danSo": "29.424 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Đường Hào": {
-        "loai":"Phường",
-        "donViCu": "Phường Dị Sử, Phường Phùng Chí Kiên, Xã Hưng Long, Xã Ngọc Lâm, Xã Xuân Dục",
-        "dienTich": "2.562 km²",
-        "danSo": "39.028 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Dị Sử, Phường Phùng Chí Kiên, Xã Hưng Long, Xã Ngọc Lâm, Xã Xuân Dục",
+    "bT": "Bùi Mạnh Hùng",
+    "cT": "Bùi Khánh Vĩnh",
+    "dienTich": "2.562 km²",
+    "danSo": "39.028 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Hiệp Cường": {
-        "loai":"Xã",
-        "donViCu": "Xã Hiệp Cường, Xã Hùng An, Xã Ngọc Thanh, Xã Song Mai",
-        "dienTich": "2.837 km²",
-        "danSo": "32.364 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hiệp Cường, Xã Hùng An, Xã Ngọc Thanh, Xã Song Mai",
+    "bT": "Bùi Văn Phúc",
+    "cT": "Đặng Hoài Nam",
+    "dienTich": "2.837 km²",
+    "danSo": "32.364 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Hoàn Long": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Tảo, Xã Đồng Than, Xã Hoàn Long",
-        "dienTich": "1.960 km²",
-        "danSo": "32.997 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Tảo, Xã Đồng Than, Xã Hoàn Long",
+    "bT": "Đặng Xuân Lương",
+    "cT": "Vũ Văn Quảng",
+    "dienTich": "1.960 km²",
+    "danSo": "32.997 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Hoàng Hoa Thám": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Vương, Xã An Viên, Xã Hưng Đạo, Xã Nhật Tân",
-        "dienTich": "3.185 km²",
-        "danSo": "46.868 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Vương, Xã An Viên, Xã Hưng Đạo, Xã Nhật Tân",
+    "bT": "Nguyễn Văn Thơ",
+    "cT": "Nguyễn Đức Lăng",
+    "dienTich": "3.185 km²",
+    "danSo": "46.868 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Hồng Châu": {
-        "loai":"Phường",
-        "donViCu": "Phường Hồng Châu, Xã Hoàng Hanh, Xã Quảng Châu",
-        "dienTich": "1.541 km²",
-        "danSo": "18.714 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Hồng Châu, Xã Hoàng Hanh, Xã Quảng Châu",
+    "bT": "Đặng Văn Diên",
+    "cT": "Lâm Bá Quyết",
+    "dienTich": "1.541 km²",
+    "danSo": "18.714 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Hồng Minh": {
-        "loai":"Xã",
-        "donViCu": "Xã Chí Hòa, Xã Hồng Minh, Xã Minh Hòa",
-        "dienTich": "2.332 km²",
-        "danSo": "24.579 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Chí Hòa, Xã Hồng Minh, Xã Minh Hòa",
+    "dienTich": "2.332 km²",
+    "danSo": "24.579 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Hồng Quang": {
-        "loai":"Xã",
-        "donViCu": "Xã Hạ Lễ, Xã Hồ Tùng Mậu, Xã Hồng Quang, Xã Tiền Phong",
-        "dienTich": "2.553 km²",
-        "danSo": "3.159 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hạ Lễ, Xã Hồ Tùng Mậu, Xã Hồng Quang, Xã Tiền Phong",
+    "bT": "Nguyễn Tuấn Anh",
+    "cT": "Lê Thanh Thịnh",
+    "dienTich": "2.553 km²",
+    "danSo": "3.159 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Hồng Vũ": {
-        "loai":"Xã",
-        "donViCu": "Xã Hồng Vũ, Xã Vũ Công",
-        "dienTich": "1.877 km²",
-        "danSo": "23.172 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hồng Vũ, Xã Vũ Công",
+    "dienTich": "1.877 km²",
+    "danSo": "23.172 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Hưng Hà": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Hưng Hà, Xã Hòa Bình, Xã Hồng Lĩnh, Xã Kim Trung, Xã Minh Khai, Xã Thống Nhất (huyện Hưng Hà), Xã Văn Lang",
-        "dienTich": "3.893 km²",
-        "danSo": "54.891 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Hưng Hà, Xã Hòa Bình, Xã Hồng Lĩnh, Xã Kim Trung, Xã Minh Khai, Xã Thống Nhất (huyện Hưng Hà), Xã Văn Lang",
+    "dienTich": "3.893 km²",
+    "danSo": "54.891 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Hưng Phú": {
-        "loai":"Xã",
-        "donViCu": "Xã Nam Hưng, Xã Nam Phú, Xã Nam Trung",
-        "dienTich": "4.093 km²",
-        "danSo": "58.543 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Nam Hưng, Xã Nam Phú, Xã Nam Trung",
+    "dienTich": "4.093 km²",
+    "danSo": "58.543 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Khoái Châu": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Khoái Châu, Xã Đông Kết, Xã Liên Khê, Xã Phùng Hưng",
-        "dienTich": "2.935 km²",
-        "danSo": "48.795 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Khoái Châu, Xã Đông Kết, Xã Liên Khê, Xã Phùng Hưng",
+    "bT": "Bùi Huy Cường",
+    "cT": "Nguyễn Tường Tuấn",
+    "dienTich": "2.935 km²",
+    "danSo": "48.795 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Kiến Xương": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Kiến Xương, Xã Bình Minh, Xã Quang Bình, Xã Quang Minh, Xã Quang Trung (huyện Kiến Xương)",
-        "dienTich": "3.673 km²",
-        "danSo": "4.795 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Kiến Xương, Xã Bình Minh, Xã Quang Bình, Xã Quang Minh, Xã Quang Trung (huyện Kiến Xương)",
+    "dienTich": "3.673 km²",
+    "danSo": "4.795 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Lê Lợi": {
-        "loai":"Xã",
-        "donViCu": "Xã Lê Lợi, Xã Thống Nhất (huyện Kiến Xương)",
-        "dienTich": "28.836 km²",
-        "danSo": "911 người",
-        "matDo": "",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Lê Lợi, Xã Thống Nhất (huyện Kiến Xương)",
+    "dienTich": "28.836 km²",
+    "danSo": "911 người",
+    "matDo": "",
+    "tS": ""
+  },
   "Lạc Đạo": {
-        "loai":"Xã",
-        "donViCu": "Xã Chỉ Đạo, Xã Lạc Đạo, Xã Minh Hải",
-        "dienTich": "2.222 km²",
-        "danSo": "42.213 người",
-        "matDo": "19 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Chỉ Đạo, Xã Lạc Đạo, Xã Minh Hải",
+    "bT": "Phạm Văn Cường",
+    "cT": "Lê Xuân Huấn",
+    "dienTich": "2.222 km²",
+    "danSo": "42.213 người",
+    "matDo": "19 người/km²",
+    "tS": ""
+  },
   "Lê Quý Đôn": {
-        "loai":"Xã",
-        "donViCu": "Xã Độc Lập, Xã Hồng An, Xã Minh Tân (huyện Hưng Hà)",
-        "dienTich": "2.172 km²",
-        "danSo": "23.534 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Độc Lập, Xã Hồng An, Xã Minh Tân (huyện Hưng Hà)",
+    "dienTich": "2.172 km²",
+    "danSo": "23.534 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Long Hưng": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Hưng Nhân, Xã Liên Hiệp, Xã Tân Lễ, Xã Thái Hưng (huyện Hưng Hà), Xã Tiến Đức",
-        "dienTich": "7.971 km²",
-        "danSo": "33.579 người",
-        "matDo": "4 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Hưng Nhân, Xã Liên Hiệp, Xã Tân Lễ, Xã Thái Hưng (huyện Hưng Hà), Xã Tiến Đức",
+    "dienTich": "7.971 km²",
+    "danSo": "33.579 người",
+    "matDo": "4 người/km²",
+    "tS": ""
+  },
   "Lương Bằng": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Lương Bằng, Xã Chính Nghĩa, Xã Diên Hồng, Xã Phạm Ngũ Lão",
-        "dienTich": "2.908 km²",
-        "danSo": "3.942 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Lương Bằng, Xã Chính Nghĩa, Xã Diên Hồng, Xã Phạm Ngũ Lão",
+    "bT": "Trần Văn Bằng",
+    "cT": "Nguyễn Đăng Duy",
+    "dienTich": "2.908 km²",
+    "danSo": "3.942 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Mễ Sở": {
-        "loai":"Xã",
-        "donViCu": "Xã Bình Minh (huyện Khoái Châu), Xã Mễ Sở, Xã Thắng Lợi",
-        "dienTich": "1.751 km²",
-        "danSo": "30.138 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bình Minh (huyện Khoái Châu), Xã Mễ Sở, Xã Thắng Lợi",
+    "bT": "Vũ Tuấn Anh",
+    "cT": "Phạm Hữu Trường",
+    "dienTich": "1.751 km²",
+    "danSo": "30.138 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Minh Thọ": {
-        "loai":"Xã",
-        "donViCu": "Xã Quỳnh Giao, Xã Quỳnh Hoa, Xã Quỳnh Minh, Xã Quỳnh Thọ",
-        "dienTich": "2.211 km²",
-        "danSo": "24.659 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Quỳnh Giao, Xã Quỳnh Hoa, Xã Quỳnh Minh, Xã Quỳnh Thọ",
+    "dienTich": "2.211 km²",
+    "danSo": "24.659 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Mỹ Hào": {
-        "loai":"Phường",
-        "donViCu": "Phường Bần Yên Nhân, Phường Nhân Hòa, Phường Phan Đình Phùng, Xã Cẩm Xá",
-        "dienTich": "2.836 km²",
-        "danSo": "57.676 người",
-        "matDo": "20 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Bần Yên Nhân, Phường Nhân Hòa, Phường Phan Đình Phùng, Xã Cẩm Xá",
+    "bT": "Trần Thị Thanh Thủy",
+    "cT": "Nguyễn Minh Tuấn",
+    "dienTich": "2.836 km²",
+    "danSo": "57.676 người",
+    "matDo": "20 người/km²",
+    "tS": ""
+  },
   "Nam Cường": {
-        "loai":"Xã",
-        "donViCu": "Xã Nam Chính, Xã Nam Cường, Xã Nam Thịnh, Xã Nam Tiến",
-        "dienTich": "4.609 km²",
-        "danSo": "17.754 người",
-        "matDo": "4 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Nam Chính, Xã Nam Cường, Xã Nam Thịnh, Xã Nam Tiến",
+    "dienTich": "4.609 km²",
+    "danSo": "17.754 người",
+    "matDo": "4 người/km²",
+    "tS": ""
+  },
   "Nam Đông Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Đông Hoàng (huyện Đông Hưng), Xã Xuân Quang Động",
-        "dienTich": "1.625 km²",
-        "danSo": "25.296 người",
-        "matDo": "16 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đông Hoàng (huyện Đông Hưng), Xã Xuân Quang Động",
+    "dienTich": "1.625 km²",
+    "danSo": "25.296 người",
+    "matDo": "16 người/km²",
+    "tS": ""
+  },
   "Nam Thái Ninh": {
-        "loai":"Xã",
-        "donViCu": "Xã Thái Thịnh, Xã Thái Thọ, Xã Thuần Thành",
-        "dienTich": "2.640 km²",
-        "danSo": "19.959 người",
-        "matDo": "8 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Thái Thịnh, Xã Thái Thọ, Xã Thuần Thành",
+    "dienTich": "2.640 km²",
+    "danSo": "19.959 người",
+    "matDo": "8 người/km²",
+    "tS": ""
+  },
   "Nam Thụy Anh": {
-        "loai":"Xã",
-        "donViCu": "Xã Thụy Duyên, Xã Thụy Phong, Xã Thụy Thanh",
-        "dienTich": "1.740 km²",
-        "danSo": "2.226 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
-      "Nam Tiền Hải": {
-        "loai":"Xã",
-        "donViCu": "Xã Nam Hà, Xã Nam Hải, Xã Nam Hồng",
-        "dienTich": "2.262 km²",
-        "danSo": "30.698 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Thụy Duyên, Xã Thụy Phong, Xã Thụy Thanh",
+    "dienTich": "1.740 km²",
+    "danSo": "2.226 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
+  "Nam Tiền Hải": {
+    "loai": "Xã",
+    "donViCu": "Xã Nam Hà, Xã Nam Hải, Xã Nam Hồng",
+    "dienTich": "2.262 km²",
+    "danSo": "30.698 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Nam Tiên Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Hồng Giang, Xã Liên Hoa, Xã Minh Phú, Xã Trọng Quan",
-        "dienTich": "2.394 km²",
-        "danSo": "30.738 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hồng Giang, Xã Liên Hoa, Xã Minh Phú, Xã Trọng Quan",
+    "dienTich": "2.394 km²",
+    "danSo": "30.738 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Nghĩa Dân": {
-        "loai":"Xã",
-        "donViCu": "Xã Đồng Thanh (huyện Kim Động), Xã Nghĩa Dân, Xã Toàn Thắng, Xã Vĩnh Xá",
-        "dienTich": "2.329 km²",
-        "danSo": "34.669 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đồng Thanh (huyện Kim Động), Xã Nghĩa Dân, Xã Toàn Thắng, Xã Vĩnh Xá",
+    "bT": "Vũ Quang Thắng",
+    "cT": "Phạm Anh Tuấn",
+    "dienTich": "2.329 km²",
+    "danSo": "34.669 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Nghĩa Trụ": {
-        "loai":"Xã",
-        "donViCu": "Xã Long Hưng, Xã Nghĩa Trụ, Xã Vĩnh Khúc",
-        "dienTich": "2.280 km²",
-        "danSo": "46.561 người",
-        "matDo": "20 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Long Hưng, Xã Nghĩa Trụ, Xã Vĩnh Khúc",
+    "bT": "Bí thư Đảng ủy kiện toàn sau",
+    "cT": "Nguyễn Quốc Chương",
+    "dienTich": "2.280 km²",
+    "danSo": "46.561 người",
+    "matDo": "20 người/km²",
+    "tS": ""
+  },
   "Ngọc Lâm": {
-        "loai":"Xã",
-        "donViCu": "Xã Quỳnh Hoàng, Xã Quỳnh Lâm, Xã Quỳnh Ngọc",
-        "dienTich": "1.982 km²",
-        "danSo": "24.482 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Quỳnh Hoàng, Xã Quỳnh Lâm, Xã Quỳnh Ngọc",
+    "dienTich": "1.982 km²",
+    "danSo": "24.482 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Nguyễn Du": {
-        "loai":"Xã",
-        "donViCu": "Xã Châu Sơn, Xã Quỳnh Khê, Xã Quỳnh Nguyên",
-        "dienTich": "1.675 km²",
-        "danSo": "22.374 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Châu Sơn, Xã Quỳnh Khê, Xã Quỳnh Nguyên",
+    "dienTich": "1.675 km²",
+    "danSo": "22.374 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Nguyễn Trãi": {
-        "loai":"Xã",
-        "donViCu": "Xã Cẩm Ninh, Xã Đa Lộc, Xã Đặng Lễ, Xã Nguyễn Trãi",
-        "dienTich": "3.068 km²",
-        "danSo": "31.648 người",
-        "matDo": "10 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Cẩm Ninh, Xã Đa Lộc, Xã Đặng Lễ, Xã Nguyễn Trãi",
+    "bT": "Dương Tuấn Kiệt",
+    "cT": "Nguyễn Tất Thắng",
+    "dienTich": "3.068 km²",
+    "danSo": "31.648 người",
+    "matDo": "10 người/km²",
+    "tS": ""
+  },
   "Nguyễn Văn Linh": {
-        "loai":"Xã",
-        "donViCu": "Xã Liêu Xá, Xã Ngọc Long, Xã Nguyễn Văn Linh",
-        "dienTich": "2.090 km²",
-        "danSo": "47.867 người",
-        "matDo": "23 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Liêu Xá, Xã Ngọc Long, Xã Nguyễn Văn Linh",
+    "bT": "Trần Quốc Việt",
+    "cT": "Nguyễn Hải Phong",
+    "dienTich": "2.090 km²",
+    "danSo": "47.867 người",
+    "matDo": "23 người/km²",
+    "tS": ""
+  },
   "Ngự Thiên": {
-        "loai":"Xã",
-        "donViCu": "Xã Canh Tân, Xã Cộng Hòa, Xã Hòa Tiến, Xã Tân Hòa (huyện Hưng Hà)",
-        "dienTich": "22.421 km²",
-        "danSo": "",
-        "matDo": "",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Canh Tân, Xã Cộng Hòa, Xã Hòa Tiến, Xã Tân Hòa (huyện Hưng Hà)",
+    "dienTich": "22.421 km²",
+    "danSo": "",
+    "matDo": "",
+    "tS": ""
+  },
   "Như Quỳnh": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Như Quỳnh, Xã Đình Dù, Xã Lạc Hồng, Xã Tân Quang, Xã Trưng Trắc",
-        "dienTich": "2.732 km²",
-        "danSo": "77.703 người",
-        "matDo": "28 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Như Quỳnh, Xã Đình Dù, Xã Lạc Hồng, Xã Tân Quang, Xã Trưng Trắc",
+    "bT": "Đinh Hồng Quyên",
+    "cT": "Đỗ Hoàng Tùng",
+    "dienTich": "2.732 km²",
+    "danSo": "77.703 người",
+    "matDo": "28 người/km²",
+    "tS": ""
+  },
   "Phạm Ngũ Lão": {
-        "loai":"Xã",
-        "donViCu": "Xã Bắc Sơn (huyện Ân Thi), Xã Bãi Sậy, Xã Đào Dương, Xã Phù Ủng",
-        "dienTich": "2.932 km²",
-        "danSo": "37.053 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bắc Sơn (huyện Ân Thi), Xã Bãi Sậy, Xã Đào Dương, Xã Phù Ủng",
+    "bT": "Đỗ Văn Khai",
+    "cT": "Bạch Thị Hằng",
+    "dienTich": "2.932 km²",
+    "danSo": "37.053 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Phố Hiến": {
-        "loai":"Phường",
-        "donViCu": "Phường An Tảo, Phường Hiến Nam, Phường Lê Lợi, Phường Minh Khai, Xã Liên Phương, Xã Trung Nghĩa",
-        "dienTich": "2.150 km²",
-        "danSo": "68.982 người",
-        "matDo": "32 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường An Tảo, Phường Hiến Nam, Phường Lê Lợi, Phường Minh Khai, Xã Liên Phương, Xã Trung Nghĩa",
+    "bT": "Nguyễn Khả Phúc",
+    "cT": "Phạm Quốc Hoàn",
+    "dienTich": "2.150 km²",
+    "danSo": "68.982 người",
+    "matDo": "32 người/km²",
+    "tS": ""
+  },
   "Phụ Dực": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn An Bài, Xã An Mỹ, Xã An Ninh (huyện Quỳnh Phụ), Xã An Thanh, Xã An Vũ",
-        "dienTich": "3.316 km²",
-        "danSo": "42.522 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn An Bài, Xã An Mỹ, Xã An Ninh (huyện Quỳnh Phụ), Xã An Thanh, Xã An Vũ",
+    "dienTich": "3.316 km²",
+    "danSo": "42.522 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Phụng Công": {
-        "loai":"Xã",
-        "donViCu": "Xã Cửu Cao, Xã Phụng Công, Xã Xuân Quan",
-        "dienTich": "1.462 km²",
-        "danSo": "31.524 người",
-        "matDo": "22 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Cửu Cao, Xã Phụng Công, Xã Xuân Quan",
+    "bT": "Ngô Hải Hoàn",
+    "cT": "Ngô Quang Anh",
+    "dienTich": "1.462 km²",
+    "danSo": "31.524 người",
+    "matDo": "22 người/km²",
+    "tS": ""
+  },
   "Quang Hưng": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Trần Cao, Xã Minh Tân (huyện Phù Cừ), Xã Quang Hưng, Xã Tống Phan",
-        "dienTich": "1.589 km²",
-        "danSo": "20.701 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Trần Cao, Xã Minh Tân (huyện Phù Cừ), Xã Quang Hưng, Xã Tống Phan",
+    "bT": "Đào Quang Minh",
+    "cT": "Nguyễn Thế Trung",
+    "dienTich": "1.589 km²",
+    "danSo": "20.701 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Quang Lịch": {
-        "loai":"Xã",
-        "donViCu": "Xã Hòa Bình (huyện Kiến Xương), Xã Quang Lịch, Xã Vũ Lễ",
-        "dienTich": "1.492 km²",
-        "danSo": "18.832 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hòa Bình (huyện Kiến Xương), Xã Quang Lịch, Xã Vũ Lễ",
+    "dienTich": "1.492 km²",
+    "danSo": "18.832 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Quỳnh An": {
-        "loai":"Xã",
-        "donViCu": "Xã An Vinh, Xã Đông Hải, Xã Trang Bảo Xá",
-        "dienTich": "2.600 km²",
-        "danSo": "3.557 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã An Vinh, Xã Đông Hải, Xã Trang Bảo Xá",
+    "dienTich": "2.600 km²",
+    "danSo": "3.557 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Quỳnh Phụ": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Quỳnh Côi, Xã Quỳnh Hải, Xã Quỳnh Hội, Xã Quỳnh Hồng, Xã Quỳnh Hưng, Xã Quỳnh Mỹ",
-        "dienTich": "3.198 km²",
-        "danSo": "5.182 người",
-        "matDo": "2 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Quỳnh Côi, Xã Quỳnh Hải, Xã Quỳnh Hội, Xã Quỳnh Hồng, Xã Quỳnh Hưng, Xã Quỳnh Mỹ",
+    "dienTich": "3.198 km²",
+    "danSo": "5.182 người",
+    "matDo": "2 người/km²",
+    "tS": ""
+  },
   "Sơn Nam": {
-        "loai":"Phường",
-        "donViCu": "Phường Lam Sơn, Xã Bảo Khê, Xã Hùng Cường, Xã Ngọc Thanh, Xã Phú Cường",
-        "dienTich": "2.362 km²",
-        "danSo": "30.471 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Lam Sơn, Xã Bảo Khê, Xã Hùng Cường, Xã Ngọc Thanh, Xã Phú Cường",
+    "bT": "Lương Công Chanh",
+    "cT": "Dương Công Nhiệm",
+    "dienTich": "2.362 km²",
+    "danSo": "30.471 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Tân Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Phương Nam, Xã Tân Hưng, Xã Thủ Sỹ",
-        "dienTich": "9.241 km²",
-        "danSo": "35.222 người",
-        "matDo": "4 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Phương Nam, Xã Tân Hưng, Xã Thủ Sỹ",
+    "bT": "Vũ Văn Thắng",
+    "cT": "Trương Quốc Trân",
+    "dienTich": "9.241 km²",
+    "danSo": "35.222 người",
+    "matDo": "4 người/km²",
+    "tS": ""
+  },
   "Tân Thuận": {
-        "loai":"Xã",
-        "donViCu": "Xã Bách Thuận, Xã Tân Lập (huyện Vũ Thư), Xã Tự Tân",
-        "dienTich": "1.016 km²",
-        "danSo": "14.809 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bách Thuận, Xã Tân Lập (huyện Vũ Thư), Xã Tự Tân",
+    "dienTich": "1.016 km²",
+    "danSo": "14.809 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Tân Tiến": {
-        "loai":"Xã",
-        "donViCu": "Xã An Dục, Xã An Tràng, Xã Đồng Tiến (huyện Quỳnh Phụ)",
-        "dienTich": "20.720 km²",
-        "danSo": "33.994 người",
-        "matDo": "2 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã An Dục, Xã An Tràng, Xã Đồng Tiến (huyện Quỳnh Phụ)",
+    "dienTich": "20.720 km²",
+    "danSo": "33.994 người",
+    "matDo": "2 người/km²",
+    "tS": ""
+  },
   "Tây Thái Ninh": {
-        "loai":"Xã",
-        "donViCu": "Xã Sơn Hà, Xã Thái Giang",
-        "dienTich": "1.656 km²",
-        "danSo": "17.388 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Sơn Hà, Xã Thái Giang",
+    "dienTich": "1.656 km²",
+    "danSo": "17.388 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Tây Thụy Anh": {
-        "loai":"Xã",
-        "donViCu": "Xã Thụy Chính, Xã Thụy Dân, Xã Thụy Ninh",
-        "dienTich": "1.668 km²",
-        "danSo": "16.565 người",
-        "matDo": "10 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Thụy Chính, Xã Thụy Dân, Xã Thụy Ninh",
+    "dienTich": "1.668 km²",
+    "danSo": "16.565 người",
+    "matDo": "10 người/km²",
+    "tS": ""
+  },
   "Tây Tiền Hải": {
-        "loai":"Xã",
-        "donViCu": "Xã Bắc Hải, Xã Phương Công, Xã Vân Trường",
-        "dienTich": "1.756 km²",
-        "danSo": "25.235 người",
-        "matDo": "14 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bắc Hải, Xã Phương Công, Xã Vân Trường",
+    "dienTich": "1.756 km²",
+    "danSo": "25.235 người",
+    "matDo": "14 người/km²",
+    "tS": ""
+  },
   "Thái Bình": {
-        "loai":"Phường",
-        "donViCu": "Phường Bồ Xuyên, Phường Lê Hồng Phong, Phường Tiền Phong, Xã Phúc Thành, Xã Tân Bình, Xã Tân Hòa (huyện Vũ Thư), Xã Tân Phong",
-        "dienTich": "30.525 km²",
-        "danSo": "8.346 người",
-        "matDo": "",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Bồ Xuyên, Phường Lê Hồng Phong, Phường Tiền Phong, Xã Phúc Thành, Xã Tân Bình, Xã Tân Hòa (huyện Vũ Thư), Xã Tân Phong",
+    "dienTich": "30.525 km²",
+    "danSo": "8.346 người",
+    "matDo": "",
+    "tS": ""
+  },
   "Thái Ninh": {
-        "loai":"Xã",
-        "donViCu": "Xã Hòa An, Xã Thái Hưng (huyện Thái Thụy), Xã Thái Nguyên, Xã Thái Thượng",
-        "dienTich": "2.757 km²",
-        "danSo": "31.269 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hòa An, Xã Thái Hưng (huyện Thái Thụy), Xã Thái Nguyên, Xã Thái Thượng",
+    "dienTich": "2.757 km²",
+    "danSo": "31.269 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Thái Thụy": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Diêm Điền, Xã Thụy Bình, Xã Thụy Hải, Xã Thụy Liên, Xã Thụy Trình",
-        "dienTich": "3.550 km²",
-        "danSo": "51.837 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Diêm Điền, Xã Thụy Bình, Xã Thụy Hải, Xã Thụy Liên, Xã Thụy Trình",
+    "dienTich": "3.550 km²",
+    "danSo": "51.837 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Thần Khê": {
-        "loai":"Xã",
-        "donViCu": "Xã Bắc Sơn (huyện Hưng Hà), Xã Chi Lăng, Xã Đông Đô, Xã Tây Đô",
-        "dienTich": "2.039 km²",
-        "danSo": "29.648 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Bắc Sơn (huyện Hưng Hà), Xã Chi Lăng, Xã Đông Đô, Xã Tây Đô",
+    "dienTich": "2.039 km²",
+    "danSo": "29.648 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Thụy Anh": {
-        "loai":"Xã",
-        "donViCu": "Xã Dương Phúc, Xã Thụy Hưng, Xã Thụy Sơn",
-        "dienTich": "2.007 km²",
-        "danSo": "23.489 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Dương Phúc, Xã Thụy Hưng, Xã Thụy Sơn",
+    "dienTich": "2.007 km²",
+    "danSo": "23.489 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Thư Trì": {
-        "loai":"Xã",
-        "donViCu": "Xã Hiệp Hòa, Xã Minh Lãng, Xã Song Lãng",
-        "dienTich": "2.097 km²",
-        "danSo": "27.178 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hiệp Hòa, Xã Minh Lãng, Xã Song Lãng",
+    "dienTich": "2.097 km²",
+    "danSo": "27.178 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Thư Vũ": {
-        "loai":"Xã",
-        "donViCu": "Xã Việt Thuận, Xã Vũ Hội, Xã Vũ Vân, Xã Vũ Vinh",
-        "dienTich": "2.499 km²",
-        "danSo": "3.554 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Việt Thuận, Xã Vũ Hội, Xã Vũ Vân, Xã Vũ Vinh",
+    "dienTich": "2.499 km²",
+    "danSo": "3.554 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Thượng Hồng": {
-        "loai":"Phường",
-        "donViCu": "Phường Bạch Sam, Phường Minh Đức, Xã Dương Quang, Xã Hòa Phong",
-        "dienTich": "2.541 km²",
-        "danSo": "37.153 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Bạch Sam, Phường Minh Đức, Xã Dương Quang, Xã Hòa Phong",
+    "bT": "Nguyễn Thị Thiều Hương",
+    "cT": "Nguyễn Minh Phúc",
+    "dienTich": "2.541 km²",
+    "danSo": "37.153 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Tiền Hải": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Tiền Hải, Xã An Ninh (huyện Tiền Hải), Xã Tây Lương, Xã Tây Ninh, Xã Vũ Lăng",
-        "dienTich": "3.299 km²",
-        "danSo": "42.707 người",
-        "matDo": "13 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Tiền Hải, Xã An Ninh (huyện Tiền Hải), Xã Tây Lương, Xã Tây Ninh, Xã Vũ Lăng",
+    "dienTich": "3.299 km²",
+    "danSo": "42.707 người",
+    "matDo": "13 người/km²",
+    "tS": ""
+  },
   "Tiên Hoa": {
-        "loai":"Xã",
-        "donViCu": "Xã Cương Chính, Xã Lệ Xá, Xã Trung Dũng",
-        "dienTich": "2.165 km²",
-        "danSo": "26.152 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Cương Chính, Xã Lệ Xá, Xã Trung Dũng",
+    "bT": "Bùi Minh Việt",
+    "cT": "Vũ Quang Vinh",
+    "dienTich": "2.165 km²",
+    "danSo": "26.152 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Tiên Hưng": {
-        "loai":"Xã",
-        "donViCu": "Xã Hồng Bạch, Xã Hồng Việt, Xã Minh Tân (huyện Đông Hưng), Xã Thăng Long",
-        "dienTich": "2.241 km²",
-        "danSo": "26.172 người",
-        "matDo": "12 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hồng Bạch, Xã Hồng Việt, Xã Minh Tân (huyện Đông Hưng), Xã Thăng Long",
+    "dienTich": "2.241 km²",
+    "danSo": "26.172 người",
+    "matDo": "12 người/km²",
+    "tS": ""
+  },
   "Tiên La": {
-        "loai":"Xã",
-        "donViCu": "Xã Đoan Hùng, Xã Phúc Khánh, Xã Tân Tiến (huyện Hưng Hà), Xã Thái Phương",
-        "dienTich": "2.254 km²",
-        "danSo": "32.805 người",
-        "matDo": "15 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đoan Hùng, Xã Phúc Khánh, Xã Tân Tiến (huyện Hưng Hà), Xã Thái Phương",
+    "dienTich": "2.254 km²",
+    "danSo": "32.805 người",
+    "matDo": "15 người/km²",
+    "tS": ""
+  },
   "Tiên Lữ": {
-        "loai":"Xã",
-        "donViCu": "Xã Hải Thắng, Xã Thiện Phiến, Xã Thụy Lôi",
-        "dienTich": "3.180 km²",
-        "danSo": "3.271 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hải Thắng, Xã Thiện Phiến, Xã Thụy Lôi",
+    "bT": "Nguyễn Văn Cường",
+    "cT": "Bùi Trung Kiên",
+    "dienTich": "3.180 km²",
+    "danSo": "3.271 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Tiên Tiến": {
-        "loai":"Xã",
-        "donViCu": "Xã Đình Cao, Xã Nhật Quang, Xã Tiên Tiến",
-        "dienTich": "2.580 km²",
-        "danSo": "28.936 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đình Cao, Xã Nhật Quang, Xã Tiên Tiến",
+    "bT": "Trần Xuân Vui",
+    "cT": "Nguyễn Hữu Dương",
+    "dienTich": "2.580 km²",
+    "danSo": "28.936 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Tống Trân": {
-        "loai":"Xã",
-        "donViCu": "Xã Nguyên Hòa, Xã Tam Đa, Xã Tống Trân",
-        "dienTich": "2.073 km²",
-        "danSo": "19.937 người",
-        "matDo": "10 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Nguyên Hòa, Xã Tam Đa, Xã Tống Trân",
+    "bT": "Doãn Quốc Hoàn",
+    "cT": "Nguyễn Minh Tiến",
+    "dienTich": "2.073 km²",
+    "danSo": "19.937 người",
+    "matDo": "10 người/km²",
+    "tS": ""
+  },
   "Trà Giang": {
-        "loai":"Xã",
-        "donViCu": "Xã Hồng Thái, Xã Quốc Tuấn, Xã Trà Giang",
-        "dienTich": "9.172 km²",
-        "danSo": "20.801 người",
-        "matDo": "2 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Hồng Thái, Xã Quốc Tuấn, Xã Trà Giang",
+    "dienTich": "9.172 km²",
+    "danSo": "20.801 người",
+    "matDo": "2 người/km²",
+    "tS": ""
+  },
   "Trà Lý": {
-        "loai":"Phường",
-        "donViCu": "Phường Hoàng Diệu, Xã Đông Dương, Xã Đông Hoà, Xã Đông Mỹ, Xã Đông Thọ",
-        "dienTich": "2.094 km²",
-        "danSo": "43.929 người",
-        "matDo": "21 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Hoàng Diệu, Xã Đông Dương, Xã Đông Hoà, Xã Đông Mỹ, Xã Đông Thọ",
+    "dienTich": "2.094 km²",
+    "danSo": "43.929 người",
+    "matDo": "21 người/km²",
+    "tS": ""
+  },
   "Trần Hưng Đạo": {
-        "loai":"Phường",
-        "donViCu": "Phường Đề Thám, Phường Quang Trung, Phường Trần Hưng Đạo, Xã Phú Xuân",
-        "dienTich": "932 km²",
-        "danSo": "45.657 người",
-        "matDo": "49 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Đề Thám, Phường Quang Trung, Phường Trần Hưng Đạo, Xã Phú Xuân",
+    "dienTich": "932 km²",
+    "danSo": "45.657 người",
+    "matDo": "49 người/km²",
+    "tS": ""
+  },
   "Trần Lãm": {
-        "loai":"Phường",
-        "donViCu": "Phường Kỳ Bá, Phường Trần Lãm, Xã Tây Sơn, Xã Vũ Chính, Xã Vũ Đông, Xã Vũ Lạc",
-        "dienTich": "3.463 km²",
-        "danSo": "92.136 người",
-        "matDo": "27 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Kỳ Bá, Phường Trần Lãm, Xã Tây Sơn, Xã Vũ Chính, Xã Vũ Đông, Xã Vũ Lạc",
+    "dienTich": "3.463 km²",
+    "danSo": "92.136 người",
+    "matDo": "27 người/km²",
+    "tS": ""
+  },
   "Triệu Việt Vương": {
-        "loai":"Xã",
-        "donViCu": "Xã An Vĩ, Xã Ông Đình, Xã Phạm Hồng Thái, Xã Tân Dân",
-        "dienTich": "2.715 km²",
-        "danSo": "44.554 người",
-        "matDo": "16 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã An Vĩ, Xã Ông Đình, Xã Phạm Hồng Thái, Xã Tân Dân",
+    "bT": "Phạm Xuân Thắng",
+    "cT": "Lê Hải Nam",
+    "dienTich": "2.715 km²",
+    "danSo": "44.554 người",
+    "matDo": "16 người/km²",
+    "tS": ""
+  },
   "Vạn Xuân": {
-        "loai":"Xã",
-        "donViCu": "Xã Đồng Thanh (huyện Vũ Thư), Xã Hồng Lý, Xã Việt Hùng, Xã Xuân Hòa",
-        "dienTich": "4.020 km²",
-        "danSo": "6.161 người",
-        "matDo": "2 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Đồng Thanh (huyện Vũ Thư), Xã Hồng Lý, Xã Việt Hùng, Xã Xuân Hòa",
+    "dienTich": "4.020 km²",
+    "danSo": "6.161 người",
+    "matDo": "2 người/km²",
+    "tS": ""
+  },
   "Văn Giang": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Văn Giang, Xã Liên Nghĩa, Xã Tân Tiến (huyện Văn Giang)",
-        "dienTich": "2.296 km²",
-        "danSo": "40.599 người",
-        "matDo": "18 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Văn Giang, Xã Liên Nghĩa, Xã Tân Tiến (huyện Văn Giang)",
+    "bT": "Nguyễn Văn Tuấn",
+    "cT": "Đỗ Văn Hân",
+    "dienTich": "2.296 km²",
+    "danSo": "40.599 người",
+    "matDo": "18 người/km²",
+    "tS": ""
+  },
   "Việt Tiến": {
-        "loai":"Xã",
-        "donViCu": "Xã Dân Tiến, Xã Đồng Tiến (huyện Khoái Châu), Xã Việt Hòa",
-        "dienTich": "2.018 km²",
-        "danSo": "35.161 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Dân Tiến, Xã Đồng Tiến (huyện Khoái Châu), Xã Việt Hòa",
+    "bT": "Hoàng Văn Tựu",
+    "cT": "Nguyễn Đức Đoàn",
+    "dienTich": "2.018 km²",
+    "danSo": "35.161 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Việt Yên": {
-        "loai":"Xã",
-        "donViCu": "Xã Thanh Long, Xã Việt Yên, Xã Yên Phú",
-        "dienTich": "23.985 km²",
-        "danSo": "",
-        "matDo": "",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Thanh Long, Xã Việt Yên, Xã Yên Phú",
+    "bT": "Vũ Văn Kiên",
+    "cT": "Nguyễn Văn Dũng",
+    "dienTich": "23.985 km²",
+    "danSo": "",
+    "matDo": "",
+    "tS": ""
+  },
   "Vũ Phúc": {
-        "loai":"Phường",
-        "donViCu": "Phường Phú Khánh, Xã Nguyên Xá (huyện Vũ Thư), Xã Song An, Xã Trung An, Xã Vũ Phúc",
-        "dienTich": "2.399 km²",
-        "danSo": "41.428 người",
-        "matDo": "17 người/km²",
-        "tS":""
-      },
+    "loai": "Phường",
+    "donViCu": "Phường Phú Khánh, Xã Nguyên Xá (huyện Vũ Thư), Xã Song An, Xã Trung An, Xã Vũ Phúc",
+    "dienTich": "2.399 km²",
+    "danSo": "41.428 người",
+    "matDo": "17 người/km²",
+    "tS": ""
+  },
   "Vũ Quý": {
-        "loai":"Xã",
-        "donViCu": "Xã Vũ An, Xã Vũ Ninh, Xã Vũ Quý, Xã Vũ Trung",
-        "dienTich": "15.083 km²",
-        "danSo": "",
-        "matDo": "",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Vũ An, Xã Vũ Ninh, Xã Vũ Quý, Xã Vũ Trung",
+    "dienTich": "15.083 km²",
+    "danSo": "",
+    "matDo": "",
+    "tS": ""
+  },
   "Vũ Thư": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Vũ Thư, Xã Dũng Nghĩa, Xã Hòa Bình, Xã Minh Khai, Xã Minh Quang (huyện Vũ Thư), Xã Tam Quang",
-        "dienTich": "2.907 km²",
-        "danSo": "4.392 người",
-        "matDo": "2 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Thị trấn Vũ Thư, Xã Dũng Nghĩa, Xã Hòa Bình, Xã Minh Khai, Xã Minh Quang (huyện Vũ Thư), Xã Tam Quang",
+    "dienTich": "2.907 km²",
+    "danSo": "4.392 người",
+    "matDo": "2 người/km²",
+    "tS": ""
+  },
   "Vũ Tiên": {
-        "loai":"Xã",
-        "donViCu": "Xã Duy Nhất, Xã Hồng Phong, Xã Vũ Đoài, Xã Vũ Tiến",
-        "dienTich": "3.268 km²",
-        "danSo": "37.469 người",
-        "matDo": "11 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Duy Nhất, Xã Hồng Phong, Xã Vũ Đoài, Xã Vũ Tiến",
+    "dienTich": "3.268 km²",
+    "danSo": "37.469 người",
+    "matDo": "11 người/km²",
+    "tS": ""
+  },
   "Xuân Trúc": {
-        "loai":"Xã",
-        "donViCu": "Xã Quảng Lãng, Xã Vân Du, Xã Xuân Trúc",
-        "dienTich": "2.004 km²",
-        "danSo": "2.577 người",
-        "matDo": "1 người/km²",
-        "tS":""
-      },
+    "loai": "Xã",
+    "donViCu": "Xã Quảng Lãng, Xã Vân Du, Xã Xuân Trúc",
+    "bT": "Lê Công Tuấn",
+    "cT": "Phạm Khắc Huân",
+    "dienTich": "2.004 km²",
+    "danSo": "2.577 người",
+    "matDo": "1 người/km²",
+    "tS": ""
+  },
   "Yên Mỹ": {
-        "loai":"Xã",
-        "donViCu": "Thị trấn Yên Mỹ, Xã Tân Lập (huyện Yên Mỹ), Xã Tân Minh, Xã Trung Hòa",
-        "dienTich": "3.312 km²",
-        "danSo": "75.876 người",
-        "matDo": "23 người/km²",
-        "tS":""
-      }
+    "loai": "Xã",
+    "donViCu": "Thị trấn Yên Mỹ, Xã Tân Lập (huyện Yên Mỹ), Xã Tân Minh, Xã Trung Hòa",
+    "bT": "Nguyễn Văn Đoàn",
+    "cT": "Trịnh Hồng Tuyến",
+    "dienTich": "3.312 km²",
+    "danSo": "75.876 người",
+    "matDo": "23 người/km²",
+    "tS": ""
+  }
+
   },
   "Khánh Hòa": {
         "_info": {
@@ -30929,998 +31009,1124 @@
           "bienSo": "22, 23"
         },
   
-"An Tường": {
-      "loai":"Phường",
-      "donViCu": "Phường An Tường, Phường Hưng Thành, Xã An Khang, Xã Hoàng Khai, Xã Lưỡng Vượng",
-      "bT": "Nguyễn Đình Trung",
-      "dienTich": "5.344 km²",
-      "danSo": "42.952 người",
-      "matDo": "8 người/km²"
+
+  "An Tường": {
+    "loai": "Phường",
+    "donViCu": "Phường An Tường, Phường Hưng Thành, Xã An Khang, Xã Hoàng Khai, Xã Lưỡng Vượng",
+    "bT": "Nguyễn Đình Trung",
+    "dienTich": "5.344 km²",
+    "danSo": "42.952 người",
+    "matDo": "8 người/km²",
+    "tS": "Tổ dân phố 13, phường An Tường, tỉnh Tuyên Quang"
   },
   "Bạch Đích": {
-      "loai":"Xã",
-      "donViCu": "Xã Bạch Đích, Xã Na Khê, Xã Phú Lũng",
-      "bT": "Hoàng Anh Tuấn",
-      "dienTich": "9.517 km²",
-      "danSo": "12.747 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bạch Đích, Xã Na Khê, Xã Phú Lũng",
+    "bT": "Hoàng Anh Tuấn",
+    "dienTich": "9.517 km²",
+    "danSo": "12.747 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Na Sàng 1, Xã Bạch Đích, tỉnh Tuyên Quang"
   },
   "Bạch Ngọc": {
-      "loai":"Xã",
-      "donViCu": "Xã Bạch Ngọc, Xã Ngọc Minh",
-      "bT": "Thiều Văn Bốn",
-      "dienTich": "7.220 km²",
-      "danSo": "29.021 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bạch Ngọc, Xã Ngọc Minh",
+    "bT": "Thiều Văn Bốn",
+    "dienTich": "7.220 km²",
+    "danSo": "29.021 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn Phai, xã Bạch Ngọc, tỉnh Tuyên Quang"
   },
   "Bạch Xa": {
-      "loai":"Xã",
-      "donViCu": "Xã Bạch Xa, Xã Minh Khương, Xã Yên Thuận",
-      "bT": "Tống Xuân Quang",
-      "dienTich": "12.741 km²",
-      "danSo": "15.309 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bạch Xa, Xã Minh Khương, Xã Yên Thuận",
+    "bT": "Tống Xuân Quang",
+    "dienTich": "12.741 km²",
+    "danSo": "15.309 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Phù Hương, xã Bạch Xa, tỉnh Tuyên Quang"
   },
   "Bản Máy": {
-      "loai":"Xã",
-      "donViCu": "Xã Bản Máy, Xã Bản Phùng, Xã Chiến Phố",
-      "bT": "Lù Văn Chung",
-      "dienTich": "7.617 km²",
-      "danSo": "9.792 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bản Máy, Xã Bản Phùng, Xã Chiến Phố",
+    "bT": "Lù Văn Chung",
+    "dienTich": "7.617 km²",
+    "danSo": "9.792 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Bản Máy, xã Bản Máy, tỉnh Tuyên Quang"
   },
   "Bắc Mê": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Yên Phú, Xã Lạc Nông, Xã Yên Phong",
-      "bT": "Phạm Thị Hồng Yên",
-      "dienTich": "15.430 km²",
-      "danSo": "13.043 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Yên Phú, Xã Lạc Nông, Xã Yên Phong",
+    "bT": "Phạm Thị Hồng Yên",
+    "dienTich": "15.430 km²",
+    "danSo": "13.043 người",
+    "matDo": "1 người/km²",
+    "tS": "Tổ 1, xã Bắc Mê, tỉnh Tuyên Quang"
   },
   "Bắc Quang": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Việt Quang, Xã Quang Minh, Xã Việt Vinh",
-      "bT": " Phan Ngọc Hiệp",
-      "dienTich": "14.193 km²",
-      "danSo": "33.644 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Việt Quang, Xã Quang Minh, Xã Việt Vinh",
+    "bT": " Phan Ngọc Hiệp",
+    "dienTich": "14.193 km²",
+    "danSo": "33.644 người",
+    "matDo": "2 người/km²",
+    "tS": "Tổ 4, xã Bắc Quang, tỉnh Tuyên Quang"
   },
   "Bằng Hành": {
-      "loai":"Xã",
-      "donViCu": "Xã Bằng Hành, Xã Kim Ngọc, Xã Vô Điếm",
-      "bT": "Lý Hồng Quang",
-      "dienTich": "15.172 km²",
-      "danSo": "1.656 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Bằng Hành, Xã Kim Ngọc, Xã Vô Điếm",
+    "bT": "Lý Hồng Quang",
+    "dienTich": "15.172 km²",
+    "danSo": "1.656 người",
+    "matDo": "",
+    "tS": "Thôn Minh Khai, xã Bằng Hành, tỉnh Tuyên Quang"
   },
   "Bằng Lang": {
-      "loai":"Xã",
-      "donViCu": "Xã Bằng Lang, Xã Yên Hà",
-      "bT": "Tăng Trung In",
-      "dienTich": "11.566 km²",
-      "danSo": "12.167 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bằng Lang, Xã Yên Hà",
+    "bT": "Tăng Trung In",
+    "dienTich": "11.566 km²",
+    "danSo": "12.167 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Trung, xã Bằng Lang, tỉnh Tuyên Quang"
   },
   "Bình An": {
-      "loai":"Xã",
-      "donViCu": "Xã Bình An, Xã Thổ Bình",
-      "bT": "Trịnh Văn Năm",
-      "dienTich": "7.343 km²",
-      "danSo": "59.475 người",
-      "matDo": "8 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bình An, Xã Thổ Bình",
+    "bT": "Trịnh Văn Năm",
+    "dienTich": "7.343 km²",
+    "danSo": "59.475 người",
+    "matDo": "8 người/km²",
+    "tS": "Thôn Nà Cọn, xã Bình An, tỉnh Tuyên Quang"
   },
   "Bình Ca": {
-      "loai":"Xã",
-      "donViCu": "Xã Cấp Tiến, Xã Thượng Ấm, Xã Vĩnh Lợi",
-      "bT": "Dương Văn Hòa",
-      "dienTich": "6.948 km²",
-      "danSo": "24.339 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Cấp Tiến, Xã Thượng Ấm, Xã Vĩnh Lợi",
+    "bT": "Dương Văn Hòa",
+    "dienTich": "6.948 km²",
+    "danSo": "24.339 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn Gò Hu, xã Bình Ca, tỉnh Tuyên Quang"
   },
   "Bình Thuận": {
-      "loai":"Phường",
-      "donViCu": "Phường Đội Cấn, Xã Thái Long",
-      "bT": "Phạm Thị Kiều Trang",
-      "dienTich": "4.516 km²",
-      "danSo": "47.858 người",
-      "matDo": "11 người/km²"
+    "loai": "Phường",
+    "donViCu": "Phường Đội Cấn, Xã Thái Long",
+    "bT": "Phạm Thị Kiều Trang",
+    "dienTich": "4.516 km²",
+    "danSo": "47.858 người",
+    "matDo": "11 người/km²",
+    "tS": "Tổ 12, phường Bình Thuận, tỉnh Tuyên Quang"
   },
   "Bình Xa": {
-      "loai":"Xã",
-      "donViCu": "Xã Bình Xa, Xã Minh Hương",
-      "bT": "Ma Văn Giáo",
-      "dienTich": "9.117 km²",
-      "danSo": "17.998 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bình Xa, Xã Minh Hương",
+    "bT": "Ma Văn Giáo",
+    "dienTich": "9.117 km²",
+    "danSo": "17.998 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Đồng Chùa 1, xã Bình Xa, tỉnh Tuyên Quang"
   },
   "Cán Tỷ": {
-      "loai":"Xã",
-      "donViCu": "Xã Bát Đại Sơn, Xã Cán Tỷ",
-      "bT": "Phạm Ngọc Pha",
-      "dienTich": "8.513 km²",
-      "danSo": "9.824 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bát Đại Sơn, Xã Cán Tỷ",
+    "bT": "Phạm Ngọc Pha",
+    "dienTich": "8.513 km²",
+    "danSo": "9.824 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Đầu Cầu 1, xã Cán Tỷ, tỉnh Tuyên Quang"
   },
   "Cao Bồ": {
-      "loai":"Xã",
-      "donViCu": "Cao Bồ",
-      "bT": "Nguyễn Văn Châu",
-      "dienTich": "11.118 km²",
-      "danSo": "4.211 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Cao Bồ",
+    "bT": "Nguyễn Văn Châu",
+    "dienTich": "11.118 km²",
+    "danSo": "4.211 người",
+    "matDo": "",
+    "tS": "Thôn Thắc Tăng, xã Cao Bồ, tỉnh Tuyên Quang"
   },
   "Chiêm Hóa": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Vĩnh Lộc, Xã Ngọc Hội, Xã Phúc Thịnh, Xã Trung Hòa, Xã Xuân Quang",
-      "bT": "Vũ Quang Thắng",
-      "dienTich": "11.127 km²",
-      "danSo": "",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Thị trấn Vĩnh Lộc, Xã Ngọc Hội, Xã Phúc Thịnh, Xã Trung Hòa, Xã Xuân Quang",
+    "bT": "Vũ Quang Thắng",
+    "dienTich": "11.127 km²",
+    "danSo": "",
+    "matDo": "",
+    "tS": "Thôn Vĩnh Thịnh, xã Chiêm Hóa, tỉnh Tuyên Quang"
   },
   "Côn Lôn": {
-      "loai":"Xã",
-      "donViCu": "Xã Côn Lôn, Xã Sinh Long",
-      "bT": "Nguyễn Trọng Đoan",
-      "dienTich": "16.076 km²",
-      "danSo": "5.734 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Côn Lôn, Xã Sinh Long",
+    "bT": "Nguyễn Trọng Đoan",
+    "dienTich": "16.076 km²",
+    "danSo": "5.734 người",
+    "matDo": "",
+    "tS": "Thôn Nà Thưa, xã Côn Lôn, tỉnh Tuyên Quang"
   },
   "Du Già": {
-      "loai":"Xã",
-      "donViCu": "Xã Du Già, Xã Du Tiến",
-      "bT": "Sính Phái Chơ",
-      "dienTich": "12.694 km²",
-      "danSo": "15.829 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Du Già, Xã Du Tiến",
+    "bT": "Sính Phái Chơ",
+    "dienTich": "12.694 km²",
+    "danSo": "15.829 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Cốc Pảng, xã Du Già, tỉnh Tuyên Quang"
   },
   "Đồng Tâm": {
-      "loai":"Xã",
-      "donViCu": "Xã Đồng Tâm, Xã Đồng Tiến, Xã Tân Phước",
-      "bT": "Thèn Văn Quân",
-      "dienTich": "24.880 km²",
-      "danSo": "35.573 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đồng Tâm, Xã Đồng Tiến, Xã Tân Phước",
+    "bT": "Thèn Văn Quân",
+    "dienTich": "24.880 km²",
+    "danSo": "35.573 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Phiến, xã Đồng Tâm, tỉnh Tuyên Quang"
   },
   "Đông Thọ": {
-      "loai":"Xã",
-      "donViCu": "Xã Đồng Quý, Xã Đông Thọ, Xã Quyết Thắng",
-      "bT": "Phạm Hữu Tân",
-      "dienTich": "7.486 km²",
-      "danSo": "18.085 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đồng Quý, Xã Đông Thọ, Xã Quyết Thắng",
+    "bT": "Phạm Hữu Tân",
+    "dienTich": "7.486 km²",
+    "danSo": "18.085 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Đá Trơn, xã Đông Thọ, tỉnh Tuyên Quang"
   },
   "Đồng Văn": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Đồng Văn, Xã Pải Lủng, Xã Tả Lủng (huyện Đồng Văn), Xã Tả Phìn, Xã Thài Phìn Tủng",
-      "bT": "Nguyễn Tiến Dũng",
-      "dienTich": "1.888 km²",
-      "danSo": "34.484 người",
-      "matDo": "18 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Đồng Văn, Xã Pải Lủng, Xã Tả Lủng (huyện Đồng Văn), Xã Tả Phìn, Xã Thài Phìn Tủng",
+    "bT": "Nguyễn Tiến Dũng",
+    "dienTich": "1.888 km²",
+    "danSo": "34.484 người",
+    "matDo": "18 người/km²",
+    "tS": "Tổ 7, xã Đồng Văn, tỉnh Tuyên Quang"
   },
   "Đồng Yên": {
-      "loai":"Xã",
-      "donViCu": "Xã Đồng Yên, Xã Vĩnh Phúc",
-      "bT": "Phạm Hồng Thanh",
-      "dienTich": "7.936 km²",
-      "danSo": "18.326 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đồng Yên, Xã Vĩnh Phúc",
+    "bT": "Phạm Hồng Thanh",
+    "dienTich": "7.936 km²",
+    "danSo": "18.326 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Phố Cáo, xã Đồng Yên, tỉnh Tuyên Quang"
   },
   "Đường Hồng": {
-      "loai":"Xã",
-      "donViCu": "Xã Đường Âm, Xã Đường Hồng, Xã Phú Nam",
-      "bT": "Trần Mạnh Tuyên",
-      "dienTich": "13.542 km²",
-      "danSo": "11.645 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đường Âm, Xã Đường Hồng, Xã Phú Nam",
+    "bT": "Trần Mạnh Tuyên",
+    "dienTich": "13.542 km²",
+    "danSo": "11.645 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Độc Lập, xã Đường Hồng, tỉnh Tuyên Quang"
   },
   "Đường Thượng": {
-      "loai":"Xã",
-      "donViCu": "Xã Đường Thượng, Xã Lũng Hồ",
-      "bT": "Nguyễn Đình Duẩn",
-      "dienTich": "10.325 km²",
-      "danSo": "14.376 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đường Thượng, Xã Lũng Hồ",
+    "bT": "Nguyễn Đình Duẩn",
+    "dienTich": "10.325 km²",
+    "danSo": "14.376 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Lũng Hồ 3, xã Đường Thượng, tỉnh Tuyên Quang"
   },
   "Giáp Trung": {
-      "loai":"Xã",
-      "donViCu": "Giáp Trung",
-      "bT": "Bồn Văn Quốc",
-      "dienTich": "7.321 km²",
-      "danSo": "622 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Giáp Trung",
+    "bT": "Bồn Văn Quốc",
+    "dienTich": "7.321 km²",
+    "danSo": "622 người",
+    "matDo": "",
+    "tS": "Thôn Khâu Nhòa, xã Giáp Trung, tỉnh Tuyên Quang"
   },
   "Hà Giang 1": {
-      "loai":"Phường",
-      "donViCu": "Phường Nguyễn Trãi, Phường Quang Trung, Xã Phương Độ, Xã Phương Thiện",
-      "bT": "Nguyễn Danh Hùng",
-      "dienTich": "8.269 km²",
-      "danSo": "21.652 người",
-      "matDo": "3 người/km²"
+    "loai": "Phường",
+    "donViCu": "Phường Nguyễn Trãi, Phường Quang Trung, Xã Phương Độ, Xã Phương Thiện",
+    "bT": "Nguyễn Danh Hùng",
+    "dienTich": "8.269 km²",
+    "danSo": "21.652 người",
+    "matDo": "3 người/km²",
+    "tS": "Số 61, đường Nguyễn Du, Tổ 16, phường Hà Giang 1, tỉnh Tuyên Quang"
   },
   "Hà Giang 2": {
-      "loai":"Phường",
-      "donViCu": "Phường Minh Khai, Phường Ngọc Hà, Phường Quang Trung, Phường Trần Phú, Xã Phong Quang",
-      "bT": "Vàng Seo Cón",
-      "dienTich": "6.062 km²",
-      "danSo": "331 người",
-      "matDo": ""
+    "loai": "Phường",
+    "donViCu": "Phường Minh Khai, Phường Ngọc Hà, Phường Quang Trung, Phường Trần Phú, Xã Phong Quang",
+    "bT": "Vàng Seo Cón",
+    "dienTich": "6.062 km²",
+    "danSo": "331 người",
+    "matDo": "",
+    "tS": "Số 85A, đường Lâm Đồng, phường Hà Giang 2, tỉnh Tuyên Quang"
   },
   "Hàm Yên": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Tân Yên, Xã Bằng Cốc, Xã Nhân Mục, Xã Tân Thành (huyện Hàm Yên)",
-      "bT": "Mai Hồng Hà",
-      "dienTich": "12.619 km²",
-      "danSo": "29.508 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Tân Yên, Xã Bằng Cốc, Xã Nhân Mục, Xã Tân Thành (huyện Hàm Yên)",
+    "bT": "Mai Hồng Hà",
+    "dienTich": "12.619 km²",
+    "danSo": "29.508 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Bắc Mục, xã Hàm Yên, tỉnh Tuyên Quang"
   },
   "Hòa An": {
-      "loai":"Xã",
-      "donViCu": "Xã Hòa An, Xã Nhân Lý, Xã Tân Thịnh",
-      "bT": "Trần Văn Tuyên",
-      "dienTich": "6.162 km²",
-      "danSo": "32.937 người",
-      "matDo": "5 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hòa An, Xã Nhân Lý, Xã Tân Thịnh",
+    "bT": "Trần Văn Tuyên",
+    "dienTich": "6.162 km²",
+    "danSo": "32.937 người",
+    "matDo": "5 người/km²",
+    "tS": "Thôn Chắng Hạ, xã Hoà An, tỉnh Tuyên Quang"
   },
   "Hoàng Su Phì": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Vinh Quang, Xã Bản Luốc, Xã Đản Ván, Xã Ngàm Đăng Vài, Xã Tụ Nhân",
-      "bT": "Vàng Đình Chiến",
-      "dienTich": "8.665 km²",
-      "danSo": "15.645 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Vinh Quang, Xã Bản Luốc, Xã Đản Ván, Xã Ngàm Đăng Vài, Xã Tụ Nhân",
+    "bT": "Vàng Đình Chiến",
+    "dienTich": "8.665 km²",
+    "danSo": "15.645 người",
+    "matDo": "2 người/km²",
+    "tS": "Tổ 2, xã Hoàng Su Phì, tỉnh Tuyên Quang"
   },
   "Hồ Thầu": {
-      "loai":"Xã",
-      "donViCu": "Xã Hồ Thầu, Xã Nậm Khòa, Xã Nam Sơn",
-      "bT": "Lý Chòi Nhàn",
-      "dienTich": "13.683 km²",
-      "danSo": "8.709 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hồ Thầu, Xã Nậm Khòa, Xã Nam Sơn",
+    "bT": "Lý Chòi Nhàn",
+    "dienTich": "13.683 km²",
+    "danSo": "8.709 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn 1 Lê Hồng Phong, xã Hồ Thầu, tỉnh Tuyên Quang"
   },
   "Hồng Sơn": {
-      "loai":"Xã",
-      "donViCu": "Xã Chi Thiết, Xã Hồng Sơn, Xã Văn Phú",
-      "bT": "Hoàng Hải Trường",
-      "dienTich": "18.901 km²",
-      "danSo": "29.875 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Chi Thiết, Xã Hồng Sơn, Xã Văn Phú",
+    "bT": "Hoàng Hải Trường",
+    "dienTich": "18.901 km²",
+    "danSo": "29.875 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Khổng, xã Hồng Sơn, tỉnh Tuyên Quang"
   },
   "Hồng Thái": {
-      "loai":"Xã",
-      "donViCu": "Xã Đà Vị, Xã Hồng Thái, Xã Sơn Phú",
-      "bT": "Ma Quý Đôn",
-      "dienTich": "10.164 km²",
-      "danSo": "25.049 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đà Vị, Xã Hồng Thái, Xã Sơn Phú",
+    "bT": "Ma Quý Đôn",
+    "dienTich": "10.164 km²",
+    "danSo": "25.049 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Xá Thị, xã Hồng Thái, tỉnh Tuyên Quang"
   },
   "Hùng An": {
-      "loai":"Xã",
-      "donViCu": "Xã Hùng An, Xã Tiên Kiều, Xã Việt Hồng",
-      "bT": "Nguyễn Thùy Linh",
-      "dienTich": "11.857 km²",
-      "danSo": "17.224 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hùng An, Xã Tiên Kiều, Xã Việt Hồng",
+    "bT": "Nguyễn Thùy Linh",
+    "dienTich": "11.857 km²",
+    "danSo": "17.224 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tân Hùng, xã Hùng An, tỉnh Tuyên Quang"
   },
   "Hùng Đức": {
-      "loai":"Xã",
-      "donViCu": "Hùng Đức",
-      "bT": "Chẩu Thanh Bình",
-      "dienTich": "6.363 km²",
-      "danSo": "10.368 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Hùng Đức",
+    "bT": "Chẩu Thanh Bình",
+    "dienTich": "6.363 km²",
+    "danSo": "10.368 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Tân Hùng, xã Hùng Đức, tỉnh Tuyên Quang"
   },
   "Hùng Lợi": {
-      "loai":"Xã",
-      "donViCu": "Xã Hùng Lợi, Xã Trung Minh",
-      "bT": "Trần Giang Tuyên",
-      "dienTich": "16.893 km²",
-      "danSo": "10.882 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hùng Lợi, Xã Trung Minh",
+    "bT": "Trần Giang Tuyên",
+    "dienTich": "16.893 km²",
+    "danSo": "10.882 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Cóoc, xã Hùng Lợi, tỉnh Tuyên Quang"
   },
   "Khâu Vai": {
-      "loai":"Xã",
-      "donViCu": "Xã Cán Chu Phìn, Xã Khâu Vai, Xã Lũng Pù",
-      "bT": "Ngô Mạnh Cường",
-      "dienTich": "10.746 km²",
-      "danSo": "22.755 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Cán Chu Phìn, Xã Khâu Vai, Xã Lũng Pù",
+    "bT": "Ngô Mạnh Cường",
+    "dienTich": "10.746 km²",
+    "danSo": "22.755 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Sảng Chải A, xã Khâu Vai, tỉnh Tuyên Quang"
   },
   "Khuôn Lùng": {
-      "loai":"Xã",
-      "donViCu": "Xã Khuôn Lùng, Xã Nà Chì",
-      "bT": "Nguyễn Cao Cường",
-      "dienTich": "12.028 km²",
-      "danSo": "802 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Khuôn Lùng, Xã Nà Chì",
+    "bT": "Nguyễn Cao Cường",
+    "dienTich": "12.028 km²",
+    "danSo": "802 người",
+    "matDo": "",
+    "tS": "Thôn Phố, xã Khuôn Lùng, tỉnh Tuyên Quang"
   },
   "Kiên Đài": {
-      "loai":"Xã",
-      "donViCu": "Xã Kiên Đài, Xã Phú Bình",
-      "bT": "Lâm Thị Hồng Ngân",
-      "dienTich": "13.082 km²",
-      "danSo": "9.351 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Kiên Đài, Xã Phú Bình",
+    "bT": "Lâm Thị Hồng Ngân",
+    "dienTich": "13.082 km²",
+    "danSo": "9.351 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tạng Khiếc, Xã Kiên Đài, tỉnh Tuyên Quang"
   },
   "Kiến Thiết": {
-      "loai":"Xã",
-      "donViCu": "Kiến Thiết",
-      "bT": "Phùng Quang Bình",
-      "dienTich": "10.948 km²",
-      "danSo": "6.783 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Kiến Thiết",
+    "bT": "Phùng Quang Bình",
+    "dienTich": "10.948 km²",
+    "danSo": "6.783 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Pắc Nghiêng, xã Kiến Thiết, tỉnh Tuyên Quang"
   },
   "Kim Bình": {
-      "loai":"Xã",
-      "donViCu": "Xã Bình Nhân, Xã Kim Bình, Xã Vinh Quang",
-      "bT": "Lê Thiện Quang",
-      "dienTich": "9.209 km²",
-      "danSo": "16.873 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bình Nhân, Xã Kim Bình, Xã Vinh Quang",
+    "bT": "Lê Thiện Quang",
+    "dienTich": "9.209 km²",
+    "danSo": "16.873 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Kim Quang, xã Kim Bình, tỉnh Tuyên Quang"
   },
   "Lao Chải": {
-      "loai":"Xã",
-      "donViCu": "Xã Lao Chải, Xã Thanh Đức, Xã Xín Chải",
-      "bT": "Lý Tiến Công",
-      "dienTich": "15.799 km²",
-      "danSo": "10.135 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Lao Chải, Xã Thanh Đức, Xã Xín Chải",
+    "bT": "Lý Tiến Công",
+    "dienTich": "15.799 km²",
+    "danSo": "10.135 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tả Ván, xã Lao Chải, tỉnh Tuyên Quang"
   },
   "Lâm Bình": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Lăng Can, Xã Phúc Yên, Xã Xuân Lập",
-      "bT": "Âu Thế Thái",
-      "dienTich": "32.765 km²",
-      "danSo": "12.399 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Thị trấn Lăng Can, Xã Phúc Yên, Xã Xuân Lập",
+    "bT": "Âu Thế Thái",
+    "dienTich": "32.765 km²",
+    "danSo": "12.399 người",
+    "matDo": "",
+    "tS": "Thôn Nà Khà, xã Lâm Bình, tỉnh Tuyên Quang"
   },
   "Liên Hiệp": {
-      "loai":"Xã",
-      "donViCu": "Xã Đức Xuân, Xã Hữu Sản, Xã Liên Hiệp",
-      "bT": "Nguyễn Đàm Thuyên",
-      "dienTich": "16.667 km²",
-      "danSo": "10.566 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đức Xuân, Xã Hữu Sản, Xã Liên Hiệp",
+    "bT": "Nguyễn Đàm Thuyên",
+    "dienTich": "16.667 km²",
+    "danSo": "10.566 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Trung Tâm, xã Liên Hiệp, tỉnh Tuyên Quang"
   },
   "Linh Hồ": {
-      "loai":"Xã",
-      "donViCu": "Xã Linh Hồ, Xã Ngọc Linh, Xã Trung Thành",
-      "bT": "Hoàng Thanh Tịnh",
-      "dienTich": "18.144 km²",
-      "danSo": "21.725 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Linh Hồ, Xã Ngọc Linh, Xã Trung Thành",
+    "bT": "Hoàng Thanh Tịnh",
+    "dienTich": "18.144 km²",
+    "danSo": "21.725 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn khuổi vài, xã Linh Hồ, tỉnh Tuyên Quang"
   },
   "Lũng Cú": {
-      "loai":"Xã",
-      "donViCu": "Xã Lũng Cú, Xã Lũng Táo, Xã Má Lé",
-      "bT": "Dương Ngọc Đức",
-      "dienTich": "9.520 km²",
-      "danSo": "15.115 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Lũng Cú, Xã Lũng Táo, Xã Má Lé",
+    "bT": "Dương Ngọc Đức",
+    "dienTich": "9.520 km²",
+    "danSo": "15.115 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Thèn Pả, xã Lũng Cú, tỉnh Tuyên Quang"
   },
   "Lũng Phìn": {
-      "loai":"Xã",
-      "donViCu": "Xã Hố Quáng Phìn, Xã Lũng Phìn, Xã Sủng Trái",
-      "bT": "Nguyễn Trung Kiên",
-      "dienTich": "6.946 km²",
-      "danSo": "16.476 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hố Quáng Phìn, Xã Lũng Phìn, Xã Sủng Trái",
+    "bT": "Nguyễn Trung Kiên",
+    "dienTich": "6.946 km²",
+    "danSo": "16.476 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Cán Pẩy Hở A, xã Lũng Phìn, tỉnh Tuyên Quang"
   },
   "Lùng Tám": {
-      "loai":"Xã",
-      "donViCu": "Xã Đông Hà, Xã Lùng Tám, Xã Thái An",
-      "bT": "Hà Văn Chung",
-      "dienTich": "12.414 km²",
-      "danSo": "10.971 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đông Hà, Xã Lùng Tám, Xã Thái An",
+    "bT": "Hà Văn Chung",
+    "dienTich": "12.414 km²",
+    "danSo": "10.971 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Hợp Tiến, xã Lùng Tám, tỉnh Tuyên Quang"
   },
   "Lực Hành": {
-      "loai":"Xã",
-      "donViCu": "Xã Chiêu Yên, Xã Lực Hành, Xã Quý Quân",
-      "bT": "Lê Quang Toàn",
-      "dienTich": "8.797 km²",
-      "danSo": "11.022 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Chiêu Yên, Xã Lực Hành, Xã Quý Quân",
+    "bT": "Lê Quang Toàn",
+    "dienTich": "8.797 km²",
+    "danSo": "11.022 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Làng Ngoài, xã Lực Hành, tỉnh Tuyên Quang"
   },
   "Mậu Duệ": {
-      "loai":"Xã",
-      "donViCu": "Xã Mậu Duệ, Xã Mậu Long, Xã Ngam La",
-      "bT": "Nguyễn Song Toàn",
-      "dienTich": "16.331 km²",
-      "danSo": "19.005 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Mậu Duệ, Xã Mậu Long, Xã Ngam La",
+    "bT": "Nguyễn Song Toàn",
+    "dienTich": "16.331 km²",
+    "danSo": "19.005 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Phố Chợ, xã Mậu Duệ, tỉnh Tuyên Quang"
   },
   "Mèo Vạc": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Mèo Vạc, Xã Giàng Chu Phìn, Xã Pả Vi, Xã Tả Lủng (huyện Mèo Vạc)",
-      "bT": "Phạm Văn Tú",
-      "dienTich": "9.221 km²",
-      "danSo": "19.675 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Mèo Vạc, Xã Giàng Chu Phìn, Xã Pả Vi, Xã Tả Lủng (huyện Mèo Vạc)",
+    "bT": "Phạm Văn Tú",
+    "dienTich": "9.221 km²",
+    "danSo": "19.675 người",
+    "matDo": "2 người/km²",
+    "tS": "Tổ 2, xã Mèo Vạc, tỉnh Tuyên Quang"
   },
   "Minh Ngọc": {
-      "loai":"Xã",
-      "donViCu": "Xã Minh Ngọc, Xã Thượng Tân, Xã Yên Định",
-      "bT": "Nguyễn Thị Bình",
-      "dienTich": "15.934 km²",
-      "danSo": "7.878 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Minh Ngọc, Xã Thượng Tân, Xã Yên Định",
+    "bT": "Nguyễn Thị Bình",
+    "dienTich": "15.934 km²",
+    "danSo": "7.878 người",
+    "matDo": "",
+    "tS": "Thôn Nà Cau, xã Minh Ngọc, tỉnh Tuyên Quang"
   },
   "Minh Quang": {
-      "loai":"Xã",
-      "donViCu": "Xã Hồng Quang, Xã Minh Quang, Xã Phúc Sơn",
-      "bT": "Ma Văn Khắp",
-      "dienTich": "19.134 km²",
-      "danSo": "20.122 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hồng Quang, Xã Minh Quang, Xã Phúc Sơn",
+    "bT": "Ma Văn Khắp",
+    "dienTich": "19.134 km²",
+    "danSo": "20.122 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Nà Mè, xã Minh Quang, tỉnh Tuyên Quang"
   },
   "Minh Sơn": {
-      "loai":"Xã",
-      "donViCu": "Minh Sơn",
-      "bT": "Đặng Lê Dung",
-      "dienTich": "8.177 km²",
-      "danSo": "29.388 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Minh Sơn",
+    "bT": "Đặng Lê Dung",
+    "dienTich": "8.177 km²",
+    "danSo": "29.388 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn Ngọc Trì, xã Minh Sơn, tỉnh Tuyên Quang"
   },
   "Minh Tân": {
-      "loai":"Xã",
-      "donViCu": "Minh Tân",
-      "bT": "Lý Nam Thủy",
-      "dienTich": "10.570 km²",
-      "danSo": "7.485 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Minh Tân",
+    "bT": "Lý Nam Thủy",
+    "dienTich": "10.570 km²",
+    "danSo": "7.485 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Bắc Xum, xã Minh Tân, tỉnh Tuyên Quang"
   },
   "Minh Thanh": {
-      "loai":"Xã",
-      "donViCu": "Xã Bình Yên, Xã Lương Thiện, Xã Minh Thanh",
-      "bT": "Hứa Thị Hà",
-      "dienTich": "7.857 km²",
-      "danSo": "13.453 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bình Yên, Xã Lương Thiện, Xã Minh Thanh",
+    "bT": "Hứa Thị Hà",
+    "dienTich": "7.857 km²",
+    "danSo": "13.453 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Đồng Min, xã Minh Thanh, tỉnh Tuyên Quang"
   },
   "Minh Xuân": {
-      "loai":"Phường",
-      "donViCu": "Phường Minh Xuân, Phường Phan Thiết, Phường Tân Hà, Phường Tân Quang, Phường Ỷ La, Xã Kim Phú",
-      "bT": "Đỗ Hùng Đức",
-      "dienTich": "3.490 km²",
-      "danSo": "72 người",
-      "matDo": ""
+    "loai": "Phường",
+    "donViCu": "Phường Minh Xuân, Phường Phan Thiết, Phường Tân Hà, Phường Tân Quang, Phường Ỷ La, Xã Kim Phú",
+    "bT": "Đỗ Hùng Đức",
+    "dienTich": "3.490 km²",
+    "danSo": "72 người",
+    "matDo": "",
+    "tS": "Số 429, đường Trường Chính, phường Minh Xuân, tỉnh Tuyên Quang"
   },
   "Mỹ Lâm": {
-      "loai":"Phường",
-      "donViCu": "Phường Mỹ Lâm, Xã Kim Phú, Xã Mỹ Bằng",
-      "bT": "Nguyễn Đại Thành",
-      "dienTich": "8.020 km²",
-      "danSo": "31.446 người",
-      "matDo": "4 người/km²"
+    "loai": "Phường",
+    "donViCu": "Phường Mỹ Lâm, Xã Kim Phú, Xã Mỹ Bằng",
+    "bT": "Nguyễn Đại Thành",
+    "dienTich": "8.020 km²",
+    "danSo": "31.446 người",
+    "matDo": "4 người/km²",
+    "tS": "Tổ 4, phường Mỹ Lâm, tỉnh Tuyên Quang"
   },
   "Nà Hang": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Na Hang, Xã Năng Khả, Xã Thanh Tương",
-      "bT": "Tô Viết Hiệp",
-      "dienTich": "25.653 km²",
-      "danSo": "17.364 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Na Hang, Xã Năng Khả, Xã Thanh Tương",
+    "bT": "Tô Viết Hiệp",
+    "dienTich": "25.653 km²",
+    "danSo": "17.364 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn 3, xã Nà Hang, tỉnh Tuyên Quang"
   },
   "Nấm Dẩn": {
-      "loai":"Xã",
-      "donViCu": "Xã Chế Là, Xã Nấm Dẩn, Xã Tả Nhìu",
-      "bT": "Nguyễn Ngọc Khuyên",
-      "dienTich": "8.611 km²",
-      "danSo": "11.929 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Chế Là, Xã Nấm Dẩn, Xã Tả Nhìu",
+    "bT": "Nguyễn Ngọc Khuyên",
+    "dienTich": "8.611 km²",
+    "danSo": "11.929 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tân Sơn, xã Nấm Dẩn, tỉnh Tuyên Quang"
   },
   "Nậm Dịch": {
-      "loai":"Xã",
-      "donViCu": "Xã Nậm Dịch, Xã Nậm Ty, Xã Tả Sử Choóng",
-      "bT": "Hoàng Đức Tân",
-      "dienTich": "9.778 km²",
-      "danSo": "854 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Nậm Dịch, Xã Nậm Ty, Xã Tả Sử Choóng",
+    "bT": "Hoàng Đức Tân",
+    "dienTich": "9.778 km²",
+    "danSo": "854 người",
+    "matDo": "",
+    "tS": "Thôn 10, xã Nậm Dịch, tỉnh Tuyên Quang"
   },
   "Nghĩa Thuận": {
-      "loai":"Xã",
-      "donViCu": "Xã Nghĩa Thuận, Xã Thanh Vân",
-      "bT": "Thẩm Hữu Thanh",
-      "dienTich": "8.012 km²",
-      "danSo": "99 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Nghĩa Thuận, Xã Thanh Vân",
+    "bT": "Thẩm Hữu Thanh",
+    "dienTich": "8.012 km²",
+    "danSo": "99 người",
+    "matDo": "",
+    "tS": "Thôn Mã Hồng, xã Nghĩa Thuận, tỉnh Tuyên Quang"
   },
   "Ngọc Đường": {
-      "loai":"Xã",
-      "donViCu": "Xã Ngọc Đường, Xã Yên Định",
-      "bT": "Bùi Huy Hoàng",
-      "dienTich": "9.807 km²",
-      "danSo": "7.858 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Ngọc Đường, Xã Yên Định",
+    "bT": "Bùi Huy Hoàng",
+    "dienTich": "9.807 km²",
+    "danSo": "7.858 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Sơn Hà, xã Ngọc Đường, tỉnh Tuyên Quang"
   },
   "Ngọc Long": {
-      "loai":"Xã",
-      "donViCu": "Ngọc Long",
-      "bT": "Nguyễn Quốc Trung",
-      "dienTich": "8.426 km²",
-      "danSo": "9.989 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Ngọc Long",
+    "bT": "Nguyễn Quốc Trung",
+    "dienTich": "8.426 km²",
+    "danSo": "9.989 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Bản Rắn, xã Ngọc Long, tỉnh Tuyên Quang"
   },
   "Nhữ Khê": {
-      "loai":"Xã",
-      "donViCu": "Xã Đội Bình, Xã Nhữ Hán, Xã Nhữ Khê",
-      "bT": "Nguyễn Hữu Phương",
-      "dienTich": "5.904 km²",
-      "danSo": "21.799 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đội Bình, Xã Nhữ Hán, Xã Nhữ Khê",
+    "bT": "Nguyễn Hữu Phương",
+    "dienTich": "5.904 km²",
+    "danSo": "21.799 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn Đồng Giản, xã Nhữ Khê, tỉnh Tuyên Quang"
   },
   "Niêm Sơn": {
-      "loai":"Xã",
-      "donViCu": "Xã Niêm Sơn, Xã Niêm Tòng",
-      "bT": "Phạm Văn Hợp",
-      "dienTich": "8.173 km²",
-      "danSo": "12.255 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Niêm Sơn, Xã Niêm Tòng",
+    "bT": "Phạm Văn Hợp",
+    "dienTich": "8.173 km²",
+    "danSo": "12.255 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Niêm Đồng, xã Niêm Sơn, tỉnh Tuyên Quang"
   },
   "Nông Tiến": {
-      "loai":"Phường",
-      "donViCu": "Phường Nông Tiến, Xã Thái Bình, Xã Tràng Đà",
-      "bT": "Nguyễn Thanh Hà",
-      "dienTich": "2.699 km²",
-      "danSo": "15.393 người",
-      "matDo": "6 người/km²"
+    "loai": "Phường",
+    "donViCu": "Phường Nông Tiến, Xã Thái Bình, Xã Tràng Đà",
+    "bT": "Nguyễn Thanh Hà",
+    "dienTich": "2.699 km²",
+    "danSo": "15.393 người",
+    "matDo": "6 người/km²",
+    "tS": "Tổ 9, phường Nông Tiến, tỉnh Tuyên Quang"
   },
   "Pà Vầy Sủ": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Cốc Pài, Xã Bản Ngò, Xã Nàn Ma, Xã Pà Vầy Sủ",
-      "bT": "Đỗ Thị Hương",
-      "dienTich": "8.330 km²",
-      "danSo": "15.806 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Cốc Pài, Xã Bản Ngò, Xã Nàn Ma, Xã Pà Vầy Sủ",
+    "bT": "Đỗ Thị Hương",
+    "dienTich": "8.330 km²",
+    "danSo": "15.806 người",
+    "matDo": "2 người/km²",
+    "tS": "Tổ 2, xã Pà Vầy Sủ, tỉnh Tuyên Quang"
   },
   "Phố Bảng": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Phố Bảng, Xã Lũng Thầu, Xã Phố Cáo, Xã Phố Là",
-      "bT": "Giàng Xuân Thắng",
-      "dienTich": "7.771 km²",
-      "danSo": "15.593 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Phố Bảng, Xã Lũng Thầu, Xã Phố Cáo, Xã Phố Là",
+    "bT": "Giàng Xuân Thắng",
+    "dienTich": "7.771 km²",
+    "danSo": "15.593 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Chúng Pả A, xã Phố Bảng, tỉnh Tuyên Quang"
   },
   "Phú Linh": {
-      "loai":"Xã",
-      "donViCu": "Xã Kim Linh, Xã Kim Thạch, Xã Phú Linh",
-      "bT": "Lưu Đức Hùng",
-      "dienTich": "11.237 km²",
-      "danSo": "1.227 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Kim Linh, Xã Kim Thạch, Xã Phú Linh",
+    "bT": "Lưu Đức Hùng",
+    "dienTich": "11.237 km²",
+    "danSo": "1.227 người",
+    "matDo": "",
+    "tS": "Thôn Nà Ác, xã Phú Linh, tỉnh Tuyên Quang"
   },
   "Phú Lương": {
-      "loai":"Xã",
-      "donViCu": "Xã Đại Phú, Xã Phú Lương, Xã Tam Đa",
-      "bT": "Phạm Thị Thu Hà",
-      "dienTich": "11.239 km²",
-      "danSo": "43.914 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đại Phú, Xã Phú Lương, Xã Tam Đa",
+    "bT": "Phạm Thị Thu Hà",
+    "dienTich": "11.239 km²",
+    "danSo": "43.914 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn Gia Cát, xã Phú Lương, tỉnh Tuyên Quang"
   },
   "Phù Lưu": {
-      "loai":"Xã",
-      "donViCu": "Xã Minh Dân, Xã Phù Lưu",
-      "bT": "Hoàng Thị Xuyến",
-      "dienTich": "12.045 km²",
-      "danSo": "16.154 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Minh Dân, Xã Phù Lưu",
+    "bT": "Hoàng Thị Xuyến",
+    "dienTich": "12.045 km²",
+    "danSo": "16.154 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Thọ, xã Phù Lưu, tỉnh Tuyên Quang"
   },
   "Pờ Ly Ngài": {
-      "loai":"Xã",
-      "donViCu": "Xã Nàng Đôn, Xã Pờ Ly Ngài, Xã Sán Sả Hồ",
-      "bT": "Lù Thị Chỉnh",
-      "dienTich": "4.934 km²",
-      "danSo": "6.239 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Nàng Đôn, Xã Pờ Ly Ngài, Xã Sán Sả Hồ",
+    "bT": "Lù Thị Chỉnh",
+    "dienTich": "4.934 km²",
+    "danSo": "6.239 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Chàng Chảy, xã Pờ Ly Ngài, tỉnh Tuyên Quang"
   },
   "Quản Bạ": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Tam Sơn, Xã Quản Bạ, Xã Quyết Tiến",
-      "bT": "Nguyễn Hải Dương",
-      "dienTich": "10.287 km²",
-      "danSo": "18.436 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Tam Sơn, Xã Quản Bạ, Xã Quyết Tiến",
+    "bT": "Nguyễn Hải Dương",
+    "dienTich": "10.287 km²",
+    "danSo": "18.436 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Tam Sơn 2, xã Quản Bạ, tỉnh Tuyên Quang"
   },
   "Quang Bình": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Yên Bình, Xã Tân Nam",
-      "bT": "Đào Quang Diệu",
-      "dienTich": "13.014 km²",
-      "danSo": "10.635 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Yên Bình, Xã Tân Nam",
+    "bT": "Đào Quang Diệu",
+    "dienTich": "13.014 km²",
+    "danSo": "10.635 người",
+    "matDo": "1 người/km²",
+    "tS": "Tổ 3, xã Quang Bình, tỉnh Tuyên Quang"
   },
   "Quảng Nguyên": {
-      "loai":"Xã",
-      "donViCu": "Quảng Nguyên",
-      "bT": "Thèn Văn Tính",
-      "dienTich": "9.948 km²",
-      "danSo": "5.949 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Quảng Nguyên",
+    "bT": "Thèn Văn Tính",
+    "dienTich": "9.948 km²",
+    "danSo": "5.949 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Quảng Hạ, xã Quảng Nguyên, tỉnh Tuyên Quang"
   },
   "Sà Phìn": {
-      "loai":"Xã",
-      "donViCu": "Xã Sà Phìn, Xã Sảng Tủng, Xã Sính Lủng, Xã Sủng Là",
-      "bT": "Đỗ Quốc Hương",
-      "dienTich": "8.350 km²",
-      "danSo": "16.816 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Sà Phìn, Xã Sảng Tủng, Xã Sính Lủng, Xã Sủng Là",
+    "bT": "Đỗ Quốc Hương",
+    "dienTich": "8.350 km²",
+    "danSo": "16.816 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Đoàn Kết, xã Sà Phìn, tỉnh Tuyên Quang"
   },
   "Sơn Dương": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Sơn Dương, Xã Hợp Thành, Xã Phúc Ứng, Xã Tú Thịnh",
-      "bT": "Nguyễn Thị Thanh Huyền",
-      "dienTich": "12.317 km²",
-      "danSo": "41.954 người",
-      "matDo": "3 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Sơn Dương, Xã Hợp Thành, Xã Phúc Ứng, Xã Tú Thịnh",
+    "bT": "Nguyễn Thị Thanh Huyền",
+    "dienTich": "12.317 km²",
+    "danSo": "41.954 người",
+    "matDo": "3 người/km²",
+    "tS": "Thôn An Kỳ, xã Sơn Dương, tỉnh Tuyên Quang"
   },
   "Sơn Thủy": {
-      "loai":"Xã",
-      "donViCu": "Xã Ninh Lai, Xã Sơn Nam, Xã Thiện Kế",
-      "bT": "Đỗ Quang Minh",
-      "dienTich": "9.577 km²",
-      "danSo": "12.658 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Ninh Lai, Xã Sơn Nam, Xã Thiện Kế",
+    "bT": "Đỗ Quang Minh",
+    "dienTich": "9.577 km²",
+    "danSo": "12.658 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Quyết Thắng, xã Sơn Thủy, tỉnh Tuyên Quang"
   },
   "Sơn Vĩ": {
-      "loai":"Xã",
-      "donViCu": "Xã Sơn Vĩ, Xã Thượng Phùng, Xã Xín Cái",
-      "bT": "Nguyễn Huy Sắc",
-      "dienTich": "11.062 km²",
-      "danSo": "19.975 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Sơn Vĩ, Xã Thượng Phùng, Xã Xín Cái",
+    "bT": "Nguyễn Huy Sắc",
+    "dienTich": "11.062 km²",
+    "danSo": "19.975 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Lùng Vần Chải, xã Sơn Vĩ, tỉnh Tuyên Quang"
   },
   "Sủng Máng": {
-      "loai":"Xã",
-      "donViCu": "Xã Lũng Chinh, Xã Sủng Máng, Xã Sủng Trà",
-      "bT": "Vương Thị Thủy",
-      "dienTich": "7.615 km²",
-      "danSo": "12.568 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Lũng Chinh, Xã Sủng Máng, Xã Sủng Trà",
+    "bT": "Vương Thị Thủy",
+    "dienTich": "7.615 km²",
+    "danSo": "12.568 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Sủng Nhỉ B, xã Sủng Máng, tỉnh Tuyên Quang"
   },
   "Tát Ngà": {
-      "loai":"Xã",
-      "donViCu": "Xã Nậm Ban, Xã Tát Ngà",
-      "bT": "Hồng Mí Sinh",
-      "dienTich": "9.060 km²",
-      "danSo": "7.765 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Nậm Ban, Xã Tát Ngà",
+    "bT": "Hồng Mí Sinh",
+    "dienTich": "9.060 km²",
+    "danSo": "7.765 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Nà Trào, xã Tát Ngà, tỉnh Tuyên Quang"
   },
   "Tân An": {
-      "loai":"Xã",
-      "donViCu": "Xã Hà Lang, Xã Tân An",
-      "bT": "La Hồng Hải",
-      "dienTich": "4.061 km²",
-      "danSo": "41.922 người",
-      "matDo": "10 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hà Lang, Xã Tân An",
+    "bT": "La Hồng Hải",
+    "dienTich": "4.061 km²",
+    "danSo": "41.922 người",
+    "matDo": "10 người/km²",
+    "tS": "Thôn An Thịnh, xã Tân An, tỉnh Tuyên Quang"
   },
   "Tân Long": {
-      "loai":"Xã",
-      "donViCu": "Xã Tân Long, Xã Tân Tiến (huyện Yên Sơn)",
-      "bT": "Nguyễn Mạnh Tiến",
-      "dienTich": "10.212 km²",
-      "danSo": "35.492 người",
-      "matDo": "3 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Tân Long, Xã Tân Tiến (huyện Yên Sơn)",
+    "bT": "Nguyễn Mạnh Tiến",
+    "dienTich": "10.212 km²",
+    "danSo": "35.492 người",
+    "matDo": "3 người/km²",
+    "tS": "Thôn 5, xã Tân Long, tỉnh Tuyên Quang"
   },
   "Tân Mỹ": {
-      "loai":"Xã",
-      "donViCu": "Xã Hùng Mỹ, Xã Tân Mỹ",
-      "bT": "Hoàng Trần Trung",
-      "dienTich": "645 km²",
-      "danSo": "68.124 người",
-      "matDo": "106 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hùng Mỹ, Xã Tân Mỹ",
+    "bT": "Hoàng Trần Trung",
+    "dienTich": "645 km²",
+    "danSo": "68.124 người",
+    "matDo": "106 người/km²",
+    "tS": "Thôn Thôm Bưa, xã Tân Mỹ, tỉnh Tuyên Quang"
   },
   "Tân Quang": {
-      "loai":"Xã",
-      "donViCu": "Xã Tân Lập, Xã Tân Quang, Xã Tân Thành (huyện Bắc Quang)",
-      "bT": "Nguyễn Trung Nguyên",
-      "dienTich": "17.414 km²",
-      "danSo": "12.425 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Tân Lập, Xã Tân Quang, Xã Tân Thành (huyện Bắc Quang)",
+    "bT": "Nguyễn Trung Nguyên",
+    "dienTich": "17.414 km²",
+    "danSo": "12.425 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Vinh Quang, xã Tân Quang, tỉnh Tuyên Quang"
   },
   "Tân Thanh": {
-      "loai":"Xã",
-      "donViCu": "Xã Hợp Hòa, Xã Kháng Nhật, Xã Tân Thanh",
-      "bT": "Đỗ Xuân Phúc",
-      "dienTich": "11.450 km²",
-      "danSo": "18.116 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hợp Hòa, Xã Kháng Nhật, Xã Tân Thanh",
+    "bT": "Đỗ Xuân Phúc",
+    "dienTich": "11.450 km²",
+    "danSo": "18.116 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Núi Độc, xã Tân Thanh, tỉnh Tuyên Quang"
   },
   "Tân Tiến": {
-      "loai":"Xã",
-      "donViCu": "Xã Bản Nhùng, Xã Tân Tiến (huyện Hoàng Su Phì), Xã Túng Sán",
-      "bT": "Phùng Thế Tài",
-      "dienTich": "20.720 km²",
-      "danSo": "33.994 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bản Nhùng, Xã Tân Tiến (huyện Hoàng Su Phì), Xã Túng Sán",
+    "bT": "Phùng Thế Tài",
+    "dienTich": "20.720 km²",
+    "danSo": "33.994 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Bản Qua 2, xã Tân Tiến, tỉnh Tuyên Quang"
   },
   "Tân Trào": {
-      "loai":"Xã",
-      "donViCu": "Xã Kim Quan, Xã Tân Trào, Xã Trung Yên",
-      "bT": "Giang Tuấn Anh",
-      "dienTich": "9.857 km²",
-      "danSo": "14.911 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Kim Quan, Xã Tân Trào, Xã Trung Yên",
+    "bT": "Giang Tuấn Anh",
+    "dienTich": "9.857 km²",
+    "danSo": "14.911 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Quan Hạ, xã Tân Trào, tỉnh Tuyên Quang"
   },
   "Tân Trịnh": {
-      "loai":"Xã",
-      "donViCu": "Xã Tân Bắc, Xã Tân Trịnh",
-      "bT": "Nguyễn Anh Đức",
-      "dienTich": "11.475 km²",
-      "danSo": "1.078 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Tân Bắc, Xã Tân Trịnh",
+    "bT": "Nguyễn Anh Đức",
+    "dienTich": "11.475 km²",
+    "danSo": "1.078 người",
+    "matDo": "",
+    "tS": "Thôn Lủ Thượng, xã Tân Trịnh, tỉnh Tuyên Quang"
   },
   "Thái Bình": {
-      "loai":"Xã",
-      "donViCu": "Xã Phú Thịnh, Xã Thái Bình, Xã Tiến Bộ",
-      "bT": "Nguyễn Ngọc Toàn",
-      "dienTich": "2.803 km²",
-      "danSo": "67.922 người",
-      "matDo": "24 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Phú Thịnh, Xã Thái Bình, Xã Tiến Bộ",
+    "bT": "Nguyễn Ngọc Toàn",
+    "dienTich": "2.803 km²",
+    "danSo": "67.922 người",
+    "matDo": "24 người/km²",
+    "tS": "Thôn 4, xã Thái Bình, tỉnh Tuyên Quang"
   },
   "Thái Hòa": {
-      "loai":"Xã",
-      "donViCu": "Xã Đức Ninh, Xã Thái Hòa",
-      "bT": "Ma Phúc Dự",
-      "dienTich": "2.709 km²",
-      "danSo": "26.916 người",
-      "matDo": "10 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đức Ninh, Xã Thái Hòa",
+    "bT": "Ma Phúc Dự",
+    "dienTich": "2.709 km²",
+    "danSo": "26.916 người",
+    "matDo": "10 người/km²",
+    "tS": "Thôn Lũ Khê, xã Thái Hòa, tỉnh Tuyên Quang"
   },
   "Thái Sơn": {
-      "loai":"Xã",
-      "donViCu": "Xã Thái Sơn, Xã Thành Long",
-      "bT": "Nhữ Thị Tuyết Thanh",
-      "dienTich": "9.354 km²",
-      "danSo": "16.385 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Thái Sơn, Xã Thành Long",
+    "bT": "Nhữ Thị Tuyết Thanh",
+    "dienTich": "9.354 km²",
+    "danSo": "16.385 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn 4 Thái Bình, xã Thái Sơn, tỉnh Tuyên Quang"
   },
   "Thàng Tín": {
-      "loai":"Xã",
-      "donViCu": "Xã Pố Lồ, Xã Thàng Tín, Xã Thèn Chu Phìn",
-      "bT": "Hoàng Tiến Dũng",
-      "dienTich": "7.078 km²",
-      "danSo": "7.638 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Pố Lồ, Xã Thàng Tín, Xã Thèn Chu Phìn",
+    "bT": "Hoàng Tiến Dũng",
+    "dienTich": "7.078 km²",
+    "danSo": "7.638 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Cóoc Có, xã Thàng Tín, tỉnh Tuyên Quang"
   },
   "Thanh Thủy": {
-      "loai":"Xã",
-      "donViCu": "Xã Phương Tiến, Xã Thanh Thủy",
-      "bT": "Phùng Viết Vinh",
-      "dienTich": "4.892 km²",
-      "danSo": "43.569 người",
-      "matDo": "9 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Phương Tiến, Xã Thanh Thủy",
+    "bT": "Phùng Viết Vinh",
+    "dienTich": "4.892 km²",
+    "danSo": "43.569 người",
+    "matDo": "9 người/km²",
+    "tS": "Thôn Giang Nam, xã Thanh Thủy, tỉnh Tuyên Quang"
   },
   "Thắng Mố": {
-      "loai":"Xã",
-      "donViCu": "Xã Sủng Cháng, Xã Sủng Thài, Xã Thắng Mố",
-      "bT": "Nguyễn Xuân Triệu",
-      "dienTich": "6.768 km²",
-      "danSo": "",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Sủng Cháng, Xã Sủng Thài, Xã Thắng Mố",
+    "bT": "Nguyễn Xuân Triệu",
+    "dienTich": "6.768 km²",
+    "danSo": "",
+    "matDo": "",
+    "tS": "Thôn Sàng Súng, xã Thắng Mố, tỉnh Tuyên Quang"
   },
   "Thông Nguyên": {
-      "loai":"Xã",
-      "donViCu": "Xã Thông Nguyên, Xã Xuân Minh",
-      "bT": "Trần Quang Bằng",
-      "dienTich": "10.870 km²",
-      "danSo": "6.255 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Thông Nguyên, Xã Xuân Minh",
+    "bT": "Trần Quang Bằng",
+    "dienTich": "10.870 km²",
+    "danSo": "6.255 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Khu chợ, xã Thông Nguyên, tỉnh Tuyên Quang"
   },
   "Thuận Hòa": {
-      "loai":"Xã",
-      "donViCu": "Thuận Hòa",
-      "bT": "Đặng Thị Phượng",
-      "dienTich": "4.586 km²",
-      "danSo": "29.846 người",
-      "matDo": "7 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thuận Hòa",
+    "bT": "Đặng Thị Phượng",
+    "dienTich": "4.586 km²",
+    "danSo": "29.846 người",
+    "matDo": "7 người/km²",
+    "tS": "Thôn Mịch A, xã Thuận Hòa, tỉnh Tuyên Quang"
   },
   "Thượng Lâm": {
-      "loai":"Xã",
-      "donViCu": "Xã Khuôn Hà, Xã Thượng Lâm",
-      "bT": "Nguyễn Văn Hòa",
-      "dienTich": "27.716 km²",
-      "danSo": "9.886 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Khuôn Hà, Xã Thượng Lâm",
+    "bT": "Nguyễn Văn Hòa",
+    "dienTich": "27.716 km²",
+    "danSo": "9.886 người",
+    "matDo": "",
+    "tS": "Thôn Nà Liềm, xã Thượng Lâm, tỉnh Tuyên Quang"
   },
   "Thượng Nông": {
-      "loai":"Xã",
-      "donViCu": "Xã Thượng Giáp, Xã Thượng Nông",
-      "bT": "Ma Thế Hải",
-      "dienTich": "7.983 km²",
-      "danSo": "7.204 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Thượng Giáp, Xã Thượng Nông",
+    "bT": "Ma Thế Hải",
+    "dienTich": "7.983 km²",
+    "danSo": "7.204 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Đống Đa 2, xã Thượng Nông, tỉnh Tuyên Quang"
   },
   "Thượng Sơn": {
-      "loai":"Xã",
-      "donViCu": "Thượng Sơn",
-      "bT": "Mai Thị Hạnh",
-      "dienTich": "14.260 km²",
-      "danSo": "6.144 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Thượng Sơn",
+    "bT": "Mai Thị Hạnh",
+    "dienTich": "14.260 km²",
+    "danSo": "6.144 người",
+    "matDo": "",
+    "tS": "Thôn Vằng Luông, xã Thượng Sơn, tỉnh Tuyên Quang"
   },
   "Tiên Nguyên": {
-      "loai":"Xã",
-      "donViCu": "Tiên Nguyên",
-      "bT": "Nguyễn Văn Hưng",
-      "dienTich": "9.013 km²",
-      "danSo": "5.027 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Tiên Nguyên",
+    "bT": "Nguyễn Văn Hưng",
+    "dienTich": "9.013 km²",
+    "danSo": "5.027 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tân Tiến, xã Tiên Nguyên, tỉnh Tuyên Quang"
   },
   "Tiên Yên": {
-      "loai":"Xã",
-      "donViCu": "Xã Hương Sơn, Xã Tiên Yên, Xã Vĩ Thượng",
-      "bT": "Hoàng Trọng Khoắn",
-      "dienTich": "9.718 km²",
-      "danSo": "14.241 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hương Sơn, Xã Tiên Yên, Xã Vĩ Thượng",
+    "bT": "Hoàng Trọng Khoắn",
+    "dienTich": "9.718 km²",
+    "danSo": "14.241 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Yên Chung, xã Tiên Yên, tỉnh Tuyên Quang"
   },
   "Tri Phú": {
-      "loai":"Xã",
-      "donViCu": "Xã Linh Phú, Xã Tri Phú",
-      "bT": "Lê Ngọc Tân",
-      "dienTich": "17.026 km²",
-      "danSo": "8.686 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Linh Phú, Xã Tri Phú",
+    "bT": "Lê Ngọc Tân",
+    "dienTich": "17.026 km²",
+    "danSo": "8.686 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tiến Thành 1, xã Tri Phú, tỉnh Tuyên Quang"
   },
   "Trung Hà": {
-      "loai":"Xã",
-      "donViCu": "Trung Hà",
-      "bT": "Hoàng Việt Hùng",
-      "dienTich": "10.318 km²",
-      "danSo": "8.303 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Trung Hà",
+    "bT": "Hoàng Việt Hùng",
+    "dienTich": "10.318 km²",
+    "danSo": "8.303 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Nà Lừa, xã Trung Hà, tỉnh Tuyên Quang"
   },
   "Trung Sơn": {
-      "loai":"Xã",
-      "donViCu": "Xã Công Đa, Xã Đạo Viện, Xã Trung Sơn",
-      "bT": "Nguyễn Anh Tuấn",
-      "dienTich": "7.681 km²",
-      "danSo": "3.254 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Công Đa, Xã Đạo Viện, Xã Trung Sơn",
+    "bT": "Nguyễn Anh Tuấn",
+    "dienTich": "7.681 km²",
+    "danSo": "3.254 người",
+    "matDo": "",
+    "tS": "Thôn Lâm Sơn, xã Trung Sơn, tỉnh Tuyên Quang"
   },
   "Trung Thịnh": {
-      "loai":"Xã",
-      "donViCu": "Xã Cốc Rế, Xã Thu Tà, Xã Trung Thịnh",
-      "bT": "Vương Đình Thuấn",
-      "dienTich": "7.211 km²",
-      "danSo": "12.277 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Cốc Rế, Xã Thu Tà, Xã Trung Thịnh",
+    "bT": "Vương Đình Thuấn",
+    "dienTich": "7.211 km²",
+    "danSo": "12.277 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Lùng Vai, xã Trung Thịnh, tỉnh Tuyên Quang"
   },
   "Trường Sinh": {
-      "loai":"Xã",
-      "donViCu": "Xã Đông Lợi, Xã Hào Phú, Xã Trường Sinh",
-      "bT": "Nguyễn Trung Kiên",
-      "dienTich": "5.336 km²",
-      "danSo": "17.615 người",
-      "matDo": "3 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Đông Lợi, Xã Hào Phú, Xã Trường Sinh",
+    "bT": "Nguyễn Trung Kiên",
+    "dienTich": "5.336 km²",
+    "danSo": "17.615 người",
+    "matDo": "3 người/km²",
+    "tS": "Thôn Thắng Lợi, xã Trường Sinh, tỉnh Tuyên Quang"
   },
   "Tùng Bá": {
-      "loai":"Xã",
-      "donViCu": "Tùng Bá",
-      "bT": "Triệu Sơn An",
-      "dienTich": "12.049 km²",
-      "danSo": "8.225 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Tùng Bá",
+    "bT": "Triệu Sơn An",
+    "dienTich": "12.049 km²",
+    "danSo": "8.225 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Hồng Tiến, xã Tùng Bá, tỉnh Tuyên Quang"
   },
   "Tùng Vài": {
-      "loai":"Xã",
-      "donViCu": "Xã Cao Mã Pờ, Xã Tả Ván, Xã Tùng Vài",
-      "bT": "Hạng Dương Thành",
-      "dienTich": "14.998 km²",
-      "danSo": "11.221 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Cao Mã Pờ, Xã Tả Ván, Xã Tùng Vài",
+    "bT": "Hạng Dương Thành",
+    "dienTich": "14.998 km²",
+    "danSo": "11.221 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Suối Vui, xã Tùng Vài, tỉnh Tuyên Quang"
   },
   "Vị Xuyên": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Nông trường Việt Lâm, Thị trấn Vị Xuyên, Xã Đạo Đức, Xã Việt Lâm",
-      "bT": "Đinh Thế Mạnh",
-      "dienTich": "8.044 km²",
-      "danSo": "23.898 người",
-      "matDo": "3 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Nông trường Việt Lâm, Thị trấn Vị Xuyên, Xã Đạo Đức, Xã Việt Lâm",
+    "bT": "Đinh Thế Mạnh",
+    "dienTich": "8.044 km²",
+    "danSo": "23.898 người",
+    "matDo": "3 người/km²",
+    "tS": "Tổ 2, xã Vị Xuyên, tỉnh Tuyên Quang"
   },
   "Việt Lâm": {
-      "loai":"Xã",
-      "donViCu": "Xã Quảng Ngần, Xã Việt Lâm",
-      "bT": "Hoàng Thị Thanh Huyền",
-      "dienTich": "9.266 km²",
-      "danSo": "6.419 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Quảng Ngần, Xã Việt Lâm",
+    "bT": "Hoàng Thị Thanh Huyền",
+    "dienTich": "9.266 km²",
+    "danSo": "6.419 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Hát, xã Việt Lâm, tỉnh Tuyên Quang"
   },
   "Vĩnh Tuy": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Vĩnh Tuy, Xã Đông Thành, Xã Vĩnh Hảo",
-      "bT": "Ngô Văn Hiếu",
-      "dienTich": "11.586 km²",
-      "danSo": "36.859 người",
-      "matDo": "3 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Vĩnh Tuy, Xã Đông Thành, Xã Vĩnh Hảo",
+    "bT": "Ngô Văn Hiếu",
+    "dienTich": "11.586 km²",
+    "danSo": "36.859 người",
+    "matDo": "3 người/km²",
+    "tS": "Tổ dân phố Phố Mới, xã Vĩnh Tuy, tỉnh Tuyên Quang"
   },
   "Xín Mần": {
-      "loai":"Xã",
-      "donViCu": "Xã Bản Díu, Xã Chí Cà, Xã Nàn Xỉn, Xã Thèn Phàng, Xã Xín Mần",
-      "bT": "Ngô Văn Tăng",
-      "dienTich": "12.524 km²",
-      "danSo": "19.596 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bản Díu, Xã Chí Cà, Xã Nàn Xỉn, Xã Thèn Phàng, Xã Xín Mần",
+    "bT": "Ngô Văn Tăng",
+    "dienTich": "12.524 km²",
+    "danSo": "19.596 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Xín Mần, xã Xín Mần, tỉnh Tuyên Quang"
   },
   "Xuân Giang": {
-      "loai":"Xã",
-      "donViCu": "Xã Nà Khương, Xã Xuân Giang",
-      "bT": "Trần Trung Thành",
-      "dienTich": "8.606 km²",
-      "danSo": "9.234 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Nà Khương, Xã Xuân Giang",
+    "bT": "Trần Trung Thành",
+    "dienTich": "8.606 km²",
+    "danSo": "9.234 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Chang, xã Xuân Giang, tỉnh Tuyên Quang"
   },
   "Xuân Vân": {
-      "loai":"Xã",
-      "donViCu": "Xã Phúc Ninh, Xã Trung Trực, Xã Xuân Vân",
-      "bT": "Lê Thị Hoa",
-      "dienTich": "10.425 km²",
-      "danSo": "1.902 người",
-      "matDo": ""
+    "loai": "Xã",
+    "donViCu": "Xã Phúc Ninh, Xã Trung Trực, Xã Xuân Vân",
+    "bT": "Lê Thị Hoa",
+    "dienTich": "10.425 km²",
+    "danSo": "1.902 người",
+    "matDo": "",
+    "tS": "Thôn Đô Thượng 2, xã Xuân Vân, tỉnh Tuyên Quang"
   },
   "Yên Cường": {
-      "loai":"Xã",
-      "donViCu": "Xã Phiêng Luông, Xã Yên Cường",
-      "bT": "Nông Văn Tuyến",
-      "dienTich": "11.690 km²",
-      "danSo": "9.741 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Phiêng Luông, Xã Yên Cường",
+    "bT": "Nông Văn Tuyến",
+    "dienTich": "11.690 km²",
+    "danSo": "9.741 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Bản Chung, xã Yên Cường, tỉnh Tuyên Quang"
   },
   "Yên Hoa": {
-      "loai":"Xã",
-      "donViCu": "Xã Khâu Tinh, Xã Yên Hoa",
-      "bT": "Nguyễn Thế Mạnh",
-      "dienTich": "14.383 km²",
-      "danSo": "7.323 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Khâu Tinh, Xã Yên Hoa",
+    "bT": "Nguyễn Thế Mạnh",
+    "dienTich": "14.383 km²",
+    "danSo": "7.323 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Tân Thành, xã Yên Hoa, tỉnh Tuyên Quang"
   },
   "Yên Lập": {
-      "loai":"Xã",
-      "donViCu": "Xã Bình Phú, Xã Yên Lập",
-      "bT": "Nguyễn Ngọc Hưng",
-      "dienTich": "6.905 km²",
-      "danSo": "29.678 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bình Phú, Xã Yên Lập",
+    "bT": "Nguyễn Ngọc Hưng",
+    "dienTich": "6.905 km²",
+    "danSo": "29.678 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn Tồng Mọoc, xã Yên Lập, tỉnh Tuyên Quang"
   },
   "Yên Minh": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Yên Minh, Xã Đông Minh, Xã Hữu Vinh, Xã Lao Và Chải, Xã Vần Chải",
-      "bT": "Hoàng Cừ",
-      "dienTich": "15.470 km²",
-      "danSo": "26.556 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Yên Minh, Xã Đông Minh, Xã Hữu Vinh, Xã Lao Và Chải, Xã Vần Chải",
+    "bT": "Hoàng Cừ",
+    "dienTich": "15.470 km²",
+    "danSo": "26.556 người",
+    "matDo": "2 người/km²",
+    "tS": "Tổ 4, xã Yên Minh, tỉnh Tuyên Quang"
   },
   "Yên Nguyên": {
-      "loai":"Xã",
-      "donViCu": "Xã Hòa Phú, Xã Yên Nguyên",
-      "bT": "Hà Thị Minh Quang",
-      "dienTich": "9.736 km²",
-      "danSo": "16.024 người",
-      "matDo": "2 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Hòa Phú, Xã Yên Nguyên",
+    "bT": "Hà Thị Minh Quang",
+    "dienTich": "9.736 km²",
+    "danSo": "16.024 người",
+    "matDo": "2 người/km²",
+    "tS": "Thôn Nhân Thọ 2, xã Yên Nguyên, tỉnh Tuyên Quang"
   },
   "Yên Phú": {
-      "loai":"Xã",
-      "donViCu": "Xã Yên Lâm, Xã Yên Phú",
-      "bT": "Nguyễn Văn Ước",
-      "dienTich": "4.261 km²",
-      "danSo": "14.964 người",
-      "matDo": "4 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Yên Lâm, Xã Yên Phú",
+    "bT": "Nguyễn Văn Ước",
+    "dienTich": "4.261 km²",
+    "danSo": "14.964 người",
+    "matDo": "4 người/km²",
+    "tS": "Thôn 6 Thống Nhất, xã Yên Phú, tỉnh Tuyên Quang"
   },
   "Yên Sơn": {
-      "loai":"Xã",
-      "donViCu": "Thị trấn Yên Sơn, Xã Chân Sơn, Xã Lang Quán, Xã Tứ Quận",
-      "bT": "Nguyễn Văn Thắng",
-      "dienTich": "3.586 km²",
-      "danSo": "21.196 người",
-      "matDo": "6 người/km²"
+    "loai": "Xã",
+    "donViCu": "Thị trấn Yên Sơn, Xã Chân Sơn, Xã Lang Quán, Xã Tứ Quận",
+    "bT": "Nguyễn Văn Thắng",
+    "dienTich": "3.586 km²",
+    "danSo": "21.196 người",
+    "matDo": "6 người/km²",
+    "tS": "Thôn Trầm Ân, xã Yên Sơn, tỉnh Tuyên Quang"
   },
   "Yên Thành": {
-      "loai":"Xã",
-      "donViCu": "Xã Bản Rịa, Xã Yên Thành",
-      "bT": "Chẳng Thị Liên",
-      "dienTich": "3.813 km²",
-      "danSo": "4.778 người",
-      "matDo": "1 người/km²"
+    "loai": "Xã",
+    "donViCu": "Xã Bản Rịa, Xã Yên Thành",
+    "bT": "Chẳng Thị Liên",
+    "dienTich": "3.813 km²",
+    "danSo": "4.778 người",
+    "matDo": "1 người/km²",
+    "tS": "Thôn Yên Thành, xã Yên Thành, tỉnh Tuyên Quang"
   }
+
 
   },
   "Vĩnh Long": {

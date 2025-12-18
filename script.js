@@ -77,7 +77,6 @@ fetch('data.json')
             { label: "Đơn vị cũ được sáp nhập:", value: info.donViCu, header: true },
             { label: "Diện tích:", value: info.dienTich },
             { label: "Dân số:", value: info.danSo },
-            { label: "Mật độ dân cư:", value: info.matDo },
             { label: "GRDP bình quân:", value: info.grdp },
             ...soLuongRows,
             { label: "Biển số xe:", value: info.bienSo }
@@ -123,7 +122,7 @@ fetch('data.json')
                     { label: "Đơn vị cũ được sáp nhập:", value: info.donViCu, header: true },
                     { label: "Diện tích:", value: info.dienTich },
                     { label: "Dân số:", value: info.danSo },
-                    { label: "Mật độ dân cư:", value: info.matDo },
+                    
                     { label: "GRDP bình quân:", value: info.grdp },
                     { label: "Số phường/xã:", value: info.soPhuongXa },
                     { label: "Biển số xe:", value: info.bienSo }
@@ -138,7 +137,7 @@ fetch('data.json')
                     { label: "Đơn vị cũ được sáp nhập:", value: detail.donViCu || "", header: true },
                     { label: "Diện tích:", value: detail.dienTich || "" },
                     { label: "Dân số:", value: detail.danSo || "" },
-                    { label: "Mật độ dân cư:", value: detail.matDo || "" },
+                    
                     { label: "Trụ sở hành chính (mới):", value: detail.tS || "" }
                   ]);
                 } else {
@@ -206,7 +205,7 @@ fetch('data.json')
             { label: "Đơn vị cũ được sáp nhập:", value: info.donViCu, header: true },
             { label: "Diện tích:", value: info.dienTich },
             { label: "Dân số:", value: info.danSo },
-            { label: "Mật độ dân cư:", value: info.matDo },
+            
             { label: "GRDP bình quân:", value: info.grdp },
             ...soLuongRows,
             { label: "Biển số xe:", value: info.bienSo }
@@ -222,7 +221,7 @@ fetch('data.json')
             { label: "Chủ tịch UBND:", value: detail.cT || ""},
             { label: "Diện tích:", value: detail.dienTich || "" },
             { label: "Dân số:", value: detail.danSo || "" },
-            { label: "Mật độ dân cư:", value: detail.matDo || "" },
+            
             { label: "Trụ sở hành chính (mới):", value: detail.tS || "" }
           ]);
         } else {
